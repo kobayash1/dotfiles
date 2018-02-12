@@ -1,0 +1,121 @@
+conky.config = {
+
+	use_xft = true,
+	font = 'Noto Sans CJK JP:size=10',
+	xftalpha = 0.1,
+	update_interval = 2,
+	total_run_times = 0,
+	own_window = true,
+	own_window_type = 'normal',
+	own_window_argb_visual = true,
+	own_window_argb_value = 0,
+	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
+	double_buffer = true,
+	max_text_width = 0,
+	minimum_width = 250,
+	maximum_width = 250,
+	draw_shades = false,
+	draw_outline = false,
+	draw_borders = false,
+	draw_graph_borders = false,
+	default_color = 'DimGray',
+	default_shade_color = 'red',
+	default_outline_color = 'green',
+	alignment = 'top_right',
+	gap_x = 25,
+	gap_y = 25,
+	no_buffers = false,
+	uppercase = false,
+	cpu_avg_samples = 2,
+	net_avg_samples = 1,
+	override_utf8_locale = true,
+	text_buffer_size = 1024,
+	color1 = '3DAEE9',
+	color2 = 'orange',
+	color3 = 'ADFF2F',
+	color4 = '1793D1',
+	temperature_unit = 'fahrenheit',
+	if_up_strictness = 'address'
+
+}
+
+conky.text = [[
+# System Information #
+${color1}System$color $hr
+$sysname}$alignr ${kernel}-${machine}
+File System $alignr ${fs_type /home}
+Uptime $alignr ${uptime}
+# CPU 1, 2, 3, and 4 Frequency, Temp, and Load #
+${color1}Processing$color $hr
+Core ${goto 60}Freq (GHz)${goto 150}Temp (°F) $alignr Load
+${if_existing /sys/devices/platform/coretemp.0/hwmon/hwmon0/temp1_input}1  ${goto 60}${freq_g cpu1}${goto 150}${platform coretemp.0/hwmon/hwmon0 temp 2}°C $alignr ${cpu cpu1}%
+2  ${goto 60}${freq_g cpu2}${goto 150}${platform coretemp.0/hwmon/hwmon0 temp 3} $alignr ${cpu cpu2}%
+3  ${goto 60}${freq_g cpu3}${goto 150}${platform coretemp.0/hwmon/hwmon0 temp 4} $alignr ${cpu cpu3}%
+4  ${goto 60}${freq_g cpu4}${goto 150}${platform coretemp.0/hwmon/hwmon0 temp 5} $alignr ${cpu cpu4}%${endif}${if_existing /sys/devices/platform/coretemp.0/hwmon/hwmon1/temp1_input}1  ${goto 60}${freq_g cpu1}${goto 150}${platform coretemp.0/hwmon/hwmon1 temp 2}temp $alignr ${cpu cpu1}%
+2  ${goto 60}${freq_g cpu2}${goto 150}${platform coretemp.0/hwmon/hwmon1 temp 3} $alignr ${cpu cpu2}%
+3  ${goto 60}${freq_g cpu3}${goto 150}${platform coretemp.0/hwmon/hwmon1 temp 4} $alignr ${cpu cpu3}%
+4  ${goto 60}${freq_g cpu4}${goto 150}${platform coretemp.0/hwmon/hwmon1 temp 5} $alignr ${cpu cpu4}%${endif}${if_existing /sys/devices/platform/coretemp.0/hwmon/hwmon2/temp1_input}1  ${goto 60}${freq_g cpu1}${goto 150}${platform coretemp.0/hwmon/hwmon2 temp 2} $alignr ${cpu cpu1}%
+2  ${goto 60}${freq_g cpu2}${goto 150}${platform coretemp.0/hwmon/hwmon2 temp 3} $alignr ${cpu cpu2}%
+3  ${goto 60}${freq_g cpu3}${goto 150}${platform coretemp.0/hwmon/hwmon2 temp 4} $alignr ${cpu cpu3}%
+4  ${goto 60}${freq_g cpu4}${goto 150}${platform coretemp.0/hwmon/hwmon2 temp 5} $alignr ${cpu cpu4}%${endif}${if_existing /sys/devices/platform/coretemp.0/hwmon/hwmon3/temp1_input}1  ${goto 60}${freq_g cpu1}${goto 150}${platform coretemp.0/hwmon/hwmon3 temp 2} $alignr ${cpu cpu1}%
+2  ${goto 60}${freq_g cpu2}${goto 150}${platform coretemp.0/hwmon/hwmon3 temp 3} $alignr ${cpu cpu2}%
+3  ${goto 60}${freq_g cpu3}${goto 150}${platform coretemp.0/hwmon/hwmon3 temp 4} $alignr ${cpu cpu3}%
+4  ${goto 60}${freq_g cpu4}${goto 150}${platform coretemp.0/hwmon/hwmon3 temp 5} $alignr ${cpu cpu4}%${endif}
+GPU ${goto 60}${nvidia gpufreqcur} MHz ${goto 150}${nvidia gputemp}°C $alignr ${nvidia gpuutil}%
+# Fan stats #
+${color1}Fans$color $hr 
+${if_existing /sys/devices/platform/nct6775.656/hwmon/hwmon0/fan1_input}CPU $alignr ${platform nct6775.656/hwmon/hwmon0 fan 2} 
+Front Intake $alignr ${platform nct6775.656/hwmon/hwmon0 fan 3} 
+Rear Exhaust $alignr ${platform nct6775.656/hwmon/hwmon0 fan 4} 
+Top Exhaust $alignr ${platform nct6775.656/hwmon/hwmon0 fan 1} ${endif}${if_existing /sys/devices/platform/nct6775.656/hwmon/hwmon1/fan1_input}CPU $alignr ${platform nct6775.656/hwmon/hwmon1 fan 2} 
+Front Intake $alignr ${platform nct6775.656/hwmon/hwmon1 fan 3} 
+Rear Exhaust $alignr ${platform nct6775.656/hwmon/hwmon1 fan 4} 
+Top Exhaust $alignr ${platform nct6775.656/hwmon/hwmon1 fan 1} ${endif}${if_existing /sys/devices/platform/nct6775.656/hwmon/hwmon2/fan1_input}CPU $alignr ${platform nct6775.656/hwmon/hwmon2 fan 2} 
+Front Intake $alignr ${platform nct6775.656/hwmon/hwmon2 fan 3} 
+Rear Exhaust $alignr ${platform nct6775.656/hwmon/hwmon2 fan 4} 
+Top Exhaust $alignr ${platform nct6775.656/hwmon/hwmon2 fan 1} ${endif}${if_existing /sys/devices/platform/nct6775.656/hwmon/hwmon3/fan1_input}CPU $alignr ${platform nct6775.656/hwmon/hwmon3 fan 2} 
+Front Intake $alignr ${platform nct6775.656/hwmon/hwmon3 fan 3} 
+Rear Exhaust $alignr ${platform nct6775.656/hwmon/hwmon3 fan 4} 
+Top Exhaust $alignr ${platform nct6775.656/hwmon/hwmon3 fan 1} ${endif}
+# RAM stats #
+${color1}Memory$color $hr
+RAM $alignr ${mem} / ${memmax}
+Video RAM $alignr ${nvidia mem}MiB / ${nvidia memtotal}MiB
+# HDD stats #
+${color1}Storage$color $hr
+/ $alignr ${fs_used /} / ${fs_size /}
+/home $alignr ${fs_used /home} / ${fs_size /home}
+I/O $alignr ${diskio /dev/sdb}
+# Network stats #
+${color1}Network$color $hr
+${if_up eno1}Interface $alignr eno1
+Local IP $alignr ${addr eno1}
+Up${goto 60}${upspeedgraph eno1 25,140 000000 00BB00 -l -t}${alignr}${upspeed eno1} 
+Down${goto 60}${downspeedgraph eno1 25,140 000000 BB0000 -l -t}${alignr}${downspeed eno1}${endif}${if_up wlp6s0}Interface $alignr wlp6s0
+Local IP $alignr ${addr wlp6s0}
+Up${goto 60}${upspeedgraph wlp6s0 25,140 000000 00BB00 -l -t}${alignr}${upspeed wlp6s0} 
+Down${goto 60}${downspeedgraph wlp6s0 25,140 000000 BB0000 -l -t}${alignr}${downspeed wlp6s0}${endif}
+# Processes #
+${color1}Processes$color $hr
+$alignr Processing
+${top name 1} $alignr ${top cpu 1}%
+${top name 2} $alignr ${top cpu 2}%
+${top name 3} $alignr ${top cpu 3}%
+${top name 4} $alignr ${top cpu 4}%
+${top name 5} $alignr ${top cpu 5}%
+$alignr Memory
+${top_mem name 1} $alignr ${top_mem mem 1}%
+${top_mem name 2} $alignr ${top_mem mem 2}%
+${top_mem name 3} $alignr ${top_mem mem 3}%
+${top_mem name 4} $alignr ${top_mem mem 4}%
+${top_mem name 5} $alignr ${top_mem mem 5}%
+# mpd #
+${color1}Now Playing$color $hr
+${mpd_smart}
+# Arch Linux News #
+${color1}Arch News$color $hr
+${rss https://www.archlinux.org/feeds/news/ 60 item_titles 1}
+# Weather #
+${color1}Weather$color $hr
+NOAA report as of ${weather http://tgftp.nws.noaa.gov/data/observations/metar/stations/ KORD last_update}$alignr${weather http://tgftp.nws.noaa.gov/data/observations/metar/stations/ KORD temperature}°F
+]]
