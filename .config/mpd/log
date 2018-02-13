@@ -10069,3 +10069,12 @@ Feb 13 16:09 : client: [34] closed
 Feb 13 16:09 : client: [37] opened from 127.0.0.1:37582
 Feb 13 16:10 : client: [37] closed
 Feb 13 16:10 : client: [38] opened from 127.0.0.1:37592
+Feb 13 16:11 : client: [39] opened from [::1]:47716
+Feb 13 16:11 : client: [39] closed
+Feb 13 16:11 : client: [40] opened from [::1]:47718
+Feb 13 16:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 16:11 : client: [40] closed
+Feb 13 16:11 : client: [41] opened from [::1]:47720
+Feb 13 16:11 : client: [41] closed
+Feb 13 16:14 : player: played "K-Pop/9muses/02 - Wild(와일드).mp3"
+Feb 13 16:18 : player: played "K-Pop/GOT7/If You Do.mp3"
