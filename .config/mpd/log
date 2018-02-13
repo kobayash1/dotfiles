@@ -9962,3 +9962,110 @@ Feb 11 23:19 : player: played "K-Pop/KARD/Hola Hola/07 - KARD - Oh NaNa (Inst.).
 Feb 11 23:19 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
 Feb 11 23:22 : player: played "K-Pop/Crayon Pop/Crayon Pop 1st Mini Album/05 - Saturday Night (Dubstep Mix).mp3"
 Feb 11 23:26 : player: played "K-Pop/Up10tion/업텐션 (UP10TION)-01-미치게 해 (Going Crazy).mp3"
+Feb 12 00:54 : player: played "K-Pop/LaBoum/라붐(LABOUM)-01-어떡할래.mp3"
+Feb 12 08:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 08:31 : avahi: Service 'Music Player' successfully established.
+Feb 12 08:33 : client: [0] opened from 127.0.0.1:53694
+Feb 12 08:33 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 12 09:00 : avahi: Client Disconnected, will reconnect shortly
+Feb 12 09:00 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 12 09:00 : player: played "K-Pop/LaBoum/라붐(LABOUM)-01-어떡할래.mp3"
+Feb 12 12:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 12:44 : avahi: Service 'Music Player' successfully established.
+Feb 12 12:44 : client: [0] opened from 127.0.0.1:58636
+Feb 12 12:44 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 12 14:07 : player: played "K-Pop/LaBoum/라붐(LABOUM)-01-어떡할래.mp3"
+Feb 12 23:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 12 23:27 : avahi: Service 'Music Player' successfully established.
+Feb 12 23:27 : client: [0] opened from 127.0.0.1:47052
+Feb 12 23:27 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 13 01:15 : player: played "K-Pop/LaBoum/라붐(LABOUM)-01-어떡할래.mp3"
+Feb 13 14:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 14:09 : avahi: Service 'Music Player' successfully established.
+Feb 13 14:09 : client: [0] opened from 127.0.0.1:60920
+Feb 13 14:09 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 13 15:26 : client: [0] closed
+Feb 13 15:26 : client: [1] opened from 127.0.0.1:37086
+Feb 13 15:27 : client: [1] closed
+Feb 13 15:27 : client: [2] opened from 127.0.0.1:37092
+Feb 13 15:31 : client: [2] closed
+Feb 13 15:31 : client: [3] opened from 127.0.0.1:37136
+Feb 13 15:31 : client: [4] opened from [::1]:47254
+Feb 13 15:31 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 15:31 : client: [4] closed
+Feb 13 15:31 : client: [5] opened from [::1]:47256
+Feb 13 15:31 : client: [5] closed
+Feb 13 15:31 : client: [3] closed
+Feb 13 15:32 : client: [6] opened from 127.0.0.1:37146
+Feb 13 15:33 : client: [7] opened from [::1]:47266
+Feb 13 15:33 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 15:33 : client: [7] closed
+Feb 13 15:33 : client: [8] opened from [::1]:47268
+Feb 13 15:33 : client: [8] closed
+Feb 13 15:33 : client: [6] closed
+Feb 13 15:33 : client: [9] opened from 127.0.0.1:37158
+Feb 13 15:38 : client: [9] closed
+Feb 13 15:38 : client: [10] opened from 127.0.0.1:37182
+Feb 13 15:38 : client: [11] opened from [::1]:47298
+Feb 13 15:38 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 15:38 : client: [11] closed
+Feb 13 15:38 : client: [12] opened from [::1]:47302
+Feb 13 15:38 : client: [12] closed
+Feb 13 15:38 : client: [10] closed
+Feb 13 15:38 : client: [13] opened from 127.0.0.1:37192
+Feb 13 15:46 : client: [14] opened from [::1]:47444
+Feb 13 15:46 : client: [14] closed
+Feb 13 15:46 : client: [15] opened from [::1]:47446
+Feb 13 15:46 : client: [15] closed
+Feb 13 15:46 : client: [16] opened from [::1]:47448
+Feb 13 15:46 : client: [16] closed
+Feb 13 15:48 : client: [17] opened from [::1]:47452
+Feb 13 15:48 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 15:48 : client: [17] closed
+Feb 13 15:48 : client: [18] opened from [::1]:47454
+Feb 13 15:48 : client: [18] closed
+Feb 13 15:50 : client: [19] opened from [::1]:47460
+Feb 13 15:50 : client: [19] closed
+Feb 13 15:52 : client: [13] closed
+Feb 13 15:52 : client: [20] opened from 127.0.0.1:37364
+Feb 13 15:53 : client: [20] closed
+Feb 13 15:53 : client: [21] opened from 127.0.0.1:37370
+Feb 13 15:54 : client: [21] closed
+Feb 13 15:57 : client: [22] opened from 127.0.0.1:37460
+Feb 13 15:57 : client: [22] closed
+Feb 13 16:01 : client: [23] opened from 127.0.0.1:37468
+Feb 13 16:01 : client: [24] opened from [::1]:47586
+Feb 13 16:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 16:01 : client: [24] closed
+Feb 13 16:01 : client: [25] opened from [::1]:47588
+Feb 13 16:01 : client: [25] closed
+Feb 13 16:01 : client: [23] closed
+Feb 13 16:02 : client: [26] opened from 127.0.0.1:37478
+Feb 13 16:02 : client: [27] opened from [::1]:47596
+Feb 13 16:02 : client: [27] closed
+Feb 13 16:02 : client: [28] opened from [::1]:47598
+Feb 13 16:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 16:02 : client: [28] closed
+Feb 13 16:02 : client: [29] opened from [::1]:47600
+Feb 13 16:02 : client: [29] closed
+Feb 13 16:02 : client: [30] opened from [::1]:47602
+Feb 13 16:02 : client: [30] closed
+Feb 13 16:02 : client: [31] opened from [::1]:47604
+Feb 13 16:02 : client: [31] closed
+Feb 13 16:03 : client: [26] closed
+Feb 13 16:03 : client: [32] opened from 127.0.0.1:37494
+Feb 13 16:04 : client: [32] closed
+Feb 13 16:06 : client: [33] opened from 127.0.0.1:37550
+Feb 13 16:06 : player: played "K-Pop/Tiffany/01 - I Just Wanna Dance.mp3"
+Feb 13 16:06 : client: [33] closed
+Feb 13 16:08 : client: [34] opened from 127.0.0.1:37566
+Feb 13 16:08 : client: [35] opened from [::1]:47684
+Feb 13 16:08 : client: [35] closed
+Feb 13 16:08 : client: [36] opened from [::1]:47686
+Feb 13 16:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 16:08 : client: [36] closed
+Feb 13 16:09 : player: played "K-Pop/Niel/니엘-02-날 울리지마 (Feat. 자이언트핑크).mp3"
+Feb 13 16:09 : client: [34] closed
+Feb 13 16:09 : client: [37] opened from 127.0.0.1:37582
+Feb 13 16:10 : client: [37] closed
+Feb 13 16:10 : client: [38] opened from 127.0.0.1:37592

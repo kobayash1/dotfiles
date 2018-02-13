@@ -44,8 +44,9 @@ font-3 = "Font Awesome 5 Free:syle=Solid:size=10;1"
 font-4 = "Font Awesome 5 Brands:size=10;1"
 font-5 = Ionicons:size=12;1
 
-modules-left = i3 xwindow
-modules-center = mpd
+modules-left = i3 music
+# modules-center = mpd
+modules-center = xwindow
 modules-right = archupdates cpu actualtemp weather datecal redshift
 
 tray-position = right
@@ -145,6 +146,21 @@ label-song-ellipsis = true
 label-song-padding = 1
 icon-prev-padding = 2
 icon-next-padding = 2
+
+[module/music]
+type = internal/mpd
+
+host = 127.0.0.1
+port = 6600
+
+interval = 2
+
+format-online = %{A1:mpc prev:}%{A2:mpc toggle:}%{A3:mpc next:}<label-song>%{A}%{A}%{A}
+
+label-song = %title%
+label-song-padding = 1
+
+label = "%output:0:45:...%"
 
 [module/cpu]
 type = internal/cpu
