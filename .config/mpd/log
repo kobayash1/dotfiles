@@ -10540,3 +10540,29 @@ Feb 13 23:19 : player: played "K-Pop/Luna/Free Somebody/01 - Luna - Free Somebod
 Feb 13 23:19 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
 Feb 13 23:20 : client: [161] opened from 127.0.0.1:60866
 Feb 13 23:20 : client: [161] closed
+Feb 13 23:20 : client: [162] opened from 127.0.0.1:60872
+Feb 13 23:23 : client: [162] closed
+Feb 13 23:23 : client: [163] opened from 127.0.0.1:60882
+Feb 13 23:23 : client: [163] closed
+Feb 13 23:23 : player: played "K-Pop/P.O.P/P.O.P (피오피)-02-애타게 GET하게.mp3"
+Feb 13 23:23 : client: [164] opened from [::1]:56876
+Feb 13 23:23 : client: [164] closed
+Feb 13 23:23 : client: [165] opened from [::1]:56878
+Feb 13 23:23 : client: [165] closed
+Feb 13 23:23 : client: [166] opened from [::1]:56880
+Feb 13 23:23 : client: [166] closed
+Feb 13 23:24 : client: [167] opened from 127.0.0.1:60894
+Feb 13 23:24 : client: [167] closed
+Feb 13 23:25 : client: [168] opened from 127.0.0.1:60900
+Feb 13 23:27 : player: played "K-Pop/SHINee/샤이니 (SHINee)-02-Ring Ding Dong.mp3"
+Feb 13 23:31 : player: played "K-Pop/TWICE/TWICE (트와이스)-01-OOH-AHH하게.mp3"
+Feb 13 23:35 : player: played "K-Pop/Super Junior/슈퍼주니어-01-쏘리 쏘리 (Sorry, Sorry).mp3"
+Feb 13 23:35 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:35 : client: [169] opened from [::1]:57706
+Feb 13 23:35 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:35 : client: [169] closed
+Feb 13 23:35 : client: [170] opened from [::1]:57708
+Feb 13 23:35 : client: [170] closed
+Feb 13 23:38 : player: played "K-Pop/Hyuna/현아 (HyunA)-02-베베 (BABE).mp3"
+Feb 13 23:41 : player: played "K-Pop/SF9/SF9-02-오솔레미오 (O Sole Mio).mp3"
+Feb 13 23:45 : player: played "K-Pop/Momoland/01 - BBoom BBoom.mp3"
