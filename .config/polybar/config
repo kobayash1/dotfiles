@@ -39,14 +39,9 @@ module-margin-right = 1
 
 font-0 = Hack:size=10;1
 font-1 = Noto Sans CJK TC,Noto Sans CJK TC Thin:size=10;1
-font-2 = "FontAwesome:style=Regular:size=10;1"
-font-3 = "Font Awesome 5 Free:syle=Solid:size=10;1"
-font-4 = "Font Awesome 5 Brands:size=10;1"
-font-5 = Ionicons:size=12;1
-font-6 = Wuncon Siji:size=20;1
+font-2 = Font Awesome 5 Free:style=Solid:size=10;1
 
 modules-left = i3 music
-# modules-center = mpd
 modules-center = xwindow
 modules-right = archupdates cpu actualtemp weather datecal redshift
 

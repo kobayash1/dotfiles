@@ -10137,3 +10137,218 @@ Feb 13 19:23 : client: [11] closed
 Feb 13 19:25 : client: [12] opened from 127.0.0.1:48250
 Feb 13 19:25 : player: played "K-Pop/Luna/Free Somebody/06 - Luna - My Medicine.flac"
 Feb 13 19:25 : client: [12] closed
+Feb 13 19:26 : client: [13] opened from 127.0.0.1:48264
+Feb 13 19:26 : client: [14] opened from [::1]:44258
+Feb 13 19:26 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 19:26 : client: [14] closed
+Feb 13 19:26 : client: [15] opened from [::1]:44260
+Feb 13 19:26 : client: [15] closed
+Feb 13 19:29 : player: played "K-Pop/BTS/방탄소년단-10-불타오르네 (FIRE).mp3"
+Feb 13 19:33 : player: played "K-Pop/Minzy/공민지-02-Superwoman (수퍼우먼).mp3"
+Feb 13 19:37 : player: played "K-Pop/BTS/05 - Dope.mp3"
+Feb 13 19:40 : player: played "K-Pop/Primary/프라이머리-07-밤꽃 (Night Flower) (Feat. 카더가든).mp3"
+Feb 13 19:43 : player: played "K-Pop/GOT7/GOT7 (갓세븐)-01-Never Ever.mp3"
+Feb 13 19:43 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 19:44 : client: [16] opened from [::1]:44736
+Feb 13 19:44 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 19:44 : client: [16] closed
+Feb 13 19:48 : player: played "K-Pop/Jinusean/지누션-01-한번 더 말해줘 (Feat. 장한나).mp3"
+Feb 13 19:51 : player: played "K-Pop/SHINee/07 - SHIFT.mp3"
+Feb 13 19:54 : player: played "K-Pop/Ladies Code/레이디스 코드-02-The Rain.mp3"
+Feb 13 19:55 : client: [17] opened from [::1]:44992
+Feb 13 19:55 : client: [17] closed
+Feb 13 19:55 : client: [18] opened from [::1]:44994
+Feb 13 19:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 19:55 : client: [18] closed
+Feb 13 19:58 : player: played "K-Pop/Zico/지코 (ZICO)-03-ANTI (Feat. G.Soul).mp3"
+Feb 13 20:01 : client: [19] opened from [::1]:46142
+Feb 13 20:01 : client: [19] closed
+Feb 13 20:01 : client: [20] opened from [::1]:46154
+Feb 13 20:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:01 : client: [20] closed
+Feb 13 20:01 : client: [21] opened from [::1]:46160
+Feb 13 20:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:01 : client: [21] closed
+Feb 13 20:01 : client: [22] opened from [::1]:46162
+Feb 13 20:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:01 : client: [22] closed
+Feb 13 20:01 : client: [23] opened from [::1]:46172
+Feb 13 20:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:01 : client: [23] closed
+Feb 13 20:05 : player: played "K-Pop/Infinite/02 - Bad.mp3"
+Feb 13 20:08 : player: played "K-Pop/KNK/02 - U.mp3"
+Feb 13 20:08 : client: [24] opened from [::1]:47666
+Feb 13 20:08 : client: [24] closed
+Feb 13 20:08 : client: [25] opened from [::1]:47668
+Feb 13 20:08 : client: [25] closed
+Feb 13 20:09 : client: [26] opened from [::1]:47670
+Feb 13 20:09 : client: [26] closed
+Feb 13 20:12 : player: played "K-Pop/MASC/마스크 (MASC)-02-정주행 (Run To You).mp3"
+Feb 13 20:14 : client: [27] opened from [::1]:47814
+Feb 13 20:14 : client: [27] closed
+Feb 13 20:14 : client: [28] opened from [::1]:47818
+Feb 13 20:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:14 : client: [28] closed
+Feb 13 20:15 : player: played "K-Pop/Pristin/02 - WEE WOO.mp3"
+Feb 13 20:19 : client: [29] opened from [::1]:48274
+Feb 13 20:19 : client: [29] closed
+Feb 13 20:30 : client: [30] opened from [::1]:48364
+Feb 13 20:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:30 : client: [30] closed
+Feb 13 20:30 : player: played "K-Pop/Hyuna/01 - U & Me.mp3"
+Feb 13 20:33 : client: [31] opened from [::1]:48978
+Feb 13 20:33 : client: [31] closed
+Feb 13 20:34 : client: [32] opened from [::1]:49008
+Feb 13 20:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:34 : client: [32] closed
+Feb 13 20:34 : player: played "K-Pop/Awesome baby/어썸 베이비-01-내가 왜_.mp3"
+Feb 13 20:38 : player: played "K-Pop/f(x)/4 Walls - The 4th Album/01 - 4 Walls.mp3"
+Feb 13 20:38 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:38 : client: [33] opened from [::1]:49150
+Feb 13 20:38 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:38 : client: [33] closed
+Feb 13 20:38 : client: [34] opened from [::1]:49276
+Feb 13 20:38 : client: [34] closed
+Feb 13 20:41 : player: played "K-Pop/MASC/마스크 (MASC)-01-낯설어 (Strange).mp3"
+Feb 13 20:43 : client: [35] opened from [::1]:51398
+Feb 13 20:43 : client: [35] closed
+Feb 13 20:43 : client: [36] opened from [::1]:51400
+Feb 13 20:43 : client: [36] closed
+Feb 13 20:43 : client: [37] opened from [::1]:51402
+Feb 13 20:43 : client: [37] closed
+Feb 13 20:47 : client: [38] opened from [::1]:51682
+Feb 13 20:47 : client: [38] closed
+Feb 13 20:47 : client: [39] opened from [::1]:51684
+Feb 13 20:47 : player: played "K-Pop/Oh My Girl/Cupid.mp3"
+Feb 13 20:47 : client: [39] closed
+Feb 13 20:47 : client: [40] opened from [::1]:51686
+Feb 13 20:47 : client: [40] closed
+Feb 13 20:47 : client: [41] opened from [::1]:51688
+Feb 13 20:47 : exception: Failed to open /home/kobayashi/.config/mpd/playlists/newkpop.m3u: No such file or directory
+Feb 13 20:47 : exception: No such playlist
+Feb 13 20:47 : client: [41] closed
+Feb 13 20:47 : client: [42] opened from [::1]:51690
+Feb 13 20:47 : client: [42] closed
+Feb 13 20:47 : client: [43] opened from [::1]:51694
+Feb 13 20:47 : client: [43] closed
+Feb 13 20:47 : client: [44] opened from [::1]:51696
+Feb 13 20:47 : client: [44] closed
+Feb 13 20:47 : client: [45] opened from [::1]:51698
+Feb 13 20:47 : client: [45] closed
+Feb 13 20:47 : client: [46] opened from [::1]:51700
+Feb 13 20:47 : client: [46] closed
+Feb 13 20:47 : client: [47] opened from [::1]:51702
+Feb 13 20:47 : client: [47] closed
+Feb 13 20:48 : client: [48] opened from [::1]:51704
+Feb 13 20:48 : client: [48] closed
+Feb 13 20:48 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:51 : player: played "K-Pop/Momoland/01 - BBoom BBoom.mp3"
+Feb 13 20:52 : client: [49] opened from 127.0.0.1:56050
+Feb 13 20:52 : client: [49] closed
+Feb 13 20:52 : client: [50] opened from [::1]:52040
+Feb 13 20:52 : client: [50] closed
+Feb 13 20:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:53 : client: [51] opened from [::1]:52046
+Feb 13 20:53 : client: [51] closed
+Feb 13 20:55 : player: played "K-Pop/Momoland/01 - BBoom BBoom.mp3"
+Feb 13 20:56 : client: [52] opened from [::1]:52080
+Feb 13 20:56 : client: [52] closed
+Feb 13 20:56 : client: [53] opened from [::1]:52082
+Feb 13 20:56 : client: [53] closed
+Feb 13 20:56 : client: [54] opened from [::1]:52084
+Feb 13 20:56 : client: [54] closed
+Feb 13 20:56 : client: [55] opened from [::1]:52086
+Feb 13 20:56 : client: [55] closed
+Feb 13 20:56 : client: [56] opened from [::1]:52088
+Feb 13 20:56 : client: [56] closed
+Feb 13 20:56 : client: [57] opened from [::1]:52090
+Feb 13 20:56 : client: [57] closed
+Feb 13 20:56 : client: [58] opened from [::1]:52092
+Feb 13 20:56 : client: [58] closed
+Feb 13 20:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:57 : client: [59] opened from [::1]:52512
+Feb 13 20:57 : client: [59] closed
+Feb 13 20:58 : client: [60] opened from [::1]:52514
+Feb 13 20:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:58 : client: [60] closed
+Feb 13 20:58 : client: [61] opened from [::1]:52516
+Feb 13 20:58 : client: [61] closed
+Feb 13 20:58 : client: [62] opened from [::1]:52518
+Feb 13 20:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:58 : client: [62] closed
+Feb 13 20:58 : client: [63] opened from [::1]:52520
+Feb 13 20:58 : client: [63] closed
+Feb 13 20:58 : client: [64] opened from [::1]:52522
+Feb 13 20:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:58 : client: [64] closed
+Feb 13 20:58 : client: [65] opened from [::1]:52524
+Feb 13 20:58 : client: [65] closed
+Feb 13 20:58 : client: [66] opened from [::1]:52526
+Feb 13 20:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 20:58 : client: [66] closed
+Feb 13 20:58 : client: [67] opened from [::1]:52536
+Feb 13 20:58 : client: [67] closed
+Feb 13 21:03 : client: [68] opened from [::1]:52566
+Feb 13 21:03 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:03 : client: [68] closed
+Feb 13 21:04 : player: played "YOX/03 - Stampede.mp3"
+Feb 13 21:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:07 : client: [13] closed
+Feb 13 21:08 : client: [69] opened from 127.0.0.1:56656
+Feb 13 21:08 : player: played "K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/02 - 나인뮤지스 - 기억해.flac"
+Feb 13 21:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:08 : client: [70] opened from [::1]:52650
+Feb 13 21:08 : client: [70] closed
+Feb 13 21:09 : client: [69] closed
+Feb 13 21:10 : client: [71] opened from 127.0.0.1:56666
+Feb 13 21:11 : client: [71] closed
+Feb 13 21:11 : client: [72] opened from 127.0.0.1:56674
+Feb 13 21:11 : player: played "K-Pop/Sunmi/선미-01-가시나.mp3"
+Feb 13 21:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:12 : client: [72] closed
+Feb 13 21:12 : client: [73] opened from 127.0.0.1:56680
+Feb 13 21:13 : client: [73] closed
+Feb 13 21:13 : client: [74] opened from [::1]:52674
+Feb 13 21:13 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:13 : client: [74] closed
+Feb 13 21:13 : client: [75] opened from [::1]:52676
+Feb 13 21:13 : client: [75] closed
+Feb 13 21:13 : client: [76] opened from [::1]:52678
+Feb 13 21:13 : client: [76] closed
+Feb 13 21:13 : client: [77] opened from [::1]:52680
+Feb 13 21:13 : client: [77] closed
+Feb 13 21:13 : client: [78] opened from [::1]:52682
+Feb 13 21:13 : client: [78] closed
+Feb 13 21:13 : client: [79] opened from [::1]:52684
+Feb 13 21:13 : client: [79] closed
+Feb 13 21:13 : client: [80] opened from [::1]:52686
+Feb 13 21:13 : client: [80] closed
+Feb 13 21:13 : client: [81] opened from [::1]:52688
+Feb 13 21:13 : player: played "K-Pop/Gugudan/구구단 (gugudan)-01-Chococo.mp3"
+Feb 13 21:13 : client: [81] closed
+Feb 13 21:13 : client: [82] opened from [::1]:52690
+Feb 13 21:13 : client: [82] closed
+Feb 13 21:13 : client: [83] opened from [::1]:52692
+Feb 13 21:13 : client: [83] closed
+Feb 13 21:13 : client: [84] opened from [::1]:52694
+Feb 13 21:13 : client: [84] closed
+Feb 13 21:13 : client: [85] opened from [::1]:52696
+Feb 13 21:13 : client: [85] closed
+Feb 13 21:13 : client: [86] opened from [::1]:52698
+Feb 13 21:13 : client: [86] closed
+Feb 13 21:13 : client: [87] opened from [::1]:52700
+Feb 13 21:13 : client: [87] closed
+Feb 13 21:14 : client: [88] opened from [::1]:52702
+Feb 13 21:14 : client: [88] closed
+Feb 13 21:14 : client: [89] opened from [::1]:52704
+Feb 13 21:14 : client: [89] closed
+Feb 13 21:14 : client: [90] opened from [::1]:52706
+Feb 13 21:14 : client: [90] closed
+Feb 13 21:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:14 : client: [91] opened from 127.0.0.1:56720
+Feb 13 21:15 : client: [91] closed
+Feb 13 21:17 : player: played "K-Pop/Luna/Free Somebody/01 - Luna - Free Somebody.flac"
+Feb 13 21:17 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:17 : client: [92] opened from 127.0.0.1:56730
+Feb 13 21:18 : client: [92] closed
+Feb 13 21:18 : client: [93] opened from 127.0.0.1:56736
