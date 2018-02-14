@@ -192,7 +192,7 @@ exec_always --no-startup-id xbindkeys
 exec --no-startup-id "redshift -l 41.97959:-87.90446"
 
 # Remove titlebar
-new_window pixel 3
+new_window pixel 2
 
 # Focus does not follow mouse
 focus_follows_mouse no
@@ -203,3 +203,12 @@ bindsym $mod+z scratchpad show
 
 # custom keybinding to lockscreen, use --lock dim or --lock blur below for different backgrounds
 bindsym $mod+shift+x exec betterlockscreen --lock dimblur
+
+# class                 border  backgr. text    indicator child_border
+client.focused          #4c7899 #285577 #ffffff #2e9ef4   #dfdfdf
+client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
+client.unfocused        #333333 #222222 #888888 #292d2e   #222222
+client.urgent           #2f343a #900000 #ffffff #900000   #900000
+client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
+
+client.background       #ffffff

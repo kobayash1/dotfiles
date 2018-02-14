@@ -10352,3 +10352,115 @@ Feb 13 21:17 : exception: Failed to open mixer for 'default detected output': no
 Feb 13 21:17 : client: [92] opened from 127.0.0.1:56730
 Feb 13 21:18 : client: [92] closed
 Feb 13 21:18 : client: [93] opened from 127.0.0.1:56736
+Feb 13 21:20 : player: played "K-Pop/Woo Won Jae/우원재-01-시차 (We Are) (Feat. 로꼬 & GRAY).mp3"
+Feb 13 21:20 : client: [94] opened from [::1]:52736
+Feb 13 21:20 : client: [94] closed
+Feb 13 21:20 : client: [95] opened from [::1]:52738
+Feb 13 21:20 : client: [95] closed
+Feb 13 21:20 : client: [96] opened from [::1]:52740
+Feb 13 21:20 : client: [96] closed
+Feb 13 21:23 : player: played "K-Pop/Wanna.B/워너비 (WANNA.B)-01-손들어 (Hands Up).mp3"
+Feb 13 21:26 : player: played "K-Pop/Block B/블락비 (Block B)-02-Shall We Dance.mp3"
+Feb 13 21:30 : client: [97] opened from [::1]:52996
+Feb 13 21:30 : client: [97] closed
+Feb 13 21:30 : client: [98] opened from [::1]:52998
+Feb 13 21:30 : client: [98] closed
+Feb 13 21:30 : client: [99] opened from [::1]:53000
+Feb 13 21:30 : client: [99] closed
+Feb 13 21:30 : player: played "K-Pop/KARD/KARD-05-You In Me.mp3"
+Feb 13 21:30 : client: [100] opened from [::1]:53006
+Feb 13 21:30 : client: [100] closed
+Feb 13 21:30 : client: [101] opened from [::1]:53008
+Feb 13 21:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:30 : client: [101] closed
+Feb 13 21:30 : client: [102] opened from [::1]:53010
+Feb 13 21:30 : client: [102] closed
+Feb 13 21:30 : client: [103] opened from [::1]:53012
+Feb 13 21:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:30 : client: [103] closed
+Feb 13 21:32 : client: [93] closed
+Feb 13 21:32 : client: [104] opened from 127.0.0.1:57030
+Feb 13 21:33 : client: [104] closed
+Feb 13 21:33 : client: [105] opened from 127.0.0.1:57034
+Feb 13 21:33 : client: [105] closed
+Feb 13 21:33 : player: played "K-Pop/Block B/블락비 (Block B)-02-Shall We Dance.mp3"
+Feb 13 21:35 : client: [106] opened from 127.0.0.1:57238
+Feb 13 21:36 : client: [106] closed
+Feb 13 21:36 : client: [107] opened from 127.0.0.1:57244
+Feb 13 21:37 : player: played "K-Pop/Samuel/사무엘-01-캔디 (Candy).mp3"
+Feb 13 21:37 : client: [108] opened from [::1]:53392
+Feb 13 21:37 : client: [108] closed
+Feb 13 21:40 : player: played "K-Pop/Block B/블락비 (Block B)-02-Shall We Dance.mp3"
+Feb 13 21:40 : client: [107] closed
+Feb 13 21:40 : client: [109] opened from 127.0.0.1:57416
+Feb 13 21:41 : client: [109] closed
+Feb 13 21:42 : client: [110] opened from 127.0.0.1:57424
+Feb 13 21:42 : client: [110] closed
+Feb 13 21:42 : client: [111] opened from 127.0.0.1:57430
+Feb 13 21:42 : client: [111] closed
+Feb 13 21:43 : player: played "K-Pop/Wanna.B/워너비 (WANNA.B)-01-왜요 (Why_).mp3"
+Feb 13 21:44 : client: [112] opened from 127.0.0.1:57436
+Feb 13 21:44 : client: [112] closed
+Feb 13 21:44 : client: [113] opened from 127.0.0.1:57442
+Feb 13 21:44 : client: [113] closed
+Feb 13 21:45 : client: [114] opened from 127.0.0.1:57448
+Feb 13 21:45 : client: [114] closed
+Feb 13 21:46 : client: [115] opened from 127.0.0.1:57454
+Feb 13 21:47 : player: played "K-Pop/Taemin/태민 (TAEMIN)-01-MOVE.mp3"
+Feb 13 21:47 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:47 : client: [116] opened from [::1]:53448
+Feb 13 21:47 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 21:47 : client: [116] closed
+Feb 13 21:47 : client: [117] opened from [::1]:53450
+Feb 13 21:47 : client: [117] closed
+Feb 13 21:47 : client: [115] closed
+Feb 13 21:47 : client: [118] opened from 127.0.0.1:57464
+Feb 13 21:47 : client: [118] closed
+Feb 13 21:48 : client: [119] opened from 127.0.0.1:57470
+Feb 13 21:50 : player: played "K-Pop/VAV/VAV-01-ABC (Middle of the Night).mp3"
+Feb 13 21:54 : player: played "K-Pop/Snuper/스누퍼 (SNUPER)-02-유성.mp3"
+Feb 13 21:56 : client: [120] opened from [::1]:53484
+Feb 13 21:56 : client: [120] closed
+Feb 13 21:56 : client: [121] opened from [::1]:53492
+Feb 13 21:56 : client: [121] closed
+Feb 13 21:56 : client: [122] opened from [::1]:53494
+Feb 13 21:56 : client: [122] closed
+Feb 13 21:56 : client: [123] opened from [::1]:53496
+Feb 13 21:56 : client: [123] closed
+Feb 13 21:56 : client: [124] opened from [::1]:53502
+Feb 13 21:56 : client: [124] closed
+Feb 13 21:56 : client: [125] opened from [::1]:53504
+Feb 13 21:56 : client: [125] closed
+Feb 13 21:57 : client: [126] opened from [::1]:53508
+Feb 13 21:57 : client: [126] closed
+Feb 13 21:57 : client: [127] opened from [::1]:53510
+Feb 13 21:57 : client: [127] closed
+Feb 13 21:59 : player: played "K-Pop/P.O.P/P.O.P (피오피)-02-애타게 GET하게.mp3"
+Feb 13 22:03 : player: played "K-Pop/T-ARA/Number 9.mp3"
+Feb 13 22:05 : client: [119] closed
+Feb 13 22:05 : client: [128] opened from 127.0.0.1:58016
+Feb 13 22:06 : client: [128] closed
+Feb 13 22:06 : player: played "K-Pop/Pentagon/펜타곤 (PENTAGON)-01-감이 오지.mp3"
+Feb 13 22:06 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:07 : client: [129] opened from 127.0.0.1:58024
+Feb 13 22:07 : client: [130] opened from [::1]:54016
+Feb 13 22:07 : client: [130] closed
+Feb 13 22:07 : client: [131] opened from [::1]:54018
+Feb 13 22:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:07 : client: [131] closed
+Feb 13 22:08 : client: [129] closed
+Feb 13 22:08 : client: [132] opened from 127.0.0.1:58032
+Feb 13 22:08 : client: [132] closed
+Feb 13 22:08 : client: [133] opened from 127.0.0.1:58040
+Feb 13 22:10 : client: [133] closed
+Feb 13 22:10 : client: [134] opened from 127.0.0.1:58050
+Feb 13 22:11 : client: [134] closed
+Feb 13 22:11 : client: [135] opened from 127.0.0.1:58056
+Feb 13 22:11 : player: played "K-Pop/WINNER/WINNER-01-BABY BABY.mp3"
+Feb 13 22:12 : client: [135] closed
+Feb 13 22:12 : client: [136] opened from 127.0.0.1:58064
+Feb 13 22:12 : client: [136] closed
+Feb 13 22:12 : client: [137] opened from 127.0.0.1:58070
+Feb 13 22:14 : client: [137] closed
+Feb 13 22:14 : client: [138] opened from 127.0.0.1:58078
+Feb 13 22:15 : player: played "K-Pop/Jay Park/박재범-11-DRIVE (Feat. GRAY).mp3"
