@@ -10464,3 +10464,79 @@ Feb 13 22:12 : client: [137] opened from 127.0.0.1:58070
 Feb 13 22:14 : client: [137] closed
 Feb 13 22:14 : client: [138] opened from 127.0.0.1:58078
 Feb 13 22:15 : player: played "K-Pop/Jay Park/박재범-11-DRIVE (Feat. GRAY).mp3"
+Feb 13 22:15 : client: [139] opened from [::1]:54074
+Feb 13 22:15 : client: [139] closed
+Feb 13 22:15 : client: [140] opened from [::1]:54076
+Feb 13 22:15 : client: [140] closed
+Feb 13 22:20 : player: played "K-Pop/Sik-K/Sik-K (식케이)-01-iffy (Prod. GroovyRoom).mp3"
+Feb 13 22:20 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:20 : client: [138] closed
+Feb 13 22:20 : client: [141] opened from 127.0.0.1:58220
+Feb 13 22:20 : client: [142] opened from [::1]:54214
+Feb 13 22:20 : client: [142] closed
+Feb 13 22:20 : client: [143] opened from [::1]:54216
+Feb 13 22:20 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:20 : client: [143] closed
+Feb 13 22:23 : player: played "K-Pop/KARD/Hola Hola/01 - KARD - Oh NaNa (Hidden. 허영지).flac"
+Feb 13 22:23 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:23 : client: [144] opened from [::1]:54224
+Feb 13 22:23 : client: [144] closed
+Feb 13 22:23 : client: [145] opened from [::1]:54226
+Feb 13 22:23 : client: [145] closed
+Feb 13 22:27 : player: played "K-Pop/T-ARA/티아라-03-Bo Peep Bo Peep.mp3"
+Feb 13 22:27 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:30 : player: played "K-Pop/KARD/Hola Hola/07 - KARD - Oh NaNa (Inst.).flac"
+Feb 13 22:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:34 : player: played "K-Pop/gugudan OGUOGU/구구단 오구오구-01-ICE CHU.mp3"
+Feb 13 22:36 : client: [146] opened from [::1]:55062
+Feb 13 22:37 : player: played "K-Pop/DIA/DIA (다이아)-01-듣고싶어 (E905).mp3"
+Feb 13 22:37 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:39 : client: [146] closed
+Feb 13 22:40 : player: played "K-Pop/Luna/Free Somebody/05 - Luna - Galaxy.flac"
+Feb 13 22:40 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:43 : client: [147] opened from [::1]:55188
+Feb 13 22:43 : client: [147] closed
+Feb 13 22:50 : client: [148] opened from [::1]:55370
+Feb 13 22:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 22:50 : client: [148] closed
+Feb 13 22:51 : player: played "K-Pop/EXID/EXID-01-덜덜덜.mp3"
+Feb 13 22:55 : player: played "K-Pop/Rania/BP RANIA-01-Beep Beep Beep.mp3"
+Feb 13 22:59 : player: played "K-Pop/100%/백퍼센트-01-지독하게.mp3"
+Feb 13 22:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:00 : client: [149] opened from [::1]:55732
+Feb 13 23:00 : client: [149] closed
+Feb 13 23:05 : client: [150] opened from [::1]:55744
+Feb 13 23:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:05 : client: [150] closed
+Feb 13 23:06 : client: [151] opened from [::1]:55746
+Feb 13 23:06 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:06 : client: [151] closed
+Feb 13 23:06 : client: [152] opened from [::1]:55748
+Feb 13 23:06 : client: [152] closed
+Feb 13 23:06 : client: [153] opened from [::1]:55750
+Feb 13 23:06 : client: [153] closed
+Feb 13 23:06 : client: [154] opened from [::1]:55752
+Feb 13 23:06 : client: [154] closed
+Feb 13 23:06 : client: [155] opened from [::1]:55754
+Feb 13 23:06 : client: [155] closed
+Feb 13 23:09 : player: played "K-Pop/EXO/EXO-02-Ko Ko Bop.mp3"
+Feb 13 23:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:09 : client: [156] opened from [::1]:56496
+Feb 13 23:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:09 : client: [156] closed
+Feb 13 23:11 : client: [141] closed
+Feb 13 23:11 : client: [157] opened from 127.0.0.1:60698
+Feb 13 23:13 : player: played "K-Pop/Odd Eye Circle/이달의 소녀 오드아이써클-02-Sweet Crazy Love.mp3"
+Feb 13 23:13 : client: [157] closed
+Feb 13 23:13 : client: [158] opened from 127.0.0.1:60706
+Feb 13 23:14 : client: [158] closed
+Feb 13 23:14 : client: [159] opened from 127.0.0.1:60710
+Feb 13 23:16 : player: played "K-Pop/Taeyeon/태연 (TAEYEON)-02-Cover Up.mp3"
+Feb 13 23:16 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:18 : client: [159] closed
+Feb 13 23:19 : client: [160] opened from 127.0.0.1:60792
+Feb 13 23:19 : client: [160] closed
+Feb 13 23:19 : player: played "K-Pop/Luna/Free Somebody/01 - Luna - Free Somebody.flac"
+Feb 13 23:19 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 23:20 : client: [161] opened from 127.0.0.1:60866
+Feb 13 23:20 : client: [161] closed

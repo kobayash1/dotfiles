@@ -39,7 +39,7 @@ module-margin-right = 1
 
 font-0 = Hack:size=10;1
 font-1 = Noto Sans CJK TC,Noto Sans CJK TC Thin:size=10;1
-font-2 = Font Awesome 5 Free:style=Solid:size=10;1
+font-2 = Font Awesome 5 Free:style=Solid:size=9;1
 
 modules-left = i3 music
 modules-center = xwindow
@@ -151,7 +151,7 @@ port = 6600
 
 interval = 2
 
-format-online = %{A1:mpc prev:}%{A2:mpc toggle:}%{A3:mpc next:}<icon-prev><label-song>%{A}%{A}%{A}
+format-online = %{A1:mpc prev:}%{A2:mpc toggle:}%{A3:mpc next:}<icon-prev>%{A}%{A}%{A}<label-song>
 
 label = "%output:0:45:...%"
 label-song = %title%
