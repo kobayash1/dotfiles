@@ -10078,3 +10078,30 @@ Feb 13 16:11 : client: [41] opened from [::1]:47720
 Feb 13 16:11 : client: [41] closed
 Feb 13 16:14 : player: played "K-Pop/9muses/02 - Wild(와일드).mp3"
 Feb 13 16:18 : player: played "K-Pop/GOT7/If You Do.mp3"
+Feb 13 16:19 : client: [42] opened from [::1]:47738
+Feb 13 16:19 : client: [42] closed
+Feb 13 16:19 : client: [43] opened from [::1]:47740
+Feb 13 16:19 : client: [43] closed
+Feb 13 16:23 : avahi: Client Disconnected, will reconnect shortly
+Feb 13 16:23 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 13 16:23 : player: played "K-Pop/Vixx/빅스-02-Error.mp3"
+Feb 13 17:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 13 17:55 : avahi: Service 'Music Player' successfully established.
+Feb 13 17:55 : client: [0] opened from 127.0.0.1:44922
+Feb 13 17:55 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 13 18:26 : client: [1] opened from [::1]:41460
+Feb 13 18:26 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 18:26 : client: [1] closed
+Feb 13 18:27 : player: played "K-Pop/Vixx/빅스-02-Error.mp3"
+Feb 13 18:27 : client: [2] opened from [::1]:41464
+Feb 13 18:27 : client: [2] closed
+Feb 13 18:30 : player: played "K-Pop/Loco/로꼬-02-Summer Go Loco (Feat. GRAY).mp3"
+Feb 13 18:33 : player: played "K-Pop/Taeyeon/태연 (TAEYEON)-02-Cover Up.mp3"
+Feb 13 18:37 : player: played "K-Pop/Moon Hyuna/문현아-01-둥둥 (Doong Doong).mp3"
+Feb 13 18:41 : player: played "K-Pop/GOT7/GOT7 (갓세븐)-03-You Are.mp3"
+Feb 13 18:41 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 18:42 : client: [3] opened from [::1]:43158
+Feb 13 18:42 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 18:42 : client: [3] closed
+Feb 13 18:46 : player: played "K-Pop/BTS/방탄소년단-08-뱁새.mp3"
+Feb 13 18:50 : player: played "K-Pop/Infinite/02 - The Eye.mp3"

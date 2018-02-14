@@ -7,7 +7,8 @@
 #GREEN="\[$(tput setaf 2)\]"
 #RESET="\[$(tput sgr0)\]"
 #YELLOW="\[$(tput setaf 6)\]"
-alias ls='ls --color=auto'
+#alias ls='ls --color=auto'
+alias ls='exa -l'
 #export PS1="[${GREEN}\u${RESET}@${YELLOW}\h${RESET} \W]\$ "
 # Original PS1
 #PS1='[\u@\h \W]\$ '
