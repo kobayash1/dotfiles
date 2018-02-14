@@ -10105,3 +10105,35 @@ Feb 13 18:42 : exception: Failed to open mixer for 'default detected output': no
 Feb 13 18:42 : client: [3] closed
 Feb 13 18:46 : player: played "K-Pop/BTS/방탄소년단-08-뱁새.mp3"
 Feb 13 18:50 : player: played "K-Pop/Infinite/02 - The Eye.mp3"
+Feb 13 18:54 : player: played "K-Pop/Taemin/02 - Press Your Number.mp3"
+Feb 13 18:57 : player: played "K-Pop/Dynamic Duo/05 - 꿀잼 Jam.mp3"
+Feb 13 19:01 : player: played "K-Pop/Primary/07 - 씨스루 (feat. Zion.T, 개코 of 다이나믹듀오).mp3"
+Feb 13 19:04 : player: played "K-Pop/4minute/01 - Hate.mp3"
+Feb 13 19:07 : player: played "K-Pop/History/02 - Queen.mp3"
+Feb 13 19:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 19:08 : client: [4] opened from [::1]:43984
+Feb 13 19:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 19:08 : client: [4] closed
+Feb 13 19:12 : player: played "K-Pop/Taemin/태민 (TAEMIN)-01-MOVE.mp3"
+Feb 13 19:15 : player: played "K-Pop/ELRIS/엘리스 (ELRIS)-02-Pow Pow.mp3"
+Feb 13 19:15 : client: [0] closed
+Feb 13 19:15 : client: [5] opened from 127.0.0.1:48092
+Feb 13 19:16 : client: [5] closed
+Feb 13 19:17 : client: [6] opened from 127.0.0.1:48152
+Feb 13 19:18 : client: [6] closed
+Feb 13 19:18 : client: [7] opened from 127.0.0.1:48158
+Feb 13 19:18 : player: played "K-Pop/Block B/02 - HER.mp3"
+Feb 13 19:19 : client: [7] closed
+Feb 13 19:21 : client: [8] opened from 127.0.0.1:48166
+Feb 13 19:21 : client: [8] closed
+Feb 13 19:21 : client: [9] opened from 127.0.0.1:48192
+Feb 13 19:21 : client: [9] closed
+Feb 13 19:22 : player: played "K-Pop/S.E.S./03 - 한 폭의 그림 Paradise.mp3"
+Feb 13 19:22 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 13 19:22 : client: [10] opened from 127.0.0.1:48198
+Feb 13 19:22 : client: [10] closed
+Feb 13 19:23 : client: [11] opened from 127.0.0.1:48206
+Feb 13 19:23 : client: [11] closed
+Feb 13 19:25 : client: [12] opened from 127.0.0.1:48250
+Feb 13 19:25 : player: played "K-Pop/Luna/Free Somebody/06 - Luna - My Medicine.flac"
+Feb 13 19:25 : client: [12] closed
