@@ -19,3 +19,4 @@ POWERLINE_BASH_CONTINUATION=1
 POWERLINE_BASH_SELECT=1
 source /usr/lib/python3.6/site-packages/powerline/bindings/bash/powerline.sh
 alias rm='rm -i'
+alias bye='shutdown'
