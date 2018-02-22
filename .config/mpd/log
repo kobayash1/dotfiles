@@ -14398,3 +14398,181 @@ Feb 19 23:34 : exception: OutputThread could not get realtime scheduling, contin
 Feb 19 23:34 : avahi: Service 'Music Player' successfully established.
 Feb 19 23:34 : client: [0] opened from 127.0.0.1:45550
 Feb 19 23:34 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 20 00:39 : client: [1] opened from [::1]:40240
+Feb 20 00:39 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 00:39 : client: [1] closed
+Feb 20 00:39 : client: [2] opened from [::1]:40242
+Feb 20 00:39 : client: [2] closed
+Feb 20 00:39 : client: [3] opened from [::1]:40244
+Feb 20 00:39 : client: [3] closed
+Feb 20 00:42 : player: played "K-Pop/Girls Generation/소녀시대-01-Gee.mp3"
+Feb 20 00:46 : player: played "K-Pop/AoA/AOA-01-심쿵해 (Heart Attack).mp3"
+Feb 20 00:46 : client: [4] opened from [::1]:40824
+Feb 20 00:46 : client: [4] closed
+Feb 20 00:49 : avahi: Client Disconnected, will reconnect shortly
+Feb 20 00:49 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 20 00:49 : player: played "K-Pop/Matilda/마틸다 (MATILDA)-01-넌 Bad 날 울리지마.mp3"
+Feb 20 15:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 20 15:12 : client: [0] opened from [::1]:58358
+Feb 20 15:12 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 20 15:12 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 15:12 : client: [0] closed
+Feb 20 15:12 : avahi: Service 'Music Player' successfully established.
+Feb 20 15:13 : client: [1] opened from [::1]:58360
+Feb 20 15:13 : client: [1] closed
+Feb 20 15:16 : player: played "K-Pop/SHINee/샤이니 (SHINee)-01-Odd Eye.mp3"
+Feb 20 15:20 : player: played "K-Pop/Dean/DEAN-01-love (Feat. Syd).mp3"
+Feb 20 15:24 : player: played "K-Pop/T-ARA/티아라-01-내 이름은.mp3"
+Feb 20 15:27 : player: played "K-Pop/CNBLUE/CNBLUE (씨엔블루)-01-신데렐라 (Cinderella).mp3"
+Feb 20 15:30 : player: played "K-Pop/4X/4x-01-Secret Night.mp3"
+Feb 20 15:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 15:34 : player: played "K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/02 - 나인뮤지스 - 기억해.flac"
+Feb 20 15:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 15:36 : client: [2] opened from [::1]:58604
+Feb 20 15:36 : client: [2] closed
+Feb 20 15:38 : player: played "K-Pop/Niel/니엘-01-잘 지내_ (Feat. JUSTHIS).mp3"
+Feb 20 15:41 : player: played "K-Pop/Shannon/샤넌-01-HELLO.mp3"
+Feb 20 15:42 : client: [3] opened from [::1]:58606
+Feb 20 15:42 : client: [3] closed
+Feb 20 15:42 : client: [4] opened from 127.0.0.1:36760
+Feb 20 15:43 : client: [5] opened from [::1]:58854
+Feb 20 15:43 : client: [5] closed
+Feb 20 19:01 : client: [6] opened from [::1]:32872
+Feb 20 19:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 19:01 : client: [6] closed
+Feb 20 19:03 : player: played "K-Pop/Longguo & Shihyun/용국&시현-02-the.the.the.mp3"
+Feb 20 19:07 : player: played "K-Pop/BTS/방탄소년단-08-뱁새.mp3"
+Feb 20 19:10 : player: played "K-Pop/Highlight/하이라이트 (Highlight)-02-어쩔 수 없지 뭐.mp3"
+Feb 20 19:13 : player: played "K-Pop/Bobby/BOBBY-01-사랑해.mp3"
+Feb 20 19:17 : player: played "K-Pop/Playback/플레이백-01-말해줘.mp3"
+Feb 20 19:17 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 19:20 : player: played "K-Pop/Dreamcatcher/Prequel (First Mini Album)/04 - Dreamcatcher - Sleep-Walking.flac"
+Feb 20 19:20 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 19:24 : player: played "K-Pop/TVXQ/유노윤호 (U-KNOW)-01-DROP.mp3"
+Feb 20 19:27 : player: played "K-Pop/Brown Eyed Girls/브라운아이드걸스-02-Abracadabra.mp3"
+Feb 20 19:27 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 19:31 : player: played "K-Pop/KARD/Hola Hola/08 - KARD - Don't Recall (Inst.).flac"
+Feb 20 19:31 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 19:34 : player: played "K-Pop/HOTSHOT/핫샷 (HOTSHOT)-02-젤리 (Jelly) (Inst.).mp3"
+Feb 20 19:37 : player: played "K-Pop/LOONA/이달의 소녀-01-new (이브).mp3"
+Feb 20 19:40 : player: played "K-Pop/Primary/프라이머리-07-밤꽃 (Night Flower) (Feat. 카더가든).mp3"
+Feb 20 19:44 : player: played "K-Pop/Red Velvet/Red Velvet (레드벨벳)-06-Some Love.mp3"
+Feb 20 19:47 : player: played "K-Pop/Yuseol/유설-01-Ocean View.mp3"
+Feb 20 19:50 : player: played "K-Pop/Monsta X/몬스타엑스-01-HERO (Broadcasting Ver.).mp3"
+Feb 20 19:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 19:54 : player: played "K-Pop/Dreamcatcher/Prequel (First Mini Album)/02 - Dreamcatcher - 날아올라 (Fly High).flac"
+Feb 20 19:54 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 19:58 : player: played "K-Pop/Monsta X/몬스타엑스-01-신속히 (RUSH).mp3"
+Feb 20 20:02 : player: played "K-Pop/Vixx/빅스-02-Error.mp3"
+Feb 20 20:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 20:05 : player: played "K-Pop/KARD/Hola Hola/09 - KARD - RUMOR (Inst.).flac"
+Feb 20 20:09 : player: played "K-Pop/KARD/Hola Hola/02 - KARD - Don't Recall.flac"
+Feb 20 20:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 20 20:11 : client: [7] opened from [::1]:33244
+Feb 20 20:11 : client: [7] closed
+Feb 20 23:37 : player: played "K-Pop/Heize/헤이즈 (Heize)-01-널 너무 모르고.mp3"
+Feb 21 08:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 08:49 : avahi: Service 'Music Player' successfully established.
+Feb 21 08:49 : client: [0] opened from 127.0.0.1:48544
+Feb 21 08:49 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 21 09:05 : client: [1] opened from [::1]:55152
+Feb 21 09:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 21 09:05 : client: [1] closed
+Feb 21 09:06 : player: played "K-Pop/Heize/헤이즈 (Heize)-01-널 너무 모르고.mp3"
+Feb 21 09:06 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 21 09:07 : player: played "K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/01 - 나인뮤지스 - Identity.flac"
+Feb 21 09:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 21 09:08 : client: [2] opened from [::1]:55160
+Feb 21 09:08 : client: [2] closed
+Feb 21 11:23 : client: [3] opened from [::1]:55162
+Feb 21 11:23 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 21 11:23 : client: [3] closed
+Feb 21 11:25 : player: played "K-Pop/Rania/라니아-01-STYLE.mp3"
+Feb 21 11:29 : player: played "K-Pop/Red Velvet/Red Velvet (레드벨벳)-01-행복 (Happiness).mp3"
+Feb 21 11:32 : player: played "K-Pop/Penomeco/PENOMECO-01-HUNNIT.mp3"
+Feb 21 11:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 21 11:34 : client: [4] opened from [::1]:55380
+Feb 21 11:34 : client: [4] closed
+Feb 21 11:34 : client: [5] opened from [::1]:55382
+Feb 21 11:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 21 11:34 : client: [5] closed
+Feb 21 11:36 : player: played "K-Pop/KARD/Hola Hola/03 - KARD - RUMOR.flac"
+Feb 21 11:36 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 21 11:40 : player: played "K-Pop/Sophiya/소피야 (Sophiya)-01-테라피 (Therapy).mp3"
+Feb 21 11:43 : player: played "K-Pop/HOTSHOT/핫샷 (HOTSHOT)-01-젤리 (Jelly).mp3"
+Feb 21 11:46 : player: played "K-Pop/Pentagon/펜타곤 (PENTAGON)-02-RUNAWAY.mp3"
+Feb 21 11:51 : player: played "K-Pop/SHINee/샤이니 (SHINee)-01-Tell Me What To Do.mp3"
+Feb 21 11:54 : player: played "K-Pop/Red Velvet/Red Velvet (레드벨벳)-01-빨간 맛 (Red Flavor).mp3"
+Feb 21 11:57 : player: played "K-Pop/Vixx/빅스-01-다칠 준비가 돼 있어 (On and On).mp3"
+Feb 21 12:01 : player: played "K-Pop/Heize/헤이즈 (Heize)-01-And July (Feat. DEAN, DJ Friz).mp3"
+Feb 21 12:04 : player: played "K-Pop/Moon Hyuna/문현아-02-크리켓송.mp3"
+Feb 21 12:08 : player: played "K-Pop/WINNER/WINNER-01-LOVE ME LOVE ME.mp3"
+Feb 21 12:12 : player: played "K-Pop/RAINBOW/레인보우-02-Black Swan.mp3"
+Feb 21 12:15 : player: played "K-Pop/2NE1/2NE1-01-내가 제일 잘 나가.mp3"
+Feb 21 12:17 : client: [6] opened from [::1]:55788
+Feb 21 12:17 : client: [6] closed
+Feb 21 12:26 : avahi: Client Disconnected, will reconnect shortly
+Feb 21 12:26 : avahi: Client Disconnected, will reconnect shortly
+Feb 21 12:26 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 21 12:26 : player: played "K-Pop/fromis_9/fromis_9-01-유리구두.mp3"
+Feb 21 23:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 21 23:30 : avahi: Service 'Music Player' successfully established.
+Feb 21 23:30 : client: [0] opened from 127.0.0.1:47072
+Feb 21 23:30 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 22 01:03 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 01:03 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 22 01:03 : player: played "K-Pop/fromis_9/fromis_9-01-유리구두.mp3"
+Feb 22 13:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 13:00 : avahi: Service 'Music Player' successfully established.
+Feb 22 13:00 : client: [0] opened from [::1]:48860
+Feb 22 13:00 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 22 13:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 22 13:00 : client: [0] closed
+Feb 22 13:00 : client: [1] opened from [::1]:48862
+Feb 22 13:00 : client: [1] closed
+Feb 22 13:00 : client: [2] opened from [::1]:48864
+Feb 22 13:00 : client: [2] closed
+Feb 22 13:00 : client: [3] opened from [::1]:48866
+Feb 22 13:00 : client: [3] closed
+Feb 22 13:02 : client: [4] opened from 127.0.0.1:38980
+Feb 22 13:03 : client: [5] opened from [::1]:49112
+Feb 22 13:03 : client: [5] closed
+Feb 22 13:50 : player: played "K-Pop/Momoland/01 - BBoom BBoom.mp3"
+Feb 22 13:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 13:50 : avahi: Service 'Music Player' successfully established.
+Feb 22 13:50 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 13:50 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 13:50 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 22 13:50 : player: played "K-Pop/Momoland/01 - BBoom BBoom.mp3"
+Feb 22 13:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 13:51 : avahi: Service 'Music Player' successfully established.
+Feb 22 13:51 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 13:51 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 13:51 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 22 13:51 : player: played "K-Pop/Momoland/01 - BBoom BBoom.mp3"
+Feb 22 13:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 13:55 : avahi: Service 'Music Player' successfully established.
+Feb 22 13:55 : client: [0] opened from [::1]:55802
+Feb 22 13:55 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 22 13:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 22 13:55 : client: [0] closed
+Feb 22 13:55 : player: played "K-Pop/Momoland/01 - BBoom BBoom.mp3"
+Feb 22 13:55 : client: [1] opened from [::1]:55804
+Feb 22 13:55 : client: [1] closed
+Feb 22 13:55 : client: [2] opened from 127.0.0.1:60824
+Feb 22 13:58 : player: played "K-Pop/Vixx/빅스-02-사슬 (Chained Up).mp3"
+Feb 22 13:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 22 13:59 : client: [3] opened from [::1]:55872
+Feb 22 13:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 22 13:59 : client: [3] closed
+Feb 22 14:00 : avahi: Client Disconnected, will reconnect shortly
+Feb 22 14:00 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 22 14:00 : client: [2] closed
+Feb 22 14:00 : player: played "K-Pop/Vixx/빅스-01-Milky Way.mp3"
+Feb 22 14:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 22 14:01 : client: [0] opened from [::1]:48610
+Feb 22 14:01 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 22 14:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 22 14:01 : client: [0] closed
+Feb 22 14:01 : avahi: Service 'Music Player' successfully established.
+Feb 22 14:01 : client: [1] opened from 127.0.0.1:49474
