@@ -16671,3 +16671,424 @@ Feb 24 00:43 : client: [421] opened from [::1]:46196
 Feb 24 00:43 : client: [421] closed
 Feb 24 00:43 : client: [422] opened from [::1]:46198
 Feb 24 00:43 : client: [422] closed
+Feb 24 00:44 : client: [423] opened from 127.0.0.1:54058
+Feb 24 00:44 : client: [423] closed
+Feb 24 00:44 : client: [424] opened from [::1]:46214
+Feb 24 00:44 : client: [424] closed
+Feb 24 00:44 : client: [425] opened from [::1]:46216
+Feb 24 00:44 : client: [425] closed
+Feb 24 00:44 : client: [426] opened from [::1]:46218
+Feb 24 00:44 : client: [426] closed
+Feb 24 00:44 : player: played "K-Pop/CLC/CLC (씨엘씨)-01-어디야_.mp3"
+Feb 24 00:44 : client: [427] opened from 127.0.0.1:54066
+Feb 24 00:44 : client: [427] closed
+Feb 24 00:44 : client: [428] opened from [::1]:46222
+Feb 24 00:44 : client: [428] closed
+Feb 24 00:44 : client: [429] opened from [::1]:46224
+Feb 24 00:44 : client: [429] closed
+Feb 24 00:44 : client: [430] opened from [::1]:46226
+Feb 24 00:44 : client: [430] closed
+Feb 24 00:45 : client: [431] opened from 127.0.0.1:54076
+Feb 24 00:45 : client: [431] closed
+Feb 24 00:45 : client: [432] opened from [::1]:46232
+Feb 24 00:45 : client: [432] closed
+Feb 24 00:45 : client: [433] opened from [::1]:46234
+Feb 24 00:45 : client: [433] closed
+Feb 24 00:45 : client: [434] opened from [::1]:46236
+Feb 24 00:45 : client: [434] closed
+Feb 24 00:45 : client: [435] opened from [::1]:46238
+Feb 24 00:45 : client: [435] closed
+Feb 24 00:45 : client: [436] opened from 127.0.0.1:54086
+Feb 24 00:45 : client: [436] closed
+Feb 24 00:45 : client: [437] opened from [::1]:46242
+Feb 24 00:45 : client: [437] closed
+Feb 24 00:45 : client: [438] opened from [::1]:46244
+Feb 24 00:45 : client: [438] closed
+Feb 24 00:45 : client: [439] opened from [::1]:46246
+Feb 24 00:45 : client: [439] closed
+Feb 24 00:45 : client: [440] opened from 127.0.0.1:54094
+Feb 24 00:45 : client: [440] closed
+Feb 24 00:45 : client: [441] opened from [::1]:46250
+Feb 24 00:45 : client: [441] closed
+Feb 24 00:45 : client: [442] opened from [::1]:46252
+Feb 24 00:45 : client: [442] closed
+Feb 24 00:45 : client: [443] opened from [::1]:46254
+Feb 24 00:45 : client: [443] closed
+Feb 24 00:46 : client: [444] opened from [::1]:46258
+Feb 24 00:46 : client: [444] closed
+Feb 24 00:46 : client: [445] opened from 127.0.0.1:54106
+Feb 24 00:46 : client: [445] closed
+Feb 24 00:46 : client: [446] opened from [::1]:46262
+Feb 24 00:46 : client: [446] closed
+Feb 24 00:46 : client: [447] opened from [::1]:46264
+Feb 24 00:46 : client: [447] closed
+Feb 24 00:46 : client: [448] opened from [::1]:46266
+Feb 24 00:46 : client: [448] closed
+Feb 24 00:46 : client: [449] opened from [::1]:46268
+Feb 24 00:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 00:46 : client: [449] closed
+Feb 24 00:46 : client: [450] opened from 127.0.0.1:54116
+Feb 24 00:46 : client: [450] closed
+Feb 24 00:46 : client: [451] opened from [::1]:46272
+Feb 24 00:46 : client: [451] closed
+Feb 24 00:46 : client: [452] opened from [::1]:46274
+Feb 24 00:46 : client: [452] closed
+Feb 24 00:46 : client: [453] opened from [::1]:46276
+Feb 24 00:46 : client: [453] closed
+Feb 24 00:46 : client: [454] opened from [::1]:46278
+Feb 24 00:46 : client: [454] closed
+Feb 24 00:46 : client: [455] opened from [::1]:46280
+Feb 24 00:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 00:46 : client: [455] closed
+Feb 24 00:47 : client: [456] opened from 127.0.0.1:54128
+Feb 24 00:47 : client: [456] closed
+Feb 24 00:47 : client: [457] opened from [::1]:46284
+Feb 24 00:47 : client: [457] closed
+Feb 24 00:47 : client: [458] opened from [::1]:46286
+Feb 24 00:47 : client: [458] closed
+Feb 24 00:47 : client: [459] opened from [::1]:46288
+Feb 24 00:47 : client: [459] closed
+Feb 24 00:48 : client: [460] opened from 127.0.0.1:54140
+Feb 24 00:48 : client: [460] closed
+Feb 24 00:48 : client: [461] opened from [::1]:46296
+Feb 24 00:48 : client: [461] closed
+Feb 24 00:48 : client: [462] opened from [::1]:46298
+Feb 24 00:48 : client: [462] closed
+Feb 24 00:48 : client: [463] opened from [::1]:46300
+Feb 24 00:48 : client: [463] closed
+Feb 24 00:48 : client: [464] opened from 127.0.0.1:54148
+Feb 24 00:48 : client: [464] closed
+Feb 24 00:48 : client: [465] opened from [::1]:46304
+Feb 24 00:48 : client: [465] closed
+Feb 24 00:48 : client: [466] opened from [::1]:46306
+Feb 24 00:48 : client: [466] closed
+Feb 24 00:48 : client: [467] opened from [::1]:46308
+Feb 24 00:48 : client: [467] closed
+Feb 24 00:48 : player: played "K-Pop/Loco/로꼬-06-지나쳐 (Feat. DEAN).mp3"
+Feb 24 00:48 : client: [468] opened from 127.0.0.1:54156
+Feb 24 00:48 : client: [468] closed
+Feb 24 00:48 : client: [469] opened from [::1]:46312
+Feb 24 00:48 : client: [469] closed
+Feb 24 00:48 : client: [470] opened from [::1]:46314
+Feb 24 00:48 : client: [470] closed
+Feb 24 00:48 : client: [471] opened from [::1]:46316
+Feb 24 00:48 : client: [471] closed
+Feb 24 00:49 : client: [472] opened from 127.0.0.1:54166
+Feb 24 00:49 : client: [472] closed
+Feb 24 00:49 : client: [473] opened from [::1]:46322
+Feb 24 00:49 : client: [473] closed
+Feb 24 00:49 : client: [474] opened from [::1]:46324
+Feb 24 00:49 : client: [474] closed
+Feb 24 00:49 : client: [475] opened from [::1]:46326
+Feb 24 00:49 : client: [475] closed
+Feb 24 00:49 : client: [476] opened from 127.0.0.1:54174
+Feb 24 00:49 : client: [476] closed
+Feb 24 00:49 : client: [477] opened from [::1]:46330
+Feb 24 00:49 : client: [477] closed
+Feb 24 00:49 : client: [478] opened from [::1]:46332
+Feb 24 00:49 : client: [478] closed
+Feb 24 00:49 : client: [479] opened from [::1]:46334
+Feb 24 00:49 : client: [479] closed
+Feb 24 00:52 : player: played "K-Pop/DIA/DIA (다이아)-01-듣고싶어 (E905).mp3"
+Feb 24 00:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 00:52 : client: [480] opened from [::1]:46342
+Feb 24 00:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 00:52 : client: [480] closed
+Feb 24 00:53 : client: [481] opened from 127.0.0.1:54192
+Feb 24 00:53 : client: [481] closed
+Feb 24 00:53 : client: [482] opened from [::1]:46348
+Feb 24 00:53 : client: [482] closed
+Feb 24 00:53 : client: [483] opened from [::1]:46350
+Feb 24 00:53 : client: [483] closed
+Feb 24 00:53 : client: [484] opened from [::1]:46352
+Feb 24 00:53 : client: [484] closed
+Feb 24 00:53 : client: [485] opened from 127.0.0.1:54200
+Feb 24 00:53 : client: [485] closed
+Feb 24 00:53 : client: [486] opened from [::1]:46356
+Feb 24 00:53 : client: [486] closed
+Feb 24 00:53 : client: [487] opened from [::1]:46358
+Feb 24 00:53 : client: [487] closed
+Feb 24 00:53 : client: [488] opened from [::1]:46360
+Feb 24 00:53 : client: [488] closed
+Feb 24 00:53 : client: [489] opened from 127.0.0.1:54208
+Feb 24 00:53 : client: [489] closed
+Feb 24 00:53 : client: [490] opened from [::1]:46364
+Feb 24 00:53 : client: [490] closed
+Feb 24 00:53 : client: [491] opened from [::1]:46366
+Feb 24 00:53 : client: [491] closed
+Feb 24 00:53 : client: [492] opened from [::1]:46368
+Feb 24 00:53 : client: [492] closed
+Feb 24 00:53 : client: [493] opened from 127.0.0.1:54216
+Feb 24 00:53 : client: [493] closed
+Feb 24 00:53 : client: [494] opened from [::1]:46372
+Feb 24 00:53 : client: [494] closed
+Feb 24 00:53 : client: [495] opened from [::1]:46374
+Feb 24 00:53 : client: [495] closed
+Feb 24 00:53 : client: [496] opened from [::1]:46376
+Feb 24 00:53 : client: [496] closed
+Feb 24 00:54 : client: [497] opened from 127.0.0.1:54226
+Feb 24 00:54 : client: [497] closed
+Feb 24 00:54 : client: [498] opened from [::1]:46382
+Feb 24 00:54 : client: [498] closed
+Feb 24 00:54 : client: [499] opened from [::1]:46384
+Feb 24 00:54 : client: [499] closed
+Feb 24 00:54 : client: [500] opened from [::1]:46386
+Feb 24 00:54 : client: [500] closed
+Feb 24 00:54 : client: [501] opened from 127.0.0.1:54234
+Feb 24 00:54 : client: [501] closed
+Feb 24 00:54 : client: [502] opened from [::1]:46390
+Feb 24 00:54 : client: [502] closed
+Feb 24 00:54 : client: [503] opened from [::1]:46392
+Feb 24 00:54 : client: [503] closed
+Feb 24 00:54 : client: [504] opened from [::1]:46394
+Feb 24 00:54 : client: [504] closed
+Feb 24 00:54 : client: [505] opened from 127.0.0.1:54242
+Feb 24 00:54 : client: [505] closed
+Feb 24 00:54 : client: [506] opened from [::1]:46398
+Feb 24 00:54 : client: [506] closed
+Feb 24 00:54 : client: [507] opened from [::1]:46400
+Feb 24 00:54 : client: [507] closed
+Feb 24 00:54 : client: [508] opened from [::1]:46402
+Feb 24 00:54 : client: [508] closed
+Feb 24 00:55 : client: [509] opened from [::1]:46406
+Feb 24 00:55 : client: [509] closed
+Feb 24 00:55 : client: [510] opened from [::1]:46408
+Feb 24 00:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 00:55 : client: [510] closed
+Feb 24 00:55 : player: played "K-Pop/IMFACT/01 - 텐션업 Tension Up.mp3"
+Feb 24 00:55 : client: [511] opened from 127.0.0.1:54256
+Feb 24 00:55 : client: [511] closed
+Feb 24 00:55 : client: [512] opened from [::1]:46412
+Feb 24 00:55 : client: [512] closed
+Feb 24 00:55 : client: [513] opened from [::1]:46414
+Feb 24 00:55 : client: [513] closed
+Feb 24 00:55 : client: [514] opened from [::1]:46416
+Feb 24 00:55 : client: [514] closed
+Feb 24 00:58 : player: played "K-Pop/SF9/SF9-02-오솔레미오 (O Sole Mio).mp3"
+Feb 24 01:02 : player: played "K-Pop/Juniel/JUNIEL-01-Last Carnival.mp3"
+Feb 24 01:03 : client: [515] opened from [::1]:47628
+Feb 24 01:03 : client: [515] closed
+Feb 24 01:04 : client: [516] opened from [::1]:47634
+Feb 24 01:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 01:04 : client: [516] closed
+Feb 24 01:05 : client: [517] opened from 127.0.0.1:55484
+Feb 24 01:05 : client: [517] closed
+Feb 24 01:05 : client: [518] opened from [::1]:47640
+Feb 24 01:05 : client: [518] closed
+Feb 24 01:05 : client: [519] opened from [::1]:47642
+Feb 24 01:05 : client: [519] closed
+Feb 24 01:05 : client: [520] opened from [::1]:47644
+Feb 24 01:05 : client: [520] closed
+Feb 24 01:05 : client: [521] opened from 127.0.0.1:55492
+Feb 24 01:05 : client: [521] closed
+Feb 24 01:05 : client: [522] opened from [::1]:47648
+Feb 24 01:05 : client: [522] closed
+Feb 24 01:05 : client: [523] opened from [::1]:47650
+Feb 24 01:05 : client: [523] closed
+Feb 24 01:05 : client: [524] opened from [::1]:47652
+Feb 24 01:05 : client: [524] closed
+Feb 24 01:06 : client: [525] opened from 127.0.0.1:55500
+Feb 24 01:06 : client: [525] closed
+Feb 24 01:06 : client: [526] opened from [::1]:47656
+Feb 24 01:06 : client: [526] closed
+Feb 24 01:06 : client: [527] opened from [::1]:47658
+Feb 24 01:06 : client: [527] closed
+Feb 24 01:06 : client: [528] opened from [::1]:47660
+Feb 24 01:06 : client: [528] closed
+Feb 24 01:06 : client: [529] opened from 127.0.0.1:55510
+Feb 24 01:06 : client: [529] closed
+Feb 24 01:06 : client: [530] opened from [::1]:47666
+Feb 24 01:06 : client: [530] closed
+Feb 24 01:06 : client: [531] opened from [::1]:47668
+Feb 24 01:06 : client: [531] closed
+Feb 24 01:06 : client: [532] opened from [::1]:47670
+Feb 24 01:06 : client: [532] closed
+Feb 24 01:07 : player: played "K-Pop/A.C.E/A.C.E (에이스)-01-선인장 (CACTUS).mp3"
+Feb 24 01:08 : client: [533] opened from [::1]:47674
+Feb 24 01:08 : client: [533] closed
+Feb 24 01:08 : client: [534] opened from [::1]:47676
+Feb 24 01:08 : client: [534] closed
+Feb 24 01:08 : client: [535] opened from [::1]:47680
+Feb 24 01:08 : client: [535] closed
+Feb 24 01:08 : client: [536] opened from [::1]:47682
+Feb 24 01:08 : client: [536] closed
+Feb 24 01:08 : client: [537] opened from [::1]:47684
+Feb 24 01:08 : client: [537] closed
+Feb 24 01:08 : client: [538] opened from [::1]:47686
+Feb 24 01:08 : client: [538] closed
+Feb 24 01:09 : client: [539] opened from 127.0.0.1:55536
+Feb 24 01:09 : client: [539] closed
+Feb 24 01:09 : client: [540] opened from [::1]:47692
+Feb 24 01:09 : client: [540] closed
+Feb 24 01:09 : client: [541] opened from [::1]:47694
+Feb 24 01:09 : client: [541] closed
+Feb 24 01:09 : client: [542] opened from [::1]:47696
+Feb 24 01:09 : client: [542] closed
+Feb 24 01:11 : client: [543] opened from [::1]:47700
+Feb 24 01:11 : client: [543] closed
+Feb 24 01:11 : client: [544] opened from [::1]:47704
+Feb 24 01:11 : client: [544] closed
+Feb 24 01:11 : client: [545] opened from [::1]:47706
+Feb 24 01:11 : client: [545] closed
+Feb 24 01:11 : client: [546] opened from [::1]:47708
+Feb 24 01:11 : client: [546] closed
+Feb 24 01:12 : player: played "K-Pop/T-ARA/Sexy Love.mp3"
+Feb 24 10:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 10:42 : client: [0] opened from 127.0.0.1:49452
+Feb 24 10:42 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 24 11:28 : player: played "K-Pop/T-ARA/Sexy Love.mp3"
+Feb 24 12:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 12:24 : avahi: Client Disconnected, will reconnect shortly
+Feb 24 12:24 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 24 12:24 : player: played "K-Pop/T-ARA/Sexy Love.mp3"
+Feb 24 12:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 12:49 : client: [0] opened from [::1]:55112
+Feb 24 12:49 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 24 12:49 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 12:49 : client: [0] closed
+Feb 24 12:49 : client: [1] opened from [::1]:55114
+Feb 24 12:49 : client: [1] closed
+Feb 24 12:49 : client: [2] opened from [::1]:55116
+Feb 24 12:49 : client: [2] closed
+Feb 24 12:49 : player: played "K-Pop/T-ARA/Sexy Love.mp3"
+Feb 24 12:50 : client: [3] opened from [::1]:55118
+Feb 24 12:50 : client: [3] closed
+Feb 24 12:50 : client: [4] opened from 127.0.0.1:39108
+Feb 24 12:50 : client: [5] opened from 127.0.0.1:39114
+Feb 24 12:50 : client: [5] closed
+Feb 24 12:50 : client: [6] opened from [::1]:55128
+Feb 24 12:50 : client: [6] closed
+Feb 24 12:50 : client: [7] opened from [::1]:55130
+Feb 24 12:50 : client: [7] closed
+Feb 24 12:50 : client: [8] opened from [::1]:55132
+Feb 24 12:50 : client: [8] closed
+Feb 24 12:50 : client: [9] opened from 127.0.0.1:39122
+Feb 24 12:50 : client: [9] closed
+Feb 24 12:50 : client: [10] opened from [::1]:55136
+Feb 24 12:50 : client: [10] closed
+Feb 24 12:50 : client: [11] opened from [::1]:55138
+Feb 24 12:50 : client: [11] closed
+Feb 24 12:50 : client: [12] opened from [::1]:55140
+Feb 24 12:50 : client: [12] closed
+Feb 24 12:50 : client: [13] opened from 127.0.0.1:39130
+Feb 24 12:50 : client: [13] closed
+Feb 24 12:50 : client: [14] opened from [::1]:55144
+Feb 24 12:50 : client: [14] closed
+Feb 24 12:50 : client: [15] opened from [::1]:55146
+Feb 24 12:50 : client: [15] closed
+Feb 24 12:50 : client: [16] opened from [::1]:55148
+Feb 24 12:50 : client: [16] closed
+Feb 24 12:53 : client: [17] opened from [::1]:55156
+Feb 24 12:53 : client: [17] closed
+Feb 24 12:54 : player: played "Kygo/01 - Firestone.mp3"
+Feb 24 12:54 : client: [18] opened from 127.0.0.1:39148
+Feb 24 12:54 : client: [18] closed
+Feb 24 12:54 : client: [19] opened from [::1]:55162
+Feb 24 12:54 : client: [19] closed
+Feb 24 12:54 : client: [20] opened from [::1]:55164
+Feb 24 12:54 : client: [20] closed
+Feb 24 12:54 : client: [21] opened from [::1]:55166
+Feb 24 12:54 : client: [21] closed
+Feb 24 12:54 : client: [22] opened from 127.0.0.1:39156
+Feb 24 12:54 : client: [22] closed
+Feb 24 12:54 : client: [23] opened from [::1]:55170
+Feb 24 12:54 : client: [23] closed
+Feb 24 12:54 : client: [24] opened from [::1]:55172
+Feb 24 12:54 : client: [24] closed
+Feb 24 12:54 : client: [25] opened from [::1]:55174
+Feb 24 12:54 : client: [25] closed
+Feb 24 12:54 : client: [26] opened from 127.0.0.1:39164
+Feb 24 12:54 : client: [26] closed
+Feb 24 12:54 : client: [27] opened from [::1]:55178
+Feb 24 12:54 : client: [27] closed
+Feb 24 12:54 : client: [28] opened from [::1]:55180
+Feb 24 12:54 : client: [28] closed
+Feb 24 12:54 : client: [29] opened from [::1]:55182
+Feb 24 12:54 : client: [29] closed
+Feb 24 12:55 : client: [30] opened from [::1]:55186
+Feb 24 12:55 : client: [30] closed
+Feb 24 12:56 : client: [31] opened from [::1]:55188
+Feb 24 12:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 12:56 : client: [31] closed
+Feb 24 12:56 : client: [32] opened from [::1]:55190
+Feb 24 12:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 12:56 : client: [32] closed
+Feb 24 12:56 : client: [33] opened from [::1]:55192
+Feb 24 12:56 : client: [33] closed
+Feb 24 12:56 : client: [34] opened from [::1]:55194
+Feb 24 12:56 : client: [34] closed
+Feb 24 12:56 : client: [35] opened from 127.0.0.1:39186
+Feb 24 12:56 : client: [35] closed
+Feb 24 12:56 : client: [36] opened from [::1]:55200
+Feb 24 12:56 : client: [36] closed
+Feb 24 12:56 : client: [37] opened from [::1]:55202
+Feb 24 12:56 : client: [37] closed
+Feb 24 12:56 : client: [38] opened from [::1]:55204
+Feb 24 12:56 : client: [38] closed
+Feb 24 12:56 : client: [39] opened from 127.0.0.1:39194
+Feb 24 12:56 : client: [39] closed
+Feb 24 12:56 : client: [40] opened from [::1]:55208
+Feb 24 12:56 : client: [40] closed
+Feb 24 12:56 : client: [41] opened from [::1]:55210
+Feb 24 12:56 : client: [41] closed
+Feb 24 12:56 : client: [42] opened from [::1]:55212
+Feb 24 12:56 : client: [42] closed
+Feb 24 12:56 : client: [43] opened from 127.0.0.1:39202
+Feb 24 12:56 : client: [43] closed
+Feb 24 12:56 : client: [44] opened from [::1]:55216
+Feb 24 12:56 : client: [44] closed
+Feb 24 12:56 : client: [45] opened from [::1]:55218
+Feb 24 12:56 : client: [45] closed
+Feb 24 12:56 : client: [46] opened from [::1]:55220
+Feb 24 12:56 : client: [46] closed
+Feb 24 12:56 : client: [47] opened from 127.0.0.1:39210
+Feb 24 12:56 : client: [47] closed
+Feb 24 12:56 : client: [48] opened from [::1]:55224
+Feb 24 12:56 : client: [48] closed
+Feb 24 12:56 : client: [49] opened from [::1]:55226
+Feb 24 12:56 : client: [49] closed
+Feb 24 12:56 : client: [50] opened from [::1]:55228
+Feb 24 12:56 : client: [50] closed
+Feb 24 12:56 : client: [51] opened from 127.0.0.1:39218
+Feb 24 12:56 : client: [51] closed
+Feb 24 12:56 : client: [52] opened from [::1]:55232
+Feb 24 12:56 : client: [52] closed
+Feb 24 12:56 : client: [53] opened from [::1]:55234
+Feb 24 12:56 : client: [53] closed
+Feb 24 12:56 : client: [54] opened from [::1]:55236
+Feb 24 12:56 : client: [54] closed
+Feb 24 12:56 : client: [55] opened from 127.0.0.1:39226
+Feb 24 12:56 : client: [55] closed
+Feb 24 12:56 : client: [56] opened from [::1]:55240
+Feb 24 12:56 : client: [56] closed
+Feb 24 12:56 : client: [57] opened from [::1]:55242
+Feb 24 12:56 : client: [57] closed
+Feb 24 12:56 : client: [58] opened from [::1]:55244
+Feb 24 12:56 : client: [58] closed
+Feb 24 12:56 : client: [59] opened from 127.0.0.1:39234
+Feb 24 12:56 : client: [59] closed
+Feb 24 12:56 : client: [60] opened from [::1]:55248
+Feb 24 12:56 : client: [60] closed
+Feb 24 12:56 : client: [61] opened from [::1]:55250
+Feb 24 12:56 : client: [61] closed
+Feb 24 12:56 : client: [62] opened from [::1]:55252
+Feb 24 12:56 : client: [62] closed
+Feb 24 12:57 : client: [63] opened from [::1]:55256
+Feb 24 12:57 : client: [63] closed
+Feb 24 12:59 : player: played "K-Pop/Chungha/청하-02-Why Don`t You Know (Feat. 넉살).mp3"
+Feb 24 12:59 : client: [64] opened from 127.0.0.1:39250
+Feb 24 12:59 : client: [64] closed
+Feb 24 12:59 : client: [65] opened from [::1]:55264
+Feb 24 12:59 : client: [65] closed
+Feb 24 12:59 : client: [66] opened from [::1]:55266
+Feb 24 12:59 : client: [66] closed
+Feb 24 12:59 : client: [67] opened from [::1]:55268
+Feb 24 12:59 : client: [67] closed
+Feb 24 13:00 : client: [68] opened from 127.0.0.1:39260
+Feb 24 13:00 : client: [68] closed
+Feb 24 13:00 : client: [69] opened from [::1]:55274
+Feb 24 13:00 : client: [69] closed
+Feb 24 13:00 : client: [70] opened from [::1]:55276
+Feb 24 13:00 : client: [70] closed
+Feb 24 13:00 : client: [71] opened from [::1]:55278
+Feb 24 13:00 : client: [71] closed
