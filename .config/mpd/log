@@ -15739,3 +15739,155 @@ Feb 23 19:34 : client: [38] closed
 Feb 23 19:38 : player: played "K-Pop/Jay Park/박재범-01-YACHT (k) (Feat. Sik-K).mp3"
 Feb 23 19:42 : player: played "K-Pop/B.I.G/01 - 1.2.3.mp3"
 Feb 23 19:45 : player: played "K-Pop/Vermuda/버뮤다-01-Dream Girl.mp3"
+Feb 23 19:48 : player: played "K-Pop/GOT7/GOT7 (갓세븐)-01-Never Ever.mp3"
+Feb 23 19:51 : client: [39] opened from [::1]:54424
+Feb 23 19:51 : client: [39] closed
+Feb 23 20:04 : player: played "K-Pop/Yezi/예지-01-아낙수나문 (Anck Su Namum).mp3"
+Feb 23 21:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 21:26 : client: [0] opened from [::1]:41812
+Feb 23 21:26 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:26 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:26 : client: [0] closed
+Feb 23 21:27 : client: [1] opened from 127.0.0.1:49660
+Feb 23 21:27 : client: [1] closed
+Feb 23 21:27 : player: played "K-Pop/Yezi/예지-01-아낙수나문 (Anck Su Namum).mp3"
+Feb 23 21:27 : client: [2] opened from 127.0.0.1:49666
+Feb 23 21:30 : player: played "K-Pop/BoA/보아 (BoA)-01-CAMO.mp3"
+Feb 23 21:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:31 : client: [3] opened from [::1]:42058
+Feb 23 21:31 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:31 : client: [3] closed
+Feb 23 21:31 : client: [4] opened from [::1]:42060
+Feb 23 21:31 : client: [4] closed
+Feb 23 21:35 : player: played "K-Pop/CLC/CLC (씨엘씨)-02-도깨비.mp3"
+Feb 23 21:38 : player: played "K-Pop/Penomeco/PENOMECO-01-HUNNIT.mp3"
+Feb 23 21:38 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:43 : player: played "K-Pop/IU/Palette/10 이름에게.flac"
+Feb 23 21:43 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:47 : player: played "K-Pop/Sik-K/Sik-K (식케이)-02-party (SHUT DOWN) (Feat. 크러쉬).mp3"
+Feb 23 21:50 : player: played "K-Pop/Vixx/빅스-01-도원경 (桃源境).mp3"
+Feb 23 21:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:51 : player: played "K-Pop/Dreamcatcher/Prequel (First Mini Album)/01 - Dreamcatcher - Before & After (Intro).flac"
+Feb 23 21:51 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:55 : player: played "K-Pop/Jeong Sewoon/정세운-01-JUST U (PROD. GroovyRoom).mp3"
+Feb 23 21:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 21:59 : player: played "K-Pop/IU/Palette/02 팔레트.flac"
+Feb 23 21:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 22:02 : player: played "K-Pop/LaBoum/라붐(LABOUM)-02-Hwi hwi.mp3"
+Feb 23 22:05 : player: played "K-Pop/VICTON/VICTON (빅톤)-01-나를 기억해.mp3"
+Feb 23 22:09 : player: played "K-Pop/Monsta X/몬스타엑스-01-SHINE FOREVER.mp3"
+Feb 23 22:12 : player: played "K-Pop/April/에이프릴 (APRIL)-01-손을 잡아줘.mp3"
+Feb 23 22:16 : player: played "K-Pop/NCT 127/NCT 127-01-Cherry Bomb.mp3"
+Feb 23 22:20 : player: played "K-Pop/S.E.T/S.E.T-01-날라리.mp3"
+Feb 23 22:20 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 22:20 : client: [5] opened from [::1]:43616
+Feb 23 22:20 : client: [5] closed
+Feb 23 22:20 : client: [6] opened from [::1]:43618
+Feb 23 22:20 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 22:20 : client: [6] closed
+Feb 23 22:23 : player: played "K-Pop/LOONA/이달의 소녀-01-Everyday I Love You (Feat. 하슬) (ViVi).mp3"
+Feb 23 22:27 : player: played "K-Pop/EXID/EXID-01-덜덜덜.mp3"
+Feb 23 22:30 : player: played "K-Pop/Snuper/스누퍼 (SNUPER)-02-유성.mp3"
+Feb 23 22:33 : player: played "K-Pop/ONF/온앤오프 (ONF)-01-ON_OFF.mp3"
+Feb 23 22:35 : client: [7] opened from [::1]:43886
+Feb 23 22:35 : client: [7] closed
+Feb 23 22:37 : client: [8] opened from [::1]:43892
+Feb 23 22:37 : client: [8] closed
+Feb 23 22:37 : player: played "K-Pop/LOONA/이달의 소녀-01-Eclipse (Prod. by Daniel Obi Klein) (김립).mp3"
+Feb 23 22:37 : client: [9] opened from [::1]:43894
+Feb 23 22:37 : client: [9] closed
+Feb 23 22:37 : client: [10] opened from [::1]:43896
+Feb 23 22:37 : client: [10] closed
+Feb 23 22:37 : client: [11] opened from [::1]:43898
+Feb 23 22:37 : client: [11] closed
+Feb 23 22:37 : client: [12] opened from [::1]:43900
+Feb 23 22:37 : client: [12] closed
+Feb 23 22:37 : client: [13] opened from [::1]:43902
+Feb 23 22:37 : client: [13] closed
+Feb 23 22:40 : player: played "K-Pop/Red Velvet/Red Velvet (레드벨벳)-01-피카부 (Peek-A-Boo).mp3"
+Feb 23 22:41 : client: [14] opened from [::1]:44036
+Feb 23 22:41 : client: [14] closed
+Feb 23 22:42 : client: [15] opened from [::1]:44040
+Feb 23 22:42 : client: [15] closed
+Feb 23 22:42 : client: [16] opened from [::1]:44042
+Feb 23 22:42 : client: [16] closed
+Feb 23 22:44 : client: [17] opened from [::1]:44050
+Feb 23 22:44 : client: [17] closed
+Feb 23 22:44 : client: [18] opened from [::1]:44052
+Feb 23 22:44 : client: [18] closed
+Feb 23 22:44 : player: played "YOX/03 - Stampede.mp3"
+Feb 23 22:46 : client: [19] opened from [::1]:44060
+Feb 23 22:46 : client: [19] closed
+Feb 23 22:46 : client: [20] opened from [::1]:44062
+Feb 23 22:46 : client: [20] closed
+Feb 23 22:48 : player: played "K-Pop/Black6ix/블랙식스 (BLACK6IX)-01-제발.mp3"
+Feb 23 22:48 : client: [21] opened from [::1]:44068
+Feb 23 22:48 : client: [21] closed
+Feb 23 22:49 : client: [22] opened from [::1]:44070
+Feb 23 22:49 : client: [22] closed
+Feb 23 22:49 : client: [23] opened from [::1]:44074
+Feb 23 22:49 : client: [23] closed
+Feb 23 22:49 : client: [24] opened from [::1]:44076
+Feb 23 22:49 : client: [24] closed
+Feb 23 22:50 : client: [25] opened from [::1]:44078
+Feb 23 22:50 : client: [25] closed
+Feb 23 22:50 : client: [26] opened from [::1]:44082
+Feb 23 22:50 : client: [26] closed
+Feb 23 22:51 : client: [27] opened from [::1]:44084
+Feb 23 22:51 : client: [27] closed
+Feb 23 22:51 : player: played "K-Pop/Taeyeon/태연 (TAEYEON)-02-Cover Up.mp3"
+Feb 23 22:51 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 22:52 : client: [28] opened from [::1]:44088
+Feb 23 22:52 : client: [28] closed
+Feb 23 22:52 : client: [29] opened from [::1]:44090
+Feb 23 22:52 : client: [29] closed
+Feb 23 22:52 : client: [30] opened from [::1]:44094
+Feb 23 22:52 : client: [30] closed
+Feb 23 22:52 : client: [31] opened from [::1]:44096
+Feb 23 22:52 : client: [31] closed
+Feb 23 22:53 : client: [32] opened from [::1]:44100
+Feb 23 22:53 : client: [32] closed
+Feb 23 22:53 : client: [33] opened from [::1]:44102
+Feb 23 22:53 : client: [33] closed
+Feb 23 22:55 : player: played "K-Pop/KARD/Hola Hola/07 - KARD - Oh NaNa (Inst.).flac"
+Feb 23 22:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 22:58 : player: played "K-Pop/Lovelyz/러블리즈-02-WoW!.mp3"
+Feb 23 22:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 22:59 : client: [34] opened from [::1]:44326
+Feb 23 22:59 : client: [34] closed
+Feb 23 22:59 : client: [35] opened from [::1]:44328
+Feb 23 22:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 22:59 : client: [35] closed
+Feb 23 23:02 : player: played "K-Pop/1NB/1NB (원앤비)-01-쉽지않아 (Where U at).mp3"
+Feb 23 23:06 : player: played "K-Pop/T-ARA/티아라-01-내 이름은.mp3"
+Feb 23 23:06 : client: [36] opened from [::1]:44354
+Feb 23 23:06 : client: [36] closed
+Feb 23 23:06 : client: [37] opened from [::1]:44356
+Feb 23 23:06 : client: [37] closed
+Feb 23 23:06 : client: [38] opened from [::1]:44358
+Feb 23 23:06 : client: [38] closed
+Feb 23 23:10 : player: played "K-Pop/Minzy/공민지-01-니나노 (Feat. 플로우식 (Flowsik)).mp3"
+Feb 23 23:13 : player: played "K-Pop/Lovelyz/러블리즈-03-지금, 우리.mp3"
+Feb 23 23:14 : client: [39] opened from [::1]:44516
+Feb 23 23:14 : client: [39] closed
+Feb 23 23:15 : client: [40] opened from [::1]:44518
+Feb 23 23:15 : client: [40] closed
+Feb 23 23:15 : client: [41] opened from [::1]:44522
+Feb 23 23:15 : client: [41] closed
+Feb 23 23:16 : client: [2] closed
+Feb 23 23:17 : client: [42] opened from 127.0.0.1:52372
+Feb 23 23:17 : client: [43] opened from [::1]:44532
+Feb 23 23:17 : client: [43] closed
+Feb 23 23:17 : client: [44] opened from [::1]:44536
+Feb 23 23:17 : client: [44] closed
+Feb 23 23:17 : player: played "K-Pop/Henry/헨리 (HENRY)-01-끌리는 대로 (I`m good) (Feat. nafla).mp3"
+Feb 23 23:17 : client: [45] opened from [::1]:44538
+Feb 23 23:17 : client: [45] closed
+Feb 23 23:17 : client: [46] opened from [::1]:44540
+Feb 23 23:17 : client: [46] closed
+Feb 23 23:17 : client: [47] opened from [::1]:44542
+Feb 23 23:17 : client: [47] closed
+Feb 23 23:18 : client: [48] opened from [::1]:44614
+Feb 23 23:18 : client: [48] closed
+Feb 23 23:19 : client: [49] opened from [::1]:44620
+Feb 23 23:19 : client: [49] closed
