@@ -13,3 +13,4 @@ ln -sv ~/.dotfiles/.config/termite/* ~/.config/termite/
 ln -sv ~/.dotfiles/.config/redshift.conf ~/.config/
 ln -sv ~/.dotfiles/.irssi/* ~/.irssi/
 cp ~/.dotfiles/.config/gsimplecal/* ~/.config/gsimplecal/
+cp ~/.dotfiles/.config/mpdnotify.conf ~/.config/

@@ -15891,3 +15891,300 @@ Feb 23 23:18 : client: [48] opened from [::1]:44614
 Feb 23 23:18 : client: [48] closed
 Feb 23 23:19 : client: [49] opened from [::1]:44620
 Feb 23 23:19 : client: [49] closed
+Feb 23 23:21 : player: played "K-Pop/BTOB/비투비-02-MOVIE.mp3"
+Feb 23 23:21 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 23:21 : client: [50] opened from [::1]:44628
+Feb 23 23:21 : client: [50] closed
+Feb 23 23:22 : client: [51] opened from [::1]:44632
+Feb 23 23:22 : client: [51] closed
+Feb 23 23:22 : client: [52] opened from [::1]:44636
+Feb 23 23:22 : client: [52] closed
+Feb 23 23:23 : client: [53] opened from [::1]:44640
+Feb 23 23:23 : client: [53] closed
+Feb 23 23:24 : player: played "K-Pop/KARD/Hola Hola/02 - KARD - Don't Recall.flac"
+Feb 23 23:24 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 23:25 : client: [54] opened from [::1]:44646
+Feb 23 23:25 : client: [54] closed
+Feb 23 23:25 : client: [55] opened from [::1]:44648
+Feb 23 23:25 : client: [55] closed
+Feb 23 23:26 : client: [56] opened from [::1]:44652
+Feb 23 23:26 : client: [56] closed
+Feb 23 23:27 : client: [57] opened from [::1]:44654
+Feb 23 23:27 : client: [57] closed
+Feb 23 23:28 : player: played "K-Pop/Minzy/공민지-02-Superwoman (수퍼우먼).mp3"
+Feb 23 23:28 : client: [58] opened from [::1]:44658
+Feb 23 23:28 : client: [58] closed
+Feb 23 23:28 : client: [59] opened from [::1]:44662
+Feb 23 23:28 : client: [59] closed
+Feb 23 23:30 : client: [60] opened from [::1]:44668
+Feb 23 23:30 : client: [60] closed
+Feb 23 23:31 : player: played "K-Pop/ASTRO/아스트로 (ASTRO)-02-니가 불어와 (Crazy Sexy Cool).mp3"
+Feb 23 23:31 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 23:34 : player: played "K-Pop/KARD/Hola Hola/10 - KARD - Living Good (Inst.).flac"
+Feb 23 23:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 23:36 : client: [61] opened from [::1]:44854
+Feb 23 23:36 : client: [61] closed
+Feb 23 23:38 : player: played "K-Pop/LOONA/이달의 소녀 1_3-02-지금, 좋아해 (Love & Live).mp3"
+Feb 23 23:40 : client: [62] opened from [::1]:44866
+Feb 23 23:40 : client: [62] closed
+Feb 23 23:40 : client: [63] opened from [::1]:44868
+Feb 23 23:40 : client: [63] closed
+Feb 23 23:41 : client: [64] opened from [::1]:44872
+Feb 23 23:41 : client: [64] closed
+Feb 23 23:41 : player: played "K-Pop/Longguo & Shihyun/용국&시현-02-the.the.the.mp3"
+Feb 23 23:41 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 23:41 : client: [65] opened from [::1]:44874
+Feb 23 23:41 : client: [65] closed
+Feb 23 23:45 : player: played "K-Pop/IU/Palette/06 Black Out.flac"
+Feb 23 23:45 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 23:47 : client: [66] opened from [::1]:44976
+Feb 23 23:47 : client: [66] closed
+Feb 23 23:47 : client: [67] opened from [::1]:44978
+Feb 23 23:47 : client: [67] closed
+Feb 23 23:47 : client: [68] opened from [::1]:44980
+Feb 23 23:47 : client: [68] closed
+Feb 23 23:47 : client: [69] opened from [::1]:44984
+Feb 23 23:47 : client: [69] closed
+Feb 23 23:47 : client: [70] opened from [::1]:44986
+Feb 23 23:47 : client: [70] closed
+Feb 23 23:47 : client: [71] opened from [::1]:44988
+Feb 23 23:47 : client: [71] closed
+Feb 23 23:47 : client: [72] opened from [::1]:44990
+Feb 23 23:47 : client: [72] closed
+Feb 23 23:47 : client: [73] opened from [::1]:44992
+Feb 23 23:47 : client: [73] closed
+Feb 23 23:47 : client: [74] opened from [::1]:44994
+Feb 23 23:47 : client: [74] closed
+Feb 23 23:47 : client: [75] opened from [::1]:44996
+Feb 23 23:47 : client: [75] closed
+Feb 23 23:47 : client: [76] opened from [::1]:44998
+Feb 23 23:47 : client: [76] closed
+Feb 23 23:47 : client: [77] opened from [::1]:45000
+Feb 23 23:47 : client: [77] closed
+Feb 23 23:47 : client: [78] opened from [::1]:45002
+Feb 23 23:47 : client: [78] closed
+Feb 23 23:47 : client: [79] opened from [::1]:45004
+Feb 23 23:47 : client: [79] closed
+Feb 23 23:47 : client: [80] opened from [::1]:45006
+Feb 23 23:47 : client: [80] closed
+Feb 23 23:47 : client: [81] opened from [::1]:45008
+Feb 23 23:47 : client: [81] closed
+Feb 23 23:47 : client: [82] opened from [::1]:45010
+Feb 23 23:47 : client: [82] closed
+Feb 23 23:47 : client: [83] opened from [::1]:45012
+Feb 23 23:47 : client: [83] closed
+Feb 23 23:48 : client: [84] opened from [::1]:45016
+Feb 23 23:48 : client: [84] closed
+Feb 23 23:48 : client: [85] opened from [::1]:45018
+Feb 23 23:48 : client: [85] closed
+Feb 23 23:48 : client: [86] opened from [::1]:45020
+Feb 23 23:48 : client: [86] closed
+Feb 23 23:49 : client: [87] opened from [::1]:45024
+Feb 23 23:49 : client: [87] closed
+Feb 23 23:49 : client: [88] opened from [::1]:45026
+Feb 23 23:49 : client: [88] closed
+Feb 23 23:49 : client: [89] opened from [::1]:45028
+Feb 23 23:49 : client: [89] closed
+Feb 23 23:50 : client: [90] opened from [::1]:45030
+Feb 23 23:50 : client: [90] closed
+Feb 23 23:50 : client: [91] opened from [::1]:45032
+Feb 23 23:50 : client: [91] closed
+Feb 23 23:50 : client: [92] opened from [::1]:45034
+Feb 23 23:50 : client: [92] closed
+Feb 23 23:51 : player: played "K-Pop/WINNER/WINNER-01-LOVE ME LOVE ME.mp3"
+Feb 23 23:54 : client: [93] opened from [::1]:45046
+Feb 23 23:54 : client: [93] closed
+Feb 23 23:54 : client: [94] opened from [::1]:45048
+Feb 23 23:54 : client: [94] closed
+Feb 23 23:54 : player: played "K-Pop/SEVENTEEN/세븐틴-01-울고 싶지 않아.mp3"
+Feb 23 23:55 : client: [95] opened from [::1]:45050
+Feb 23 23:55 : client: [95] closed
+Feb 23 23:55 : client: [96] opened from [::1]:45052
+Feb 23 23:55 : client: [96] closed
+Feb 23 23:55 : client: [97] opened from [::1]:45054
+Feb 23 23:55 : client: [97] closed
+Feb 23 23:55 : client: [98] opened from [::1]:45058
+Feb 23 23:55 : client: [98] closed
+Feb 23 23:55 : client: [99] opened from [::1]:45060
+Feb 23 23:55 : client: [99] closed
+Feb 23 23:55 : client: [100] opened from [::1]:45062
+Feb 23 23:55 : client: [100] closed
+Feb 23 23:55 : client: [101] opened from [::1]:45064
+Feb 23 23:55 : client: [101] closed
+Feb 23 23:56 : client: [102] opened from [::1]:45068
+Feb 23 23:56 : client: [102] closed
+Feb 23 23:56 : client: [103] opened from [::1]:45070
+Feb 23 23:56 : client: [103] closed
+Feb 23 23:56 : client: [104] opened from [::1]:45072
+Feb 23 23:56 : client: [104] closed
+Feb 23 23:56 : client: [105] opened from [::1]:45074
+Feb 23 23:56 : client: [105] closed
+Feb 23 23:57 : client: [106] opened from [::1]:45076
+Feb 23 23:57 : client: [106] closed
+Feb 23 23:57 : client: [107] opened from [::1]:45078
+Feb 23 23:57 : client: [107] closed
+Feb 23 23:57 : client: [108] opened from [::1]:45080
+Feb 23 23:57 : client: [108] closed
+Feb 23 23:57 : client: [109] opened from [::1]:45082
+Feb 23 23:57 : client: [109] closed
+Feb 23 23:57 : client: [110] opened from [::1]:45084
+Feb 23 23:57 : client: [110] closed
+Feb 23 23:57 : client: [111] opened from [::1]:45086
+Feb 23 23:57 : client: [111] closed
+Feb 23 23:57 : client: [112] opened from [::1]:45090
+Feb 23 23:57 : client: [112] closed
+Feb 23 23:57 : client: [113] opened from [::1]:45092
+Feb 23 23:57 : client: [113] closed
+Feb 23 23:57 : client: [114] opened from [::1]:45094
+Feb 23 23:57 : client: [114] closed
+Feb 23 23:57 : client: [115] opened from [::1]:45096
+Feb 23 23:57 : client: [115] closed
+Feb 23 23:57 : client: [116] opened from [::1]:45098
+Feb 23 23:57 : client: [116] closed
+Feb 23 23:57 : client: [117] opened from [::1]:45100
+Feb 23 23:57 : client: [117] closed
+Feb 23 23:58 : player: played "K-Pop/BAP/B.A.P-02-WAKE ME UP.mp3"
+Feb 23 23:59 : client: [118] opened from [::1]:45106
+Feb 23 23:59 : client: [118] closed
+Feb 23 23:59 : client: [119] opened from [::1]:45108
+Feb 23 23:59 : client: [119] closed
+Feb 23 23:59 : client: [120] opened from [::1]:45110
+Feb 23 23:59 : client: [120] closed
+Feb 23 23:59 : client: [121] opened from [::1]:45112
+Feb 23 23:59 : client: [121] closed
+Feb 23 23:59 : client: [122] opened from [::1]:45114
+Feb 23 23:59 : client: [122] closed
+Feb 23 23:59 : client: [123] opened from [::1]:45116
+Feb 23 23:59 : client: [123] closed
+Feb 23 23:59 : client: [124] opened from [::1]:45118
+Feb 23 23:59 : client: [124] closed
+Feb 23 23:59 : client: [125] opened from [::1]:45120
+Feb 23 23:59 : client: [125] closed
+Feb 23 23:59 : client: [126] opened from [::1]:45122
+Feb 23 23:59 : client: [126] closed
+Feb 24 00:00 : client: [127] opened from [::1]:45126
+Feb 24 00:00 : client: [127] closed
+Feb 24 00:00 : client: [128] opened from [::1]:45128
+Feb 24 00:00 : client: [128] closed
+Feb 24 00:00 : client: [129] opened from [::1]:45130
+Feb 24 00:00 : client: [129] closed
+Feb 24 00:02 : player: played "K-Pop/SONAMOO(소나무)/소나무 (SONAMOO)-02-I (knew it).mp3"
+Feb 24 00:04 : client: [130] opened from [::1]:45142
+Feb 24 00:04 : client: [130] closed
+Feb 24 00:04 : client: [131] opened from [::1]:45144
+Feb 24 00:04 : client: [131] closed
+Feb 24 00:04 : client: [132] opened from [::1]:45146
+Feb 24 00:04 : client: [132] closed
+Feb 24 00:04 : client: [133] opened from [::1]:45148
+Feb 24 00:04 : client: [133] closed
+Feb 24 00:04 : client: [134] opened from [::1]:45150
+Feb 24 00:04 : client: [134] closed
+Feb 24 00:04 : client: [135] opened from [::1]:45152
+Feb 24 00:04 : client: [135] closed
+Feb 24 00:04 : client: [136] opened from [::1]:45154
+Feb 24 00:04 : client: [136] closed
+Feb 24 00:04 : client: [137] opened from [::1]:45156
+Feb 24 00:04 : client: [137] closed
+Feb 24 00:04 : client: [138] opened from [::1]:45158
+Feb 24 00:04 : client: [138] closed
+Feb 24 00:05 : player: played "K-Pop/Sohee/소희-01-Spotlight.mp3"
+Feb 24 00:05 : client: [139] opened from [::1]:45162
+Feb 24 00:05 : client: [139] closed
+Feb 24 00:05 : client: [140] opened from [::1]:45164
+Feb 24 00:05 : client: [140] closed
+Feb 24 00:05 : client: [141] opened from [::1]:45166
+Feb 24 00:05 : client: [141] closed
+Feb 24 00:05 : client: [142] opened from [::1]:45168
+Feb 24 00:05 : client: [142] closed
+Feb 24 00:05 : client: [143] opened from [::1]:45170
+Feb 24 00:05 : client: [143] closed
+Feb 24 00:05 : client: [144] opened from [::1]:45172
+Feb 24 00:05 : client: [144] closed
+Feb 24 00:06 : client: [145] opened from [::1]:45174
+Feb 24 00:06 : client: [145] closed
+Feb 24 00:06 : client: [146] opened from [::1]:45176
+Feb 24 00:06 : client: [146] closed
+Feb 24 00:06 : client: [147] opened from [::1]:45178
+Feb 24 00:06 : client: [147] closed
+Feb 24 00:08 : player: played "K-Pop/NCT Dream/NCT DREAM-01-마지막 첫사랑 (My First and Last).mp3"
+Feb 24 00:09 : client: [148] opened from [::1]:45190
+Feb 24 00:09 : client: [148] closed
+Feb 24 00:10 : client: [149] opened from [::1]:45192
+Feb 24 00:10 : client: [149] closed
+Feb 24 00:10 : client: [150] opened from [::1]:45194
+Feb 24 00:10 : client: [150] closed
+Feb 24 00:10 : client: [151] opened from [::1]:45196
+Feb 24 00:10 : client: [151] closed
+Feb 24 00:10 : client: [152] opened from [::1]:45198
+Feb 24 00:10 : client: [152] closed
+Feb 24 00:10 : client: [153] opened from [::1]:45200
+Feb 24 00:10 : client: [153] closed
+Feb 24 00:10 : client: [154] opened from [::1]:45202
+Feb 24 00:10 : client: [154] closed
+Feb 24 00:10 : client: [155] opened from [::1]:45204
+Feb 24 00:10 : client: [155] closed
+Feb 24 00:10 : client: [156] opened from [::1]:45206
+Feb 24 00:10 : client: [156] closed
+Feb 24 00:10 : client: [157] opened from [::1]:45208
+Feb 24 00:10 : client: [157] closed
+Feb 24 00:10 : client: [158] opened from [::1]:45210
+Feb 24 00:10 : client: [158] closed
+Feb 24 00:10 : client: [159] opened from [::1]:45212
+Feb 24 00:10 : client: [159] closed
+Feb 24 00:10 : client: [160] opened from [::1]:45214
+Feb 24 00:10 : client: [160] closed
+Feb 24 00:10 : client: [161] opened from [::1]:45216
+Feb 24 00:10 : client: [161] closed
+Feb 24 00:10 : client: [162] opened from [::1]:45218
+Feb 24 00:10 : client: [162] closed
+Feb 24 00:10 : client: [163] opened from [::1]:45220
+Feb 24 00:10 : client: [163] closed
+Feb 24 00:10 : client: [164] opened from [::1]:45222
+Feb 24 00:10 : client: [164] closed
+Feb 24 00:10 : client: [165] opened from [::1]:45224
+Feb 24 00:10 : client: [165] closed
+Feb 24 00:10 : client: [166] opened from [::1]:45226
+Feb 24 00:10 : client: [166] closed
+Feb 24 00:10 : client: [167] opened from [::1]:45230
+Feb 24 00:10 : client: [167] closed
+Feb 24 00:10 : client: [168] opened from [::1]:45232
+Feb 24 00:10 : client: [168] closed
+Feb 24 00:10 : client: [169] opened from [::1]:45234
+Feb 24 00:10 : client: [169] closed
+Feb 24 00:10 : client: [170] opened from [::1]:45236
+Feb 24 00:10 : client: [170] closed
+Feb 24 00:11 : player: played "K-Pop/Red Velvet/01 - Rookie.mp3"
+Feb 24 00:12 : client: [171] opened from [::1]:45242
+Feb 24 00:12 : client: [171] closed
+Feb 24 00:12 : client: [172] opened from [::1]:45244
+Feb 24 00:12 : client: [172] closed
+Feb 24 00:12 : client: [173] opened from [::1]:45246
+Feb 24 00:12 : client: [173] closed
+Feb 24 00:12 : client: [174] opened from [::1]:45248
+Feb 24 00:12 : client: [174] closed
+Feb 24 00:13 : client: [175] opened from [::1]:45250
+Feb 24 00:13 : client: [175] closed
+Feb 24 00:13 : client: [176] opened from [::1]:45252
+Feb 24 00:13 : client: [176] closed
+Feb 24 00:13 : client: [177] opened from [::1]:45254
+Feb 24 00:13 : client: [177] closed
+Feb 24 00:13 : client: [178] opened from [::1]:45256
+Feb 24 00:13 : client: [178] closed
+Feb 24 00:13 : client: [179] opened from [::1]:45258
+Feb 24 00:13 : client: [179] closed
+Feb 24 00:13 : client: [180] opened from [::1]:45260
+Feb 24 00:13 : client: [180] closed
+Feb 24 00:13 : client: [181] opened from [::1]:45264
+Feb 24 00:13 : client: [181] closed
+Feb 24 00:13 : client: [182] opened from [::1]:45266
+Feb 24 00:13 : client: [182] closed
+Feb 24 00:13 : client: [183] opened from [::1]:45268
+Feb 24 00:13 : client: [183] closed
+Feb 24 00:13 : client: [184] opened from [::1]:45270
+Feb 24 00:13 : client: [184] closed
+Feb 24 00:13 : client: [185] opened from [::1]:45272
+Feb 24 00:13 : client: [185] closed
+Feb 24 00:13 : client: [186] opened from [::1]:45274
+Feb 24 00:13 : client: [186] closed
+Feb 24 00:15 : player: played "K-Pop/Shannon/샤넌-01-눈물이 흘러 (Feat. Lil Boi).mp3"
+Feb 24 00:18 : player: played "K-Pop/Up10tion/업텐션 (UP10TION)-01-시작해 (Runner).mp3"
