@@ -151,7 +151,7 @@ port = 6600
 
 interval = 2
 
-format-online = %{A1:mpc prev:}%{A2:mpc toggle:}%{A3:mpc next:}<icon-prev>%{A}%{A}%{A}<label-song>
+format-online = %{A1:mpc prev:}%{A2:mpc toggle:}%{A3:mpc next:}<icon-prev>%{A}%{A}%{A}%{A1:echo wtf:}<label-song>%{A}
 
 label = "%output:0:45:...%"
 label-song = %title%

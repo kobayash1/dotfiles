@@ -14576,3 +14576,1164 @@ Feb 22 14:01 : exception: Failed to open mixer for 'default detected output': no
 Feb 22 14:01 : client: [0] closed
 Feb 22 14:01 : avahi: Service 'Music Player' successfully established.
 Feb 22 14:01 : client: [1] opened from 127.0.0.1:49474
+Feb 23 16:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 16:28 : exception: Failed to decode /home/kobayashi/Music/K-Pop/Z.uK/Z-uK (지욱)-01-Push & Pull.mp3
+Feb 23 16:28 : exception: nested: Failed to open /home/kobayashi/Music/K-Pop/Z.uK/Z-uK (지욱)-01-Push & Pull.mp3: No such file or directory
+Feb 23 16:28 : player: played "K-Pop/Z.uK/Z-uK (지욱)-01-Push & Pull.mp3"
+Feb 23 16:28 : exception: Failed to decode /home/kobayashi/Music/K-Pop/Rania/BP RANIA-01-Beep Beep Beep.mp3
+Feb 23 16:28 : exception: nested: Failed to open /home/kobayashi/Music/K-Pop/Rania/BP RANIA-01-Beep Beep Beep.mp3: No such file or directory
+Feb 23 16:28 : player: played "K-Pop/Rania/BP RANIA-01-Beep Beep Beep.mp3"
+Feb 23 16:28 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 23 16:29 : client: [0] opened from [::1]:36362
+Feb 23 16:29 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 23 16:29 : client: [0] closed
+Feb 23 16:29 : client: [1] opened from [::1]:36364
+Feb 23 16:29 : client: [1] closed
+Feb 23 16:29 : client: [2] opened from [::1]:36366
+Feb 23 16:29 : client: [2] closed
+Feb 23 16:29 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 16:39 : player: played "http://174.138.71.242:8000"
+Feb 23 16:40 : client: [3] opened from [::1]:36396
+Feb 23 16:40 : client: [3] closed
+Feb 23 16:40 : client: [4] opened from [::1]:36398
+Feb 23 16:40 : client: [4] closed
+Feb 23 16:40 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:07 : player: played "http://174.138.71.242:8000"
+Feb 23 17:08 : client: [5] opened from [::1]:36426
+Feb 23 17:08 : client: [5] closed
+Feb 23 17:09 : client: [6] opened from [::1]:36428
+Feb 23 17:09 : client: [6] closed
+Feb 23 17:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:09 : player: played "http://174.138.71.242:8000"
+Feb 23 17:09 : client: [7] opened from [::1]:36436
+Feb 23 17:09 : client: [7] closed
+Feb 23 17:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:09 : client: [8] opened from [::1]:36440
+Feb 23 17:09 : client: [8] closed
+Feb 23 17:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 17:18 : exception: inotify_add_watch() has failed: No such file or directory
+Feb 23 17:18 : client: [0] opened from [::1]:46912
+Feb 23 17:18 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:18 : client: [0] closed
+Feb 23 17:18 : client: [1] opened from [::1]:46914
+Feb 23 17:18 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:18 : client: [1] closed
+Feb 23 17:25 : client: [2] opened from 127.0.0.1:55194
+Feb 23 17:31 : client: [3] opened from [::1]:47102
+Feb 23 17:31 : update: updating YOX/03 - Stampede.mp3
+Feb 23 17:31 : client: [3] closed
+Feb 23 17:31 : update: updating Madcon/01 - Don't Worry (feat. Ray Dalton).mp3
+Feb 23 17:31 : update: updating Breakbot/02 - Baby I'm Yours (Aeroplane Remix).mp3
+Feb 23 17:31 : update: updating Breakbot/01 - Baby I'm Yours.mp3
+Feb 23 17:31 : update: updating rips/Girl's Day/Everyday #5/03 Love Again.wav
+Feb 23 17:31 : update: updating rips/Girl's Day/Everyday #5/07 I'll Be Yours (inst.).wav
+Feb 23 17:31 : update: updating rips/Girl's Day/Everyday #5/01 I'll Be Yours.wav
+Feb 23 17:31 : update: updating rips/Girl's Day/Everyday #5/02 THIRSTY.wav
+Feb 23 17:31 : update: updating rips/Girl's Day/Everyday #5/05 Truth.wav
+Feb 23 17:31 : update: updating rips/Girl's Day/Everyday #5/04 Kumbaya (Come by Here).wav
+Feb 23 17:31 : update: updating rips/Girl's Day/Everyday #5/06 Don't Be Shy.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/23 - XeoN - Eternal Fantasy.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/08 - Mr.Funky - OUT LAW - Reborn.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/05 - DINY - Cosmic Fantastic Lovesong.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/06 - Lin-G - Sweet Dream.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/04 - FIRST AID - BEE-U-TIFUL.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/16 - P'sycho-Remi - The Guilty.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/01 - 7 Sequence - Dual Strikers.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/09 - makou - Put Em Up.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/18 - Planetboom - MonoXide.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/22 - ReX - Airwave.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/15 - NieN - Rage Of Demon.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/13 - Electronic Boutique - Love is Beautiful.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/20 - P'sycho-Remi - Burn It Down.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/03 - cranky - La Campanella  Nu Rave.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/10 - Electronic Boutique - Puzzler.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/11 - FIRST AID - D2.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/17 - XeoN - Dream of Winds.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/07 - NieN - Trip.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/02 - Hosoe Shinji - XLASHER.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/21 - Mr.Funky - Nova (Mr.Funky Remix).wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/19 - Mr.Funky - SuperSonic (Mr.Funky Remix).wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/14 - makou - Say It from Your Heart.wav
+Feb 23 17:31 : update: updating rips/DJMax - DJMax Technika2 OST/12 - bermei.inazawa - Cozy Quilt.wav
+Feb 23 17:31 : update: updating rips/Luna - Free Somebody/04 - Luna - I Wish (Pretty Girl).wav
+Feb 23 17:31 : update: updating rips/Luna - Free Somebody/01 - Luna - Free Somebody.wav
+Feb 23 17:31 : update: updating rips/Luna - Free Somebody/03 - Luna - Keep on Doin'.wav
+Feb 23 17:31 : update: updating rips/Luna - Free Somebody/06 - Luna - My Medicine.wav
+Feb 23 17:31 : update: updating rips/Luna - Free Somebody/05 - Luna - Galaxy.wav
+Feb 23 17:31 : update: updating rips/Luna - Free Somebody/02 - Luna - Breathe.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/08 - Wayman Tisdale - Everything In You.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/02 - Wayman Tisdale - Creative Juices.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/07 - Wayman Tisdale - Better Days.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/12 - Wayman Tisdale - Glory Glory.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/01 - Wayman Tisdale - Ready To Hang.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/11 - Wayman Tisdale - Off Into It.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/10 - Wayman Tisdale - The Time Is Here.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/09 - Wayman Tisdale - Even When.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/04 - Wayman Tisdale - Ain't No Stoppin' Us Now.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/05 - Wayman Tisdale - My World.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/06 - Wayman Tisdale - Hang Time.wav
+Feb 23 17:31 : update: updating rips/Wayman Tisdale - Hang Time/03 - Wayman Tisdale - Cruisin'.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/02 - Candle feat. Paloalto 팔로알토.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/08 - Back.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/06 - John Doe.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/09 - OPPA (오빠).wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/07 - One Black Night.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/01 - Baby Don’t Play.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/03 - I Feel You.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/11 - 없어 (GONE).wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/05 - Loved.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/10 - 사랑이 떠나려 할 때.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/12 - 이 순간.wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/13 - 20150711 (Talk) (CD Only).wav
+Feb 23 17:31 : update: updating rips/Wonder Girls/원더걸스 (Wonder Girls) - Reboot/04 - Rewind.wav
+Feb 23 17:31 : update: updating rips/TWICE/TWICEcoaster_LANE1/01 TT.m4a
+Feb 23 17:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Feb 23 17:31 : update: updating rips/IU/Palette/09 그렇게 사랑은.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/03 이런 엔딩.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/01 이 지금.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/06 Black Out.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/10 이름에게.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/02 팔레트.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/05 잼잼.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/08 밤편지.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/04 사랑이 잘.wav
+Feb 23 17:31 : update: updating rips/IU/Palette/07 마침표.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/02 - Jamie Woon - Movement.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/07 - Jamie Woon - Little Wonder.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/01 - Jamie Woon - Message.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/04 - Jamie Woon - Celebration.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/08 - Jamie Woon - Thunder.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/05 - Jamie Woon - Lament.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/09 - Jamie Woon - Skin.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/10 - Jamie Woon - Dedication.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/03 - Jamie Woon - Sharpness.wav
+Feb 23 17:31 : update: updating rips/Jamie Woon - Making Time/06 - Jamie Woon - Forgiven.wav
+Feb 23 17:31 : update: updating rips/Mamamoo/Pink Funky/01 FREAKIN SHOES.wav
+Feb 23 17:31 : update: updating rips/Mamamoo/Pink Funky/04 갑과을.wav
+Feb 23 17:31 : update: updating rips/Mamamoo/Pink Funky/02 음 오 아 예 (UM OH AH YAEH).wav
+Feb 23 17:31 : update: updating rips/Mamamoo/Pink Funky/05 SELF CAMERA.wav
+Feb 23 17:31 : update: updating rips/Mamamoo/Pink Funky/03 따끔.wav
+Feb 23 17:31 : update: updating rips/Mamamoo/Pink Funky/06 아!.wav
+Feb 23 17:31 : update: updating rips/OutKast - Speakerboxxx/05 - OutKast - The Way You Move (featuring Sleepy Brown).wav
+Feb 23 17:31 : update: updating rips/나인뮤지스 - MUSES DIARY PART.2  IDENTITY/01 - 나인뮤지스 - Identity.wav
+Feb 23 17:31 : update: updating rips/나인뮤지스 - MUSES DIARY PART.2  IDENTITY/06 - 나인뮤지스 - 기억해 (Inst.).wav
+Feb 23 17:31 : update: updating rips/나인뮤지스 - MUSES DIARY PART.2  IDENTITY/04 - 나인뮤지스 - 둘이서.wav
+Feb 23 17:31 : update: updating rips/나인뮤지스 - MUSES DIARY PART.2  IDENTITY/02 - 나인뮤지스 - 기억해.wav
+Feb 23 17:31 : update: updating rips/나인뮤지스 - MUSES DIARY PART.2  IDENTITY/05 - 나인뮤지스 - Hate Me.wav
+Feb 23 17:31 : update: updating rips/나인뮤지스 - MUSES DIARY PART.2  IDENTITY/03 - 나인뮤지스 - 페스츄리.wav
+Feb 23 17:31 : update: updating rips/Dreamcatcher - Prequel (First Mini Album)/03 - Dreamcatcher - Wake Up.wav
+Feb 23 17:31 : update: updating rips/Dreamcatcher - Prequel (First Mini Album)/06 - Dreamcatcher - 날아올라 (Fly High) (Inst.).wav
+Feb 23 17:31 : update: updating rips/Dreamcatcher - Prequel (First Mini Album)/05 - Dreamcatcher - 괜찮아!.wav
+Feb 23 17:31 : update: updating rips/Dreamcatcher - Prequel (First Mini Album)/04 - Dreamcatcher - Sleep-Walking.wav
+Feb 23 17:31 : update: updating rips/Dreamcatcher - Prequel (First Mini Album)/01 - Dreamcatcher - Before & After (Intro).wav
+Feb 23 17:31 : update: updating rips/Dreamcatcher - Prequel (First Mini Album)/02 - Dreamcatcher - 날아올라 (Fly High).wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/14 - Makou - A Life With You.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/10 - Cranky - SuperNova.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/16 - AstroKid - Kung-Fu Rider.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/04 - ND Lee - Give Me 5.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/22 - Tsukasa - Dark Prism.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/07 - Paul Bazooka - SigNalize.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/01 - 3rd Coast - Fallin' in LUV.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/21 - 3rd Coast - My Heart, My Soul.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/24 - Laurent Newfield & Ravenant - Angel.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/23 - XeoN - Chemical Slave.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/27 - Mr.Funky - RockSTAR.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/19 - Nauts - EGG.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/20 - Makou - Emblem.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/09 - TAK - Black Swan.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/11 - Tsukasa - Over the Rainbow.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/15 - DINY - Dream Again (Vocal CREHA).wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/29 - TANUKI - Right Back.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/18 - STi - 유령 (Vocal 류수정. Rap STi).wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/12 - XeoN - You & Me.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/25 - XeoN - Watch Your Step.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/03 - Laurent Newfield & Ravenant - Wanna Be Your LOVER.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/06 - Mr.Funky - Out of CTRL.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/08 - XeoN - Xeus.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/28 - Sampling Masters MEGA - Bamboo on Bamboo.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/17 - LeeZu - ShowDown.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/26 - NieN - Feel Ma Beat.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/05 - Croove - AD2222.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/02 - Sui.Jay - Now a NEW Day.wav
+Feb 23 17:31 : update: updating rips/Pentavision - DJMAX TECHNIKA 3 Original Sound Track -Orignal Disc-/13 - ND LEE - 설레임 Part. 2.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/17 - Dr. Dre feat. DeFari, Xzibit, Knoc-turn'al, Time Bomb, King T, MC Ren & Kokane - Some L.A. Niggaz.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/03 - Dr. Dre feat. Devin The Dude & Snoop Dogg - Fuck You.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/12 - Dr. Dre feat. Hittman, Kurupt & Ms. Roq - Let's Get High.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/07 - Dr. Dre feat. Eminem & Xzibit - What's The Difference.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/02 - Dr. Dre - The Watcher.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/20 - Dr. Dre feat. Hittman - Ackrite.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/13 - Dr. Dre feat. Snoop Dogg, Hittman & Six-Two - Bitch Niggaz.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/01 - Dr. Dre feat. Xzibit & Tray-Dee - Lolo (Intro).wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/19 - Dr. Dre feat. Kurupt & Hittman - Housewife.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/11 - Dr. Dre feat. Snoop Dogg - The Next Episode.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/15 - Dr. Dre feat. Hittman & Ms. Roq - Murder Ink.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/10 - Dr. Dre feat. Eminem - Forgot About Dre.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/21 - Dr. Dre feat. Knoc-turn'al & Hittman - Bang Bang.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/05 - Dr. Dre feat. Hittman - Big Ego's.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/04 - Dr. Dre feat. Snoop Dogg - Still D.R.E..wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/18 - Dr. Dre feat. Jake Steed - Pause 4 Porno.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/09 - Dr. Dre feat. Hittman - Light Speed.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/08 - Dr. Dre feat. Traci Nelson, Ms. Roq & Eddie Griffin - Bar One.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/06 - Dr. Dre feat. Hittman, Kurupt, Nate Dogg & Six-Two - Xxplosive.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/22 - Dr. Dre feat. Mary J. Blige & Rell - The Message.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/14 - Dr. Dre feat. Mel-Man & Charis Henry - The Car Bomb.wav
+Feb 23 17:31 : update: updating rips/Dr. Dre - 2001/16 - Dr. Dre feat. Eddie Griffin - Ed-ucation.wav
+Feb 23 17:31 : update: updating rips/PSY/04 - Year of 77 (77학개론) (feat. LeeSsang & Kim Jin Pyo).flac
+Feb 23 17:31 : update: updating rips/PSY/01 - Blue Frog (청개구리) [feat. G-Dragon].flac
+Feb 23 17:31 : update: updating rips/PSY/05 - What Would Have Been_ (어땠을까) (feat. Park Jung Hyun).flac
+Feb 23 17:31 : update: updating rips/PSY/02 - Passionate Goodbye (뜨거운 안녕) (feat. Sung Si Kyung).flac
+Feb 23 17:31 : update: updating rips/PSY/06 - Never Say Goodbye (feat. Yoon Do Hyun).flac
+Feb 23 17:31 : update: updating rips/PSY/03 - Gangnam Style (강남스타일).flac
+Feb 23 17:31 : update: updating rips/UZA/uza - SUITABLE.wav
+Feb 23 17:31 : update: updating rips/Red Velvet/10 - Cool World.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/09 - Day 1.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/04 - Red Dress.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/07 - Time Slip.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/01 - Dumb Dumb.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/02 - Huff n Puff.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/03 - Campfire.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/06 - Lady's Room.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/08 - Don't U Wait No More.flac
+Feb 23 17:31 : update: updating rips/Red Velvet/05 - Oh Boy.flac
+Feb 23 17:31 : update: updating rips/AoA/04 Crazy Boy.flac
+Feb 23 17:31 : update: updating rips/AoA/03 Cherry Pop.flac
+Feb 23 17:31 : update: updating rips/AoA/01 Good Luck.flac
+Feb 23 17:31 : update: updating rips/AoA/02 10 Seconds.wav
+Feb 23 17:31 : update: updating rips/AoA/05 Still Falls The Rain.flac
+Feb 23 17:31 : update: updating rips/AoA/03 Cherry Pop.wav
+Feb 23 17:31 : update: updating rips/AoA/02 10 Seconds.flac
+Feb 23 17:31 : update: updating rips/AoA/04 Crazy Boy.wav
+Feb 23 17:31 : update: updating rips/AoA/01 Good Luck.wav
+Feb 23 17:31 : update: updating rips/AoA/05 Still Falls The Rain.wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/01 - KARD - Oh NaNa (Hidden. 허영지).wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/04 - KARD - Hola Hola.wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/02 - KARD - Don't Recall.wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/09 - KARD - RUMOR (Inst.).wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/03 - KARD - RUMOR.wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/06 - KARD - Living Good (Special thanks to.).wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/08 - KARD - Don't Recall (Inst.).wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/10 - KARD - Living Good (Inst.).wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/05 - KARD - 난 멈추지 않는다.wav
+Feb 23 17:31 : update: updating rips/KARD - Hola Hola/07 - KARD - Oh NaNa (Inst.).wav
+Feb 23 17:31 : update: updating Dr Dre/27 - Nuthin' but a g thang.mp3
+Feb 23 17:31 : update: updating Troyboi/O.G.mp3
+Feb 23 17:31 : update: updating Major Lazer/04 - Lean On (feat. MØ &DJ Snake).mp3
+Feb 23 17:31 : update: updating K-Pop/BoA/보아 (BoA)-01-CAMO.mp3
+Feb 23 17:31 : update: updating K-Pop/BoA/01 - Kiss My Lips.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Day/03 - EXPECT(기대해).mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Day/Everyday #5/04 Kumbaya (Come by Here).flac
+Feb 23 17:31 : update: updating K-Pop/Girls Day/Everyday #5/01 I'll Be Yours.flac
+Feb 23 17:31 : update: updating K-Pop/Girls Day/Everyday #5/06 Don't Be Shy.flac
+Feb 23 17:31 : update: updating K-Pop/Girls Day/Everyday #5/05 Truth.flac
+Feb 23 17:31 : update: updating K-Pop/Girls Day/Everyday #5/03 Love Again.flac
+Feb 23 17:31 : update: updating K-Pop/Girls Day/Everyday #5/02 THIRSTY.flac
+Feb 23 17:31 : update: updating K-Pop/Girls Day/Everyday #5/07 I'll Be Yours (inst.).flac
+Feb 23 17:31 : update: updating K-Pop/Girls Day/02 - Something.mp3
+Feb 23 17:31 : update: updating K-Pop/Bloomy/블루미-01-너 때문이야.mp3
+Feb 23 17:31 : update: updating K-Pop/INX/INX (인엑스)-01-2gether.mp3
+Feb 23 17:31 : update: updating K-Pop/INX/INX (인엑스)-01-오나 (Alright).mp3
+Feb 23 17:31 : update: updating K-Pop/S.E.T/S.E.T-01-날라리.mp3
+Feb 23 17:31 : update: updating K-Pop/U-KISS/유키스-02-Stalker.mp3
+Feb 23 17:31 : update: updating K-Pop/JBJ/JBJ-02-Fantasy.mp3
+Feb 23 17:31 : update: updating K-Pop/Melody Day/Speed Up.mp3
+Feb 23 17:31 : update: updating K-Pop/Melody Day/01 - KISS ON THE LIPS.mp3
+Feb 23 17:31 : update: updating K-Pop/Jero/JERO-01-신호등 (Feat. 빈지노).mp3
+Feb 23 17:31 : update: updating K-Pop/VAV/VAV-01-비너스 (Dance With Me).mp3
+Feb 23 17:31 : update: updating K-Pop/VAV/VAV-01-She`s Mine.mp3
+Feb 23 17:31 : update: updating K-Pop/VAV/VAV-01-ABC (Middle of the Night).mp3
+Feb 23 17:31 : update: updating K-Pop/VAV/VAV-02-ABC (Middle of the Night) (Inst.).mp3
+Feb 23 17:31 : update: updating K-Pop/Jinusean/지누션-01-한번 더 말해줘 (Feat. 장한나).mp3
+Feb 23 17:31 : update: updating K-Pop/Stellar/Sting.mp3
+Feb 23 17:31 : update: updating K-Pop/Stellar/스텔라-01-세피로트의 나무.mp3
+Feb 23 17:31 : update: updating K-Pop/Stellar/02 - Crying.mp3
+Feb 23 17:31 : update: updating K-Pop/Stellar/Vibrato.mp3
+Feb 23 17:31 : update: updating K-Pop/Hoody/Hoody (후디)-01-한강 (HANGANG).mp3
+Feb 23 17:31 : update: updating K-Pop/Oh My Girl/01 - WINDY DAY.mp3
+Feb 23 17:31 : update: updating K-Pop/Oh My Girl/03 - LIAR LIAR.mp3
+Feb 23 17:31 : update: updating K-Pop/Oh My Girl/01 - CLOSER.mp3
+Feb 23 17:31 : update: updating K-Pop/Oh My Girl/Cupid.mp3
+Feb 23 17:31 : update: updating K-Pop/Awesome baby/어썸 베이비-01-내가 왜_.mp3
+Feb 23 17:31 : update: updating K-Pop/Sistar/03 - One More Day (inst).mp3
+Feb 23 17:31 : update: updating K-Pop/Sistar/01 - One More Day.mp3
+Feb 23 17:31 : update: updating K-Pop/Sistar/01 - SHAKE IT.mp3
+Feb 23 17:31 : update: updating K-Pop/Sistar/01 - I Like That.mp3
+Feb 23 17:31 : update: updating K-Pop/NCT Dream/NCT DREAM-01-마지막 첫사랑 (My First and Last).mp3
+Feb 23 17:31 : update: updating K-Pop/Amber/01 - Need To Feel Needed.mp3
+Feb 23 17:31 : update: updating K-Pop/SF9/SF9-02-쉽다 (Easy Love).mp3
+Feb 23 17:31 : update: updating K-Pop/SF9/02 - ROAR.mp3
+Feb 23 17:31 : update: updating K-Pop/SF9/SF9-02-오솔레미오 (O Sole Mio).mp3
+Feb 23 17:31 : update: updating K-Pop/Shin Jimin/08 - Puss (Prod.by 라이머) (Puss (Prod. by Rhymer) - Ji Min, Iron (Prod. by Rhymer)).mp3
+Feb 23 17:31 : update: updating K-Pop/CLC/CLC (씨엘씨)-02-도깨비.mp3
+Feb 23 17:31 : update: updating K-Pop/CLC/CLC (씨엘씨)-01-Liar.mp3
+Feb 23 17:31 : update: updating K-Pop/CLC/CLC (씨엘씨)-01-어디야_.mp3
+Feb 23 17:31 : update: updating K-Pop/Longguo & Shihyun/용국&시현-02-the.the.the.mp3
+Feb 23 17:31 : update: updating K-Pop/Ladies Code/레이디스 코드-02-Galaxy.mp3
+Feb 23 17:31 : update: updating K-Pop/Ladies Code/레이디스 코드-02-The Rain.mp3
+Feb 23 17:31 : update: updating K-Pop/Ladies Code/02 - 예뻐 예뻐 (Pretty Pretty).mp3
+Feb 23 17:31 : update: updating K-Pop/MiSO/미소 (MiSO)-01-낄끼빠빠 (KKPP).mp3
+Feb 23 17:31 : update: updating K-Pop/Boys24/02 - E.mp3
+Feb 23 17:31 : update: updating K-Pop/NRG/엔알지 (NRG)-01-20th 세기 Night (20세기 나이트).mp3
+Feb 23 17:31 : update: updating K-Pop/SEVENTEEN/세븐틴-02-붐붐.mp3
+Feb 23 17:31 : update: updating K-Pop/SEVENTEEN/세븐틴-03-HIGHLIGHT.mp3
+Feb 23 17:31 : update: updating K-Pop/SEVENTEEN/세븐틴-01-울고 싶지 않아.mp3
+Feb 23 17:31 : update: updating K-Pop/SEVENTEEN/02 - Mansae.mp3
+Feb 23 17:31 : update: updating K-Pop/SEVENTEEN/세븐틴-04-박수.mp3
+Feb 23 17:31 : update: updating K-Pop/SEVENTEEN/02 - VERY NICE.mp3
+Feb 23 17:31 : update: updating K-Pop/Ga In/03 - Paradise Lost.mp3
+Feb 23 17:31 : update: updating K-Pop/B1A4/B1A4-02-거짓말이야.mp3
+Feb 23 17:31 : update: updating K-Pop/B1A4/B1A4-01-Sweet Girl.mp3
+Feb 23 17:31 : update: updating K-Pop/Fiestar/Youre Pitiful.mp3
+Feb 23 17:31 : update: updating K-Pop/Fiestar/01 - One More(하나 더).mp3
+Feb 23 17:31 : update: updating K-Pop/Fiestar/01 - APPLE PIE.mp3
+Feb 23 17:31 : update: updating K-Pop/Fiestar/02 - Mirror.mp3
+Feb 23 17:31 : update: updating K-Pop/SUS4/01 - Pick me up.mp3
+Feb 23 17:31 : update: updating K-Pop/Sik-K/Sik-K (식케이)-01-너의 밤 (Your Night) (Prod. BOYCOLD).mp3
+Feb 23 17:31 : update: updating K-Pop/Sik-K/Sik-K (식케이)-02-party (SHUT DOWN) (Feat. 크러쉬).mp3
+Feb 23 17:31 : update: updating K-Pop/Sik-K/Sik-K (식케이)-01-FLY (Prod. GroovyRoom).mp3
+Feb 23 17:31 : update: updating K-Pop/Sik-K/Sik-K (식케이)-01-iffy (Prod. GroovyRoom).mp3
+Feb 23 17:31 : update: updating K-Pop/VICTON/VICTON (빅톤)-01-나를 기억해.mp3
+Feb 23 17:31 : update: updating K-Pop/Momoland/01 - BBoom BBoom.mp3
+Feb 23 17:31 : update: updating K-Pop/Momoland/모모랜드 (MOMOLAND)-01-어마어마해.mp3
+Feb 23 17:31 : update: updating K-Pop/I.O.I/01 - Very Very Very.mp3
+Feb 23 17:31 : update: updating K-Pop/I.O.I/01 - Whatta Man (Good man).mp3
+Feb 23 17:31 : update: updating K-Pop/I.O.I/06 - Pick Me.mp3
+Feb 23 17:31 : update: updating K-Pop/I.O.I/01 - Crush.mp3
+Feb 23 17:31 : update: updating K-Pop/Bastarz/02 - Make It Rain.mp3
+Feb 23 17:31 : update: updating K-Pop/Bastarz/01 - 품행제로 (Zero For Conduct).mp3
+Feb 23 17:31 : update: updating K-Pop/100%/백퍼센트-01-지독하게.mp3
+Feb 23 17:31 : update: updating K-Pop/BAP/03 - Feel So Good.mp3
+Feb 23 17:31 : update: updating K-Pop/BAP/B.A.P-02-WAKE ME UP.mp3
+Feb 23 17:31 : update: updating K-Pop/Moon Hyuna/문현아-02-크리켓송.mp3
+Feb 23 17:31 : update: updating K-Pop/Moon Hyuna/문현아-01-둥둥 (Doong Doong).mp3
+Feb 23 17:31 : update: updating K-Pop/Up10tion/업텐션 (UP10TION)-01-시작해 (Runner).mp3
+Feb 23 17:31 : update: updating K-Pop/Up10tion/업텐션 (UP10TION)-01-미치게 해 (Going Crazy).mp3
+Feb 23 17:31 : update: updating K-Pop/Up10tion/02 - Catch me!.mp3
+Feb 23 17:31 : update: updating K-Pop/Up10tion/02 - Attention.mp3
+Feb 23 17:31 : update: updating K-Pop/NCT 127/NCT 127-07-Switch (Feat. SR15B).mp3
+Feb 23 17:31 : update: updating K-Pop/NCT 127/NCT 127-01-無限的我 (무한적아;Limitless).mp3
+Feb 23 17:31 : update: updating K-Pop/NCT 127/NCT 127-01-Cherry Bomb.mp3
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/원더걸스-01-Why So Lonely.mp3
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/11 - 없어 (GONE).flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/03 - I Feel You.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/13 - 20150711 (Talk) (CD Only).flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/02 - Candle feat. Paloalto 팔로알토.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/08 - Back.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/05 - Loved.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/12 - 이 순간.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/01 - Baby Don’t Play.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/09 - OPPA (오빠).flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/10 - 사랑이 떠나려 할 때.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/07 - One Black Night.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/04 - Rewind.flac
+Feb 23 17:31 : update: updating K-Pop/Wonder Girls/Reboot/06 - John Doe.flac
+Feb 23 17:31 : update: updating K-Pop/TWICE/TWICE (트와이스)-01-LIKEY.mp3
+Feb 23 17:31 : update: updating K-Pop/TWICE/TWICE (트와이스)-01-SIGNAL.mp3
+Feb 23 17:31 : update: updating K-Pop/TWICE/TWICE (트와이스)-01-KNOCK KNOCK.mp3
+Feb 23 17:31 : update: updating K-Pop/TWICE/TWICE (트와이스)-01-OOH-AHH하게.mp3
+Feb 23 17:31 : update: updating K-Pop/TWICE/01 - TT.mp3
+Feb 23 17:31 : update: updating K-Pop/TWICE/TWICE (트와이스)-01-CHEER UP.mp3
+Feb 23 17:31 : update: updating K-Pop/Trouble Maker/Trouble Maker.mp3
+Feb 23 17:31 : update: updating K-Pop/Trouble Maker/02 - Now.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO-CBX/02 - Hey Mama!.mp3
+Feb 23 17:31 : update: updating K-Pop/S.E.S./03 - 한 폭의 그림 Paradise.mp3
+Feb 23 17:31 : update: updating K-Pop/Minzy/공민지-01-니나노 (Feat. 플로우식 (Flowsik)).mp3
+Feb 23 17:31 : update: updating K-Pop/Minzy/공민지-02-Superwoman (수퍼우먼).mp3
+Feb 23 17:31 : update: updating K-Pop/Weki Meki/위키미키 (Weki Meki)-01-I don`t like your Girlfriend.mp3
+Feb 23 17:31 : update: updating K-Pop/Infinite/02 - The Eye.mp3
+Feb 23 17:31 : update: updating K-Pop/Infinite/02 - Bad.mp3
+Feb 23 17:31 : update: updating K-Pop/IMFACT/01 - 텐션업 Tension Up.mp3
+Feb 23 17:31 : update: updating K-Pop/iKON/01 - DUMB & DUMBER.mp3
+Feb 23 17:31 : update: updating K-Pop/iKON/02 - RHYTHM TA.mp3
+Feb 23 17:31 : update: updating K-Pop/24K/01 - Hey You(오늘 예쁘네).mp3
+Feb 23 17:31 : update: updating K-Pop/24K/01 - Still 24K.mp3
+Feb 23 17:31 : update: updating K-Pop/24K/02 - Super Fly.mp3
+Feb 23 17:31 : update: updating K-Pop/24K/투포케이-01-너 하나면 돼 (ONLY YOU).mp3
+Feb 23 17:31 : update: updating K-Pop/MASC/마스크 (MASC)-02-정주행 (Run To You).mp3
+Feb 23 17:31 : update: updating K-Pop/MASC/마스크 (MASC)-01-낯설어 (Strange).mp3
+Feb 23 17:31 : update: updating K-Pop/MASC/마스크 (MASC)-01-다해 (Do It).mp3
+Feb 23 17:31 : update: updating K-Pop/NS Yoon G/01 - Yasisi.mp3
+Feb 23 17:31 : update: updating K-Pop/CNBLUE/CNBLUE (씨엔블루)-01-신데렐라 (Cinderella).mp3
+Feb 23 17:31 : update: updating K-Pop/Hello Venus/Wiggle Wiggle.mp3
+Feb 23 17:31 : update: updating K-Pop/Hello Venus/I'm Ill.mp3
+Feb 23 17:31 : update: updating K-Pop/Orange Caramel/01 - Catallena.mp3
+Feb 23 17:31 : update: updating K-Pop/RAINBOW/02 - Whoo.mp3
+Feb 23 17:31 : update: updating K-Pop/RAINBOW/01 - A.mp3
+Feb 23 17:31 : update: updating K-Pop/RAINBOW/레인보우-02-Black Swan.mp3
+Feb 23 17:31 : update: updating K-Pop/TVXQ/01 - 수리수리 Spellbound.mp3
+Feb 23 17:31 : update: updating K-Pop/TVXQ/02 - 샴페인 Champagne (U-Know Solo).mp3
+Feb 23 17:31 : update: updating K-Pop/TVXQ/03 - Rise As One (Max Solo).mp3
+Feb 23 17:31 : update: updating K-Pop/TVXQ/유노윤호 (U-KNOW)-01-DROP.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/01 - LOVE ME RIGHT.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/EXO-01-으르렁 (Growl).mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/01 - Dancing King.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/EXO-02-Power.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/02 - Monster.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/EXO-01-전야 (前夜) (The Eve).mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/EXO-01-CALL ME BABY.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/01 - Lucky One.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/01 - LIGHTSABER.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/EXO-01-Lotto.mp3
+Feb 23 17:31 : update: updating K-Pop/EXO/EXO-02-Ko Ko Bop.mp3
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/10 이름에게.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/07 마침표.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/03 이런 엔딩.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/08 밤편지.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/01 이 지금.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/09 그렇게 사랑은.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/06 Black Out.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/02 팔레트.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/04 사랑이 잘.flac
+Feb 23 17:31 : update: updating K-Pop/IU/Palette/05 잼잼.flac
+Feb 23 17:31 : update: updating K-Pop/IU/03 - Twenty-three.mp3
+Feb 23 17:31 : update: updating K-Pop/Dynamic Duo/05 - 꿀잼 Jam.mp3
+Feb 23 17:31 : update: updating K-Pop/ONF/온앤오프 (ONF)-01-ON_OFF.mp3
+Feb 23 17:31 : update: updating K-Pop/APink/02 - NoNoNo.mp3
+Feb 23 17:31 : update: updating K-Pop/APink/01 - Cause you're my star.mp3
+Feb 23 17:31 : update: updating K-Pop/APink/Apink (에이핑크)-01-Remember.mp3
+Feb 23 17:31 : update: updating K-Pop/APink/02 - Mr Chu.mp3
+Feb 23 17:31 : update: updating K-Pop/APink/08 - Catch me.mp3
+Feb 23 17:31 : update: updating K-Pop/APink/01 - Only one.mp3
+Feb 23 17:31 : update: updating K-Pop/Romeo/02 - MIRO.mp3
+Feb 23 17:31 : update: updating K-Pop/Romeo/로미오 (ROMEO)-02-니가 없는데.mp3
+Feb 23 17:31 : update: updating K-Pop/Romeo/02 - TARGET.mp3
+Feb 23 17:31 : update: updating K-Pop/Purfles/퍼펄즈-01-나쁜짓.mp3
+Feb 23 17:31 : update: updating K-Pop/Purfles/퍼펄즈-01-1.2.3.mp3
+Feb 23 17:31 : update: updating K-Pop/Purfles/퍼펄즈-01-나쁜 여자.mp3
+Feb 23 17:31 : update: updating K-Pop/Dal Shabet/FRI. SAT. SUN/04 - FLY BOY.mp3
+Feb 23 17:31 : update: updating K-Pop/Dal Shabet/FRI. SAT. SUN/03 - HARD 2 LOVE.mp3
+Feb 23 17:31 : update: updating K-Pop/Dal Shabet/FRI. SAT. SUN/05 - Some What.mp3
+Feb 23 17:31 : update: updating K-Pop/Dal Shabet/FRI. SAT. SUN/02 - FRI. SAT. SUN.mp3
+Feb 23 17:31 : update: updating K-Pop/Dal Shabet/FRI. SAT. SUN/01 - Ya Heart.mp3
+Feb 23 17:31 : update: updating K-Pop/Dal Shabet/02 - Someone like U.mp3
+Feb 23 17:31 : update: updating K-Pop/Snuper/03 - Platonic Love.mp3
+Feb 23 17:31 : update: updating K-Pop/Snuper/스누퍼 (SNUPER)-02-유성.mp3
+Feb 23 17:31 : update: updating K-Pop/Snuper/스누퍼 (SNUPER)-02-Dear.mp3
+Feb 23 17:31 : update: updating K-Pop/Snuper/스누퍼-02-Back_Hug (백허그).mp3
+Feb 23 17:31 : update: updating K-Pop/Snuper/스누퍼 (SNUPER)-02-It`s raining.mp3
+Feb 23 17:31 : update: updating K-Pop/Niel/니엘-01-잘 지내_ (Feat. JUSTHIS).mp3
+Feb 23 17:31 : update: updating K-Pop/Niel/니엘-02-날 울리지마 (Feat. 자이언트핑크).mp3
+Feb 23 17:31 : update: updating K-Pop/Jonghyun/01 - 좋아 She is.mp3
+Feb 23 17:31 : update: updating K-Pop/Samuel/사무엘-02-식스틴 (Feat. 창모) (Sixteen).mp3
+Feb 23 17:31 : update: updating K-Pop/Samuel/사무엘-01-캔디 (Candy).mp3
+Feb 23 17:31 : update: updating K-Pop/Brown Eyed Girls/브라운아이드걸스-02-Abracadabra.mp3
+Feb 23 17:31 : update: updating K-Pop/Brown Eyed Girls/04 - Brave New World.mp3
+Feb 23 17:31 : update: updating K-Pop/gugudan OGUOGU/구구단 오구오구-01-ICE CHU.mp3
+Feb 23 17:31 : update: updating K-Pop/Chancellor/01 - MURDA (feat.Dok2).mp3
+Feb 23 17:31 : update: updating K-Pop/miss A/Only You.mp3
+Feb 23 17:31 : update: updating K-Pop/Wanna One/Wanna One (워너원)-03-에너제틱 (Energetic).mp3
+Feb 23 17:31 : update: updating K-Pop/Wanna One/PRODUCE 101-01-나야 나 (PICK ME).mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/소녀시대-02-All Night.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/소녀시대-03-Holiday.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/04 - 어떤 오후 One Afternoon.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/03 - PARTY.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/01 - Lion Heart.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/07 - Talk Talk.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/12 - 예감 Bump It.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/08 - Green Light.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/10 - Check.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/06 - Fire Alarm.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/11 - Sign.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/02 - You Think.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/09 - Paradise.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/Lion Heart - The 5th Album/05 - Show Girls.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/01 - Mr.Mr..mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/소녀시대-01-Gee.mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/소녀시대-01-소원을 말해봐 (Genie).mp3
+Feb 23 17:31 : update: updating K-Pop/Girls Generation/12 - MR. TAXI (Original Title _ Mr. Taxi).mp3
+Feb 23 17:31 : update: updating K-Pop/Eddy Kim/01 - Paldangdam (feat.Beenzino).mp3
+Feb 23 17:31 : update: updating K-Pop/Seungri/02 - 할말 있어요.mp3
+Feb 23 17:31 : update: updating K-Pop/April/에이프릴 (APRIL)-01-손을 잡아줘.mp3
+Feb 23 17:31 : update: updating K-Pop/Sohee/소희-01-Spotlight.mp3
+Feb 23 17:31 : update: updating K-Pop/Woo Won Jae/우원재-01-시차 (We Are) (Feat. 로꼬 & GRAY).mp3
+Feb 23 17:31 : update: updating K-Pop/Yoon Jong Shin/윤종신-07-Empty City (With 개코).mp3
+Feb 23 17:31 : update: updating K-Pop/Vermuda/버뮤다-01-Dream Girl.mp3
+Feb 23 17:31 : update: updating K-Pop/Dreamcatcher/드림캐쳐-02-GOOD NIGHT.mp3
+Feb 23 17:31 : update: updating K-Pop/Dreamcatcher/드림캐쳐-02-Chase Me.mp3
+Feb 23 17:31 : update: updating K-Pop/Dreamcatcher/Prequel (First Mini Album)/02 - Dreamcatcher - 날아올라 (Fly High).flac
+Feb 23 17:31 : update: updating K-Pop/Dreamcatcher/Prequel (First Mini Album)/01 - Dreamcatcher - Before & After (Intro).flac
+Feb 23 17:31 : update: updating K-Pop/Dreamcatcher/Prequel (First Mini Album)/04 - Dreamcatcher - Sleep-Walking.flac
+Feb 23 17:31 : update: updating K-Pop/Dreamcatcher/Prequel (First Mini Album)/03 - Dreamcatcher - Wake Up.flac
+Feb 23 17:31 : update: updating K-Pop/Dreamcatcher/Prequel (First Mini Album)/05 - Dreamcatcher - 괜찮아!.flac
+Feb 23 17:31 : update: updating K-Pop/Dreamcatcher/Prequel (First Mini Album)/06 - Dreamcatcher - 날아올라 (Fly High) (Inst.).flac
+Feb 23 17:31 : update: updating K-Pop/Block B/블락비 (Block B)-02-Shall We Dance.mp3
+Feb 23 17:31 : update: updating K-Pop/Block B/02 - HER.mp3
+Feb 23 17:31 : update: updating K-Pop/MAP6/맵식스 (MAP6)-01-Storm.mp3
+Feb 23 17:31 : update: updating K-Pop/History/02 - Queen.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Crayon Pop 1st Mini Album/04 - Saturday Night (Instrumental).mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Crayon Pop 1st Mini Album/05 - Saturday Night (Dubstep Mix).mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Crayon Pop 1st Mini Album/03 - Bing Bing (Instrumental).mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/01 - Vroom Vroom.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/06 - Saturday Night.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/01 - Bar Bar Bar.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/04 - Bing Bing.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/04 - Boogie Woogie.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/03 - Dancing Queen.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/07 - Sketch Book.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/03 - Doo Doom Chit.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/08 - Love Couple (feat. The Zoo).mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/05 - FM.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/07 - Hello.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/02 - Uh-ee.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/05 - Tonight.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/06 - Get It Here.mp3
+Feb 23 17:31 : update: updating K-Pop/Crayon Pop/Evolution Pop/02 - Too Much.mp3
+Feb 23 17:31 : update: updating K-Pop/GroovyRoom/GroovyRoom (그루비룸)-02-Sunday (Feat. 헤이즈, 박재범).mp3
+Feb 23 17:31 : update: updating K-Pop/P.O.P/P.O.P (피오피)-02-애타게 GET하게.mp3
+Feb 23 17:31 : update: updating K-Pop/BLACKPINK/02 - BOOMBAYAH.mp3
+Feb 23 17:31 : update: updating K-Pop/BLACKPINK/01 - WHISTLE.mp3
+Feb 23 17:31 : update: updating K-Pop/BLACKPINK/01 - PLAYING WITH FIRE.mp3
+Feb 23 17:31 : update: updating K-Pop/BLACKPINK/01 - As If It's Your Last.mp3
+Feb 23 17:31 : update: updating K-Pop/DBSK/09 - 09. __ (Mirotic).mp3
+Feb 23 17:31 : update: updating K-Pop/Sophiya/소피야 (Sophiya)-01-테라피 (Therapy).mp3
+Feb 23 17:31 : update: updating K-Pop/Kriesha Chu/크리샤 츄 (Kriesha Chu)-02-Trouble (Prod. by 용준형, 김태주).mp3
+Feb 23 17:31 : update: updating K-Pop/The Legend/01 - Crush on you.mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx LR/빅스LR-01-Whisper.mp3
+Feb 23 17:31 : update: updating K-Pop/Henry/헨리 (HENRY)-01-끌리는 대로 (I`m good) (Feat. nafla).mp3
+Feb 23 17:31 : update: updating K-Pop/Henry/01 - Fantastic.mp3
+Feb 23 17:31 : update: updating K-Pop/Hyolyn, Jooyoung, & Bumkey/01 - Love Line.mp3
+Feb 23 17:31 : update: updating K-Pop/Berry Good/01 - 안믿을래 (Don't Believe).mp3
+Feb 23 17:31 : update: updating K-Pop/Berry Good/02 - Angel.mp3
+Feb 23 17:31 : update: updating K-Pop/Gugudan/02 - 나 같은 애 (A Girl Like Me).mp3
+Feb 23 17:31 : update: updating K-Pop/Gugudan/구구단 (gugudan)-01-Chococo.mp3
+Feb 23 17:31 : update: updating K-Pop/To-Day/오늘-01-비밀이에요.mp3
+Feb 23 17:31 : update: updating K-Pop/Drug Restaurant/02 - Mistake.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/10 - When I’m Alone.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/02 - Glitter.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/03 - Déjà Vu.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/07 - Traveler (feat. (ZICO)).mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/09 - Cash Me Out.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/04 - X.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/05 - Rude Love.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/06 - Diamond.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/01 - 4 Walls.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/4 Walls - The 4th Album/08 - Papi.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/01 - 12시 25분 Wish List.mp3
+Feb 23 17:31 : update: updating K-Pop/f(x)/01 - All Mine.mp3
+Feb 23 17:31 : update: updating K-Pop/Glabingo/GLABINGO (글라빙고)-01-BONNY.mp3
+Feb 23 17:31 : update: updating K-Pop/Juniel/JUNIEL-01-Last Carnival.mp3
+Feb 23 17:31 : update: updating K-Pop/LOONA/이달의 소녀-01-new (이브).mp3
+Feb 23 17:31 : update: updating K-Pop/LOONA/이달의 소녀-01-Everyday I Love You (Feat. 하슬) (ViVi).mp3
+Feb 23 17:31 : update: updating K-Pop/LOONA/이달의 소녀-01-Eclipse (Prod. by Daniel Obi Klein) (김립).mp3
+Feb 23 17:31 : update: updating K-Pop/LOONA/이달의 소녀-01-Singing in the Rain (진솔).mp3
+Feb 23 17:31 : update: updating K-Pop/LOONA/이달의 소녀-01-Love Cherry Motion (최리).mp3
+Feb 23 17:31 : update: updating K-Pop/LOONA/이달의 소녀 1_3-02-지금, 좋아해 (Love & Live).mp3
+Feb 23 17:31 : update: updating K-Pop/LOONA/01 - I`ll Be There (희진, 현진).mp3
+Feb 23 17:31 : update: updating K-Pop/SECHSKIES/젝스키스-02-슬픈 노래.mp3
+Feb 23 17:31 : update: updating K-Pop/Kanto/02 - Lonely (feat.Eddy Kim).mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/티아라-01-Lovey-Dovey.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/티아라-01-DAY BY DAY.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/03 - 이별 영화.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/티아라-01-완전 미쳤네 (Korean Ver.).mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/티아라-01-내 이름은.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/티아라-01-Roly-Poly.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/Number 9.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/티아라-01-Little Apple with 젓가락형제.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/01 - TIAMO.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/Sexy Love.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/티아라-03-Bo Peep Bo Peep.mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/16 - Sugarfree (Original Edit) KOR..mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA/티아라-01-Sugar Free (BigRoom Ver.).mp3
+Feb 23 17:31 : update: updating K-Pop/Zico/02 - 유레카 (Feat. Zion.T) (Eureka (Feat. Zion.T)).mp3
+Feb 23 17:31 : update: updating K-Pop/Zico/지코 (ZICO)-02-Artist.mp3
+Feb 23 17:31 : update: updating K-Pop/Zico/I Am You You Are Me.mp3
+Feb 23 17:31 : update: updating K-Pop/Zico/지코 (ZICO)-03-ANTI (Feat. G.Soul).mp3
+Feb 23 17:31 : update: updating K-Pop/Playback/플레이백-01-말해줘.mp3
+Feb 23 17:31 : update: updating K-Pop/Playback/Playback.mp3
+Feb 23 17:31 : update: updating K-Pop/Primary/09 - 마일리지 Mileage (feat. Paloalto, Hwa Sa of MAMAMOO).mp3
+Feb 23 17:31 : update: updating K-Pop/Primary/07 - 씨스루 (feat. Zion.T, 개코 of 다이나믹듀오).mp3
+Feb 23 17:31 : update: updating K-Pop/Primary/프라이머리-07-밤꽃 (Night Flower) (Feat. 카더가든).mp3
+Feb 23 17:31 : update: updating K-Pop/Primary/08 - 네일 했어 Hello (feat. Lena Park).mp3
+Feb 23 17:31 : update: updating K-Pop/Pristin/PRISTIN (프리스틴)-02-WE LIKE.mp3
+Feb 23 17:31 : update: updating K-Pop/Pristin/02 - WEE WOO.mp3
+Feb 23 17:31 : update: updating K-Pop/KARA/02 - STEP.mp3
+Feb 23 17:31 : update: updating K-Pop/KARA/Mamma Mia.mp3
+Feb 23 17:31 : update: updating K-Pop/KARA/Cupid.mp3
+Feb 23 17:31 : update: updating K-Pop/KARA/02 - Pandora.mp3
+Feb 23 17:31 : update: updating K-Pop/KARA/13 - Mr..mp3
+Feb 23 17:31 : update: updating K-Pop/Crush/Crush-02-Outside (Feat. Beenzino).mp3
+Feb 23 17:31 : update: updating K-Pop/fromis_9/fromis_9-01-유리구두.mp3
+Feb 23 17:31 : update: updating K-Pop/Brave Girls/01 - 롤린 (Rollin`).mp3
+Feb 23 17:31 : update: updating K-Pop/Brave Girls/Deepened.mp3
+Feb 23 17:31 : update: updating K-Pop/Jessica/01 - Wonderland.mp3
+Feb 23 17:31 : update: updating K-Pop/Jessica/01 - Wonderland (Eng).mp3
+Feb 23 17:31 : update: updating K-Pop/Jeon Soyeon/전소연-01-Jelly.mp3
+Feb 23 17:31 : update: updating K-Pop/LaBoum/라붐(LABOUM)-01-어떡할래.mp3
+Feb 23 17:31 : update: updating K-Pop/LaBoum/라붐(LABOUM)-02-Hwi hwi.mp3
+Feb 23 17:31 : update: updating K-Pop/DIA/DIA (다이아)-01-나랑 사귈래.mp3
+Feb 23 17:31 : update: updating K-Pop/DIA/DIA (다이아)-01-듣고싶어 (E905).mp3
+Feb 23 17:31 : update: updating K-Pop/BTOB/비투비-02-MOVIE.mp3
+Feb 23 17:31 : update: updating K-Pop/ELRIS/엘리스 (ELRIS)-02-Pow Pow.mp3
+Feb 23 17:31 : update: updating K-Pop/N.Flying/엔플라잉 (N.Flying)-02-진짜가 나타났다.mp3
+Feb 23 17:31 : update: updating K-Pop/BIGBANG/04 - Fantastic Baby.mp3
+Feb 23 17:31 : update: updating K-Pop/BIGBANG/Bang Bang Bang.mp3
+Feb 23 17:31 : update: updating K-Pop/BIGBANG/01 - FXXK IT.mp3
+Feb 23 17:31 : update: updating K-Pop/BIGBANG/02 - SOBER.mp3
+Feb 23 17:31 : update: updating K-Pop/Heize/헤이즈 (Heize)-01-And July (Feat. DEAN, DJ Friz).mp3
+Feb 23 17:31 : update: updating K-Pop/Heize/헤이즈 (Heize)-01-널 너무 모르고.mp3
+Feb 23 17:31 : update: updating K-Pop/Tahiti/타히티/Fall Into Temptation/01 - Tahiti Intro.mp3
+Feb 23 17:31 : update: updating K-Pop/Tahiti/타히티/Fall Into Temptation/02 - Love Sick.mp3
+Feb 23 17:31 : update: updating K-Pop/Tahiti/타히티/Fall Into Temptation/05 - Phone Number (Instrumental).mp3
+Feb 23 17:31 : update: updating K-Pop/Tahiti/타히티/Fall Into Temptation/04 - Oppa, You're Mine.mp3
+Feb 23 17:31 : update: updating K-Pop/Tahiti/타히티/Fall Into Temptation/03 - Phone Number.mp3
+Feb 23 17:31 : update: updating K-Pop/HIGH4 20/HIGH4 20-02-Weekend.mp3
+Feb 23 17:31 : update: updating K-Pop/1NB/1NB (원앤비)-01-쉽지않아 (Where U at).mp3
+Feb 23 17:31 : update: updating K-Pop/1NB/1NB (원앤비)-01-스토커.mp3
+Feb 23 17:31 : update: updating K-Pop/Hyolyn X Changmo/효린-01-BLUE MOON (Prod. GroovyRoom).mp3
+Feb 23 17:31 : update: updating K-Pop/Babylon/베이빌론 (Babylon)-01-라라라 (Feat. 청하).mp3
+Feb 23 17:31 : update: updating K-Pop/Penomeco/PENOMECO-01-HUNNIT.mp3
+Feb 23 17:31 : update: updating K-Pop/WINNER/WINNER-01-BABY BABY.mp3
+Feb 23 17:31 : update: updating K-Pop/WINNER/WINNER-01-LOVE ME LOVE ME.mp3
+Feb 23 17:31 : update: updating K-Pop/WINNER/WINNER-02-센치해.mp3
+Feb 23 17:31 : update: updating K-Pop/WINNER/01 - REALLY REALLY.mp3
+Feb 23 17:31 : update: updating K-Pop/4minute/01 - Crazy.mp3
+Feb 23 17:31 : update: updating K-Pop/4minute/01 - Hate.mp3
+Feb 23 17:31 : update: updating K-Pop/Jun Hyo Seong/02 - Find Me (feat.D.Action).mp3
+Feb 23 17:31 : update: updating K-Pop/NODAY/02 - Wait Up (Feat. 산체스) (Wait Up (Feat. Sanchez)).mp3
+Feb 23 17:31 : update: updating K-Pop/9muses/02 - 잠은 안오고 배는 고프고 Sleepless Night.mp3
+Feb 23 17:31 : update: updating K-Pop/9muses/나인뮤지스-01-러브시티 (Love City).mp3
+Feb 23 17:31 : update: updating K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/02 - 나인뮤지스 - 기억해.flac
+Feb 23 17:31 : update: updating K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/01 - 나인뮤지스 - Identity.flac
+Feb 23 17:31 : update: updating K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/06 - 나인뮤지스 - 기억해 (Inst.).flac
+Feb 23 17:31 : update: updating K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/04 - 나인뮤지스 - 둘이서.flac
+Feb 23 17:31 : update: updating K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/05 - 나인뮤지스 - Hate Me.flac
+Feb 23 17:31 : update: updating K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/03 - 나인뮤지스 - 페스츄리.flac
+Feb 23 17:31 : update: updating K-Pop/9muses/02 - Wild(와일드).mp3
+Feb 23 17:31 : update: updating K-Pop/9muses/Drama.mp3
+Feb 23 17:31 : update: updating K-Pop/9muses/Hurt Locker.mp3
+Feb 23 17:31 : update: updating K-Pop/9muses/나인뮤지스A-02-입술에 입술 (Lip 2 Lip).mp3
+Feb 23 17:31 : update: updating K-Pop/JYP/박진영-03-너뿐이야 (You`re The One).mp3
+Feb 23 17:31 : update: updating K-Pop/JYP/Still Alive.mp3
+Feb 23 17:31 : update: updating K-Pop/JYP/Who's Your Mama.mp3
+Feb 23 17:31 : update: updating K-Pop/JYP/박진영-22-Honey.mp3
+Feb 23 17:31 : update: updating K-Pop/JYP/Fire.mp3
+Feb 23 17:31 : update: updating K-Pop/Grace/그레이스-01-I`m Fine.mp3
+Feb 23 17:31 : update: updating K-Pop/A-Daily/에이데일리 (A-Daily)-02-Chu.mp3
+Feb 23 17:31 : update: updating K-Pop/A-Daily/02 - Spotlight.mp3
+Feb 23 17:31 : update: updating K-Pop/Jooyoung/02 - Wet (Feat. Superbee(슈퍼비)).mp3
+Feb 23 17:31 : update: updating K-Pop/Lovelyz/러블리즈-03-지금, 우리.mp3
+Feb 23 17:31 : update: updating K-Pop/Lovelyz/러블리즈-02-WoW!.mp3
+Feb 23 17:31 : update: updating K-Pop/Lovelyz/02 - Destiny 나의 지구.mp3
+Feb 23 17:31 : update: updating K-Pop/Lovelyz/러블리즈-02-종소리.mp3
+Feb 23 17:31 : update: updating K-Pop/Hyuna/현아 (HyunA)-02-베베 (BABE).mp3
+Feb 23 17:31 : update: updating K-Pop/Hyuna/01 - U & Me.mp3
+Feb 23 17:31 : update: updating K-Pop/Hyuna/02 - Roll Deep.mp3
+Feb 23 17:31 : update: updating K-Pop/Hyuna/02 - How's This.mp3
+Feb 23 17:31 : update: updating K-Pop/Z.uK/Z-uK (지욱)-01-Push & Pull.mp3
+Feb 23 17:31 : update: updating K-Pop/GFRIEND/02 - FINGERTIP.mp3
+Feb 23 17:31 : update: updating K-Pop/GFRIEND/03 - NAVILLERA.mp3
+Feb 23 17:31 : update: updating K-Pop/George/01 - Boat.mp3
+Feb 23 17:31 : update: updating K-Pop/Highlight/01 - Plz Don’t Be Sad.mp3
+Feb 23 17:31 : update: updating K-Pop/Highlight/하이라이트 (Highlight)-02-어쩔 수 없지 뭐.mp3
+Feb 23 17:31 : update: updating K-Pop/Muzie/뮤지-01-신도림 (Feat. XQ, 빠나나, 제이블랙, 제이핑크).mp3
+Feb 23 17:31 : update: updating K-Pop/Black6ix/블랙식스 (BLACK6IX)-01-Like a Flower.mp3
+Feb 23 17:31 : update: updating K-Pop/Black6ix/블랙식스 (BLACK6IX)-01-제발.mp3
+Feb 23 17:31 : update: updating K-Pop/MVP/MVP (엠브이피)-02-선택해.mp3
+Feb 23 17:31 : update: updating K-Pop/WJSN/우주소녀-01-너에게 닿기를 (I Wish).mp3
+Feb 23 17:31 : update: updating K-Pop/WJSN/우주소녀-01-비밀이야 (Secret).mp3
+Feb 23 17:31 : update: updating K-Pop/WJSN/우주소녀-01-HAPPY.mp3
+Feb 23 17:31 : update: updating K-Pop/WJSN/우주소녀-02-MoMoMo (모모모).mp3
+Feb 23 17:31 : update: updating K-Pop/HIGH4/D.O.A.mp3
+Feb 23 17:31 : update: updating K-Pop/A.C.E/A.C.E (에이스)-01-Callin`.mp3
+Feb 23 17:31 : update: updating K-Pop/A.C.E/A.C.E (에이스)-01-선인장 (CACTUS).mp3
+Feb 23 17:31 : update: updating K-Pop/NUEST/뉴이스트-05-Look (a starlight night).mp3
+Feb 23 17:31 : update: updating K-Pop/NUEST/뉴이스트-03-Good Bye Bye.mp3
+Feb 23 17:31 : update: updating K-Pop/NUEST/뉴이스트-02-FACE.mp3
+Feb 23 17:31 : update: updating K-Pop/NUEST/02 - OVERCOME.mp3
+Feb 23 17:31 : update: updating K-Pop/NUEST/뉴이스트-03-Love Paint (every afternoon).mp3
+Feb 23 17:31 : update: updating K-Pop/B.I.G/01 - 1.2.3.mp3
+Feb 23 17:31 : update: updating K-Pop/Fei/페이-02-괜찮아 괜찮아 Fantasy.mp3
+Feb 23 17:31 : update: updating K-Pop/Dean/DEAN-01-love (Feat. Syd).mp3
+Feb 23 17:31 : update: updating K-Pop/Dean/01 - I'm Not Sorry (feat. Eric Bellinger).mp3
+Feb 23 17:31 : update: updating K-Pop/Dean/07 - 21.mp3
+Feb 23 17:31 : update: updating K-Pop/Dean/01 - Pour Up (feat. Zico).mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/박재범-01-YACHT (k) (Feat. Sik-K).mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/19 - All I Wanna Do.mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/04 - All I Wanna Do (feat. Hoody & 로꼬 Loco) [Korean Version].mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/02 - 우리가 빠지면 Party가 아니지 Ain’t No Party Like an AOMG Party.mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/박재범-01-REBORN.mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/13 - Me Like Yuh (feat. Hoody) [Korean Version].mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/01 - Solo (feat. Hoody).mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/01 - 몸매 Mommae (feat. Ugly Duck).mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/박재범-11-DRIVE (Feat. GRAY).mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/02 - Aquaman.mp3
+Feb 23 17:31 : update: updating K-Pop/Jay Park/03 - So Good (feat. Common Ground).mp3
+Feb 23 17:31 : update: updating K-Pop/Luna/Free Somebody/06 - Luna - My Medicine.flac
+Feb 23 17:31 : update: updating K-Pop/Luna/Free Somebody/02 - Luna - Breathe.flac
+Feb 23 17:31 : update: updating K-Pop/Luna/Free Somebody/03 - Luna - Keep on Doin'.flac
+Feb 23 17:31 : update: updating K-Pop/Luna/Free Somebody/01 - Luna - Free Somebody.flac
+Feb 23 17:31 : update: updating K-Pop/Luna/Free Somebody/05 - Luna - Galaxy.flac
+Feb 23 17:31 : update: updating K-Pop/Luna/Free Somebody/04 - Luna - I Wish (Pretty Girl).flac
+Feb 23 17:31 : update: updating K-Pop/BTS/방탄소년단-01-MIC Drop (Steve Aoki Remix) (Feat. Desiigner).mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/방탄소년단-11-Save ME.mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/방탄소년단-08-뱁새.mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/16 - Not Today.mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/방탄소년단-02-DNA.mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/02 - 피 땀 눈물.mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/05 - Dope.mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/02 - RUN.mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/방탄소년단-10-불타오르네 (FIRE).mp3
+Feb 23 17:31 : update: updating K-Pop/BTS/02 - I NEED U .mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/Pink Funky/04 갑과을.mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/Pink Funky/02 음 오 아 예 (UM OH AH YAEH).mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/Pink Funky/01 FREAKIN SHOES.mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/Pink Funky/06 아!.mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/Pink Funky/03 따끔.mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/Pink Funky/05 SELF CAMERA.mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/01 - Peppermint Chocolate (feat.Whee sung)(썸남썸녀 (feat.휘성)).mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/01 - Piano Man.mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/02 - Decalcomanie (데칼코마니) (Decalcomanie).mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/01 - woo hoo.mp3
+Feb 23 17:31 : update: updating K-Pop/Mamamoo/마마무-01-나로 말할 것 같으면 (Yes I am).mp3
+Feb 23 17:31 : update: updating K-Pop/Triple H/트리플 H (현아, 펜타곤 (후이, 이던))-02-365 FRESH.mp3
+Feb 23 17:31 : update: updating K-Pop/Eric Nam/01 - INTO YOU.mp3
+Feb 23 17:31 : update: updating K-Pop/Teen Top/01 - Warning Sign.mp3
+Feb 23 17:31 : update: updating K-Pop/Teen Top/틴탑-02-재밌어_ (Love is).mp3
+Feb 23 17:31 : update: updating K-Pop/Teen Top/02 - ah-ah(아침부터 아침까지).mp3
+Feb 23 17:31 : update: updating K-Pop/Teen Top/02 - Rocking(장난아냐).mp3
+Feb 23 17:31 : update: updating K-Pop/Taemin/태민 (TAEMIN)-06-Thirsty.mp3
+Feb 23 17:31 : update: updating K-Pop/Taemin/02 - Press Your Number.mp3
+Feb 23 17:31 : update: updating K-Pop/Taemin/태민 (TAEMIN)-01-MOVE.mp3
+Feb 23 17:31 : update: updating K-Pop/Ramisu/라미슈 (RAMISU)-01-Oh! Boy.mp3
+Feb 23 17:31 : update: updating K-Pop/O21/O21 (O TO ONE)-01-SHOW ME.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/샤이니 (SHINee)-02-Dream Girl.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/샤이니 (SHINee)-02-Ring Ding Dong.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/샤이니 (SHINee)-02-Lucifer.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/01 - Prism.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/샤이니 (SHINee)-01-Tell Me What To Do.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/07 - SHIFT.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/01 - Married To The Music.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/03 - Feel Good.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/03 - View.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/샤이니 (SHINee)-01-Odd Eye.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/16 - Picasso (Korean Version _ Bonus Track _ Studio Version).mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/02 - 1 of 1.mp3
+Feb 23 17:31 : update: updating K-Pop/SHINee/샤이니 (SHINee)-01-Sherlock.셜록 (Clue+Note).mp3
+Feb 23 17:31 : update: updating K-Pop/G.Soul/G.Soul-03-미쳐있어 나.mp3
+Feb 23 17:31 : update: updating K-Pop/Bada/01 - AMAZING.mp3
+Feb 23 17:31 : update: updating K-Pop/Bada/02 - FLOWER (feat.Kanto).mp3
+Feb 23 17:31 : update: updating K-Pop/Spica/01 - Secret Time.mp3
+Feb 23 17:31 : update: updating K-Pop/GOT7/GOT7 (갓세븐)-01-Never Ever.mp3
+Feb 23 17:31 : update: updating K-Pop/GOT7/GOT7 (갓세븐)-03-You Are.mp3
+Feb 23 17:31 : update: updating K-Pop/GOT7/GOT7 (갓세븐)-02-하드캐리.mp3
+Feb 23 17:31 : update: updating K-Pop/GOT7/GOT7 (갓세븐)-01-Fly.mp3
+Feb 23 17:31 : update: updating K-Pop/GOT7/If You Do.mp3
+Feb 23 17:31 : update: updating K-Pop/GOT7/Just Right.mp3
+Feb 23 17:31 : update: updating K-Pop/Matilda/마틸다 (MATILDA)-01-넌 Bad 날 울리지마.mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx/빅스-01-Milky Way.mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx/빅스-01-다칠 준비가 돼 있어 (On and On).mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx/02 - 저주인형 (Voodoo doll).mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx/01 - 다이너마이트 (Dynamite).mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx/빅스-01-도원경 (桃源境).mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx/빅스-02-hyde.mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx/빅스-02-사슬 (Chained Up).mp3
+Feb 23 17:31 : update: updating K-Pop/Vixx/빅스-02-Error.mp3
+Feb 23 17:31 : update: updating K-Pop/Sanchez/산체스-01-5분만 더 (Feat. 빈지노).mp3
+Feb 23 17:31 : update: updating K-Pop/GD x Taeyang/01 - Good Boy.mp3
+Feb 23 17:31 : update: updating K-Pop/Tiffany/01 - I Just Wanna Dance.mp3
+Feb 23 17:31 : update: updating K-Pop/Tiffany/01 - Heartbreak Hotel (feat. Simon Dominic).mp3
+Feb 23 17:31 : update: updating K-Pop/Tiffany/01 - I Just Wanna Dance (Kago Pengchi Remix).mp3
+Feb 23 17:31 : update: updating K-Pop/PEEJAY/PEEJAY-03-나비야 X ZION.T.mp3
+Feb 23 17:31 : update: updating K-Pop/Bigstar/빅스타-01-달빛소나타.mp3
+Feb 23 17:31 : update: updating K-Pop/Taeyeon/01 - Why.mp3
+Feb 23 17:31 : update: updating K-Pop/Taeyeon/태연 (TAEYEON)-02-Cover Up.mp3
+Feb 23 17:31 : update: updating K-Pop/Seohyun/서현 (SEOHYUN)-01-Don`t Say No.mp3
+Feb 23 17:31 : update: updating K-Pop/San E/01 - Sugar and Me.mp3
+Feb 23 17:31 : update: updating K-Pop/Suzy/수지-02-Yes No Maybe.mp3
+Feb 23 17:31 : update: updating K-Pop/KNK/크나큰-01-비.mp3
+Feb 23 17:31 : update: updating K-Pop/KNK/02 - BACK AGAIN.mp3
+Feb 23 17:31 : update: updating K-Pop/KNK/02 - U.mp3
+Feb 23 17:31 : update: updating K-Pop/Lee Gi Kwang/이기광-01-What You Like.mp3
+Feb 23 17:31 : update: updating K-Pop/KARD/KARD-05-You In Me.mp3
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/10 - KARD - Living Good (Inst.).flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/02 - KARD - Don't Recall.flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/01 - KARD - Oh NaNa (Hidden. 허영지).flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/06 - KARD - Living Good (Special thanks to.).flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/05 - KARD - 난 멈추지 않는다.flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/07 - KARD - Oh NaNa (Inst.).flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/09 - KARD - RUMOR (Inst.).flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/04 - KARD - Hola Hola.flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/03 - KARD - RUMOR.flac
+Feb 23 17:31 : update: updating K-Pop/KARD/Hola Hola/08 - KARD - Don't Recall (Inst.).flac
+Feb 23 17:31 : update: updating K-Pop/Yuseol/유설-02-Ocean View (Inst.).mp3
+Feb 23 17:31 : update: updating K-Pop/Yuseol/유설-01-Ocean View.mp3
+Feb 23 17:31 : update: updating K-Pop/Odd Eye Circle/이달의 소녀 오드아이써클-02-Girl Front.mp3
+Feb 23 17:31 : update: updating K-Pop/Odd Eye Circle/이달의 소녀 오드아이써클-02-Sweet Crazy Love.mp3
+Feb 23 17:31 : update: updating K-Pop/Jeong Sewoon/정세운-01-JUST U (PROD. GroovyRoom).mp3
+Feb 23 17:31 : update: updating K-Pop/Phantom/01 - Could You Be Mine_.mp3
+Feb 23 17:31 : update: updating K-Pop/Phantom/02 - Could You Be Mine_ (inst).mp3
+Feb 23 17:31 : update: updating K-Pop/Shannon/샤넌-01-HELLO.mp3
+Feb 23 17:31 : update: updating K-Pop/Shannon/샤넌-01-눈물이 흘러 (Feat. Lil Boi).mp3
+Feb 23 17:31 : update: updating K-Pop/T-ARA N4/티아라 N4-01-전원일기 (田園日記) (Feat. 이단옆차기 & 태운).mp3
+Feb 23 17:31 : update: updating K-Pop/Jimin x Xiumin/01 - CALL YOU BAE.mp3
+Feb 23 17:31 : update: updating K-Pop/Turbo/터보-02-다시 (Feat. 유재석).mp3
+Feb 23 17:31 : update: updating K-Pop/BESTie(베스티)/Love Emotion/05 - On such a Day(이런 날).mp3
+Feb 23 17:31 : update: updating K-Pop/BESTie(베스티)/Love Emotion/06 - Excuse Me (inst).mp3
+Feb 23 17:31 : update: updating K-Pop/BESTie(베스티)/Love Emotion/01 - Excuse Me.mp3
+Feb 23 17:31 : update: updating K-Pop/BESTie(베스티)/Love Emotion/02 - Hush Baby.mp3
+Feb 23 17:31 : update: updating K-Pop/BESTie(베스티)/Love Emotion/04 - I'm so fine (feat.Almeng).mp3
+Feb 23 17:31 : update: updating K-Pop/BESTie(베스티)/Love Emotion/03 - Single Bed(싱글베드).mp3
+Feb 23 17:31 : update: updating K-Pop/ASTRO/아스트로 (ASTRO)-02-니가 불어와 (Crazy Sexy Cool).mp3
+Feb 23 17:31 : update: updating K-Pop/ASTRO/아스트로 (ASTRO)-02-Baby.mp3
+Feb 23 17:31 : update: updating K-Pop/4X/4x-01-Secret Night.mp3
+Feb 23 17:31 : update: updating K-Pop/Cross Gene/크로스진 (CROSS GENE)-01-Black or White.mp3
+Feb 23 17:31 : update: updating K-Pop/2NE1/2NE1-01-내가 제일 잘 나가.mp3
+Feb 23 17:31 : update: updating K-Pop/Loco/로꼬-06-지나쳐 (Feat. DEAN).mp3
+Feb 23 17:31 : update: updating K-Pop/Loco/로꼬-02-Summer Go Loco (Feat. GRAY).mp3
+Feb 23 17:31 : update: updating K-Pop/Unit Black/UNIT BLACK (유닛블랙)-01-뺏겠어 (Steal Your Heart).mp3
+Feb 23 17:31 : update: updating K-Pop/Pentagon/펜타곤 (PENTAGON)-01-Like This.mp3
+Feb 23 17:31 : update: updating K-Pop/Pentagon/펜타곤 (PENTAGON)-02-RUNAWAY.mp3
+Feb 23 17:31 : update: updating K-Pop/Pentagon/펜타곤 (PENTAGON)-01-예뻐죽겠네.mp3
+Feb 23 17:31 : update: updating K-Pop/Pentagon/펜타곤 (PENTAGON)-01-감이 오지.mp3
+Feb 23 17:31 : update: updating K-Pop/Akdong Musician/악동뮤지션-01-DINOSAUR.mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/싸이 (PSY)-02-New Face.mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/04 - DADDY ft. CL of 2NE1.mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/03 - NAPAL BAJI.mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/싸이 (PSY)-01-I LUV IT.mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/PSY 6甲, Pt. 1 - EP/02 - Passionate Goodbye (뜨거운 안녕) (feat. Sung Si Kyung).mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/PSY 6甲, Pt. 1 - EP/01 - Blue Frog (청개구리) [feat. G-Dragon].mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/PSY 6甲, Pt. 1 - EP/04 - Year of 77 (77학개론) (feat. LeeSsang & Kim Jin Pyo).mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/PSY 6甲, Pt. 1 - EP/05 - What Would Have Been_ (어땠을까) (feat. Park Jung Hyun).mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/PSY 6甲, Pt. 1 - EP/03 - Gangnam Style (강남스타일).mp3
+Feb 23 17:31 : update: updating K-Pop/PSY/PSY 6甲, Pt. 1 - EP/06 - Never Say Goodbye (feat. Yoon Do Hyun).mp3
+Feb 23 17:31 : update: updating K-Pop/SM Station/Chen X Heize/01 - ______ Lil' Something.mp3
+Feb 23 17:31 : update: updating K-Pop/SM Station/Yuri x Seohyun/01 - Secret.mp3
+Feb 23 17:31 : update: updating K-Pop/SM Station/IMLAY X Sik-K/IMLAY X Sik-K-01-데칼코마니 (Decalcomanie).mp3
+Feb 23 17:31 : update: updating K-Pop/SM Station/R3hab x Luna x Amber x Xavi&Gi/02 - Wave (Xavi&Gi Version).mp3
+Feb 23 17:31 : update: updating K-Pop/SM Station/R3hab x Luna x Amber x Xavi&Gi/01 - Wave.mp3
+Feb 23 17:31 : update: updating K-Pop/SM Station/Amber x Luna/01 - Heartbeat (Feat. Ferry Corsten & Kago Pengchi).mp3
+Feb 23 17:31 : update: updating K-Pop/UZA/uza - SUITABLE.flac
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-01-HERO (Broadcasting Ver.).mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-02-아름다워 (Beautiful).mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-01-Fighter.mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-02-HERO.mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-01-신속히 (RUSH).mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-01-SHINE FOREVER.mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-03-네게만 집착해.mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/01 - Trespass(무단침입).mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-02-걸어 (All in).mp3
+Feb 23 17:31 : update: updating K-Pop/Monsta X/몬스타엑스-01-DRAMARAMA.mp3
+Feb 23 17:31 : update: updating K-Pop/HALO/헤일로 (HALO)-01-여기여기.mp3
+Feb 23 17:31 : update: updating K-Pop/Rania/라니아-01-STYLE.mp3
+Feb 23 17:31 : update: updating K-Pop/Rania/BP RANIA-01-Beep Beep Beep.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/Red Velvet (레드벨벳)-06-Some Love.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/02 - Automatic.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/10 - Cool World.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/01 - Dumb Dumb.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/06 - Lady's Room.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/02 - Huff n Puff.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/07 - Time Slip.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/05 - Oh Boy.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/09 - Day 1.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/08 - Don't U Wait No More.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/04 - Red Dress.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Red/03 - Campfire.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/Red Velvet (레드벨벳)-01-행복 (Happiness).mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/01 - Ice Cream Cake.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/Red Velvet (레드벨벳)-01-빨간 맛 (Red Flavor).mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/Red Velvet (레드벨벳)-01-피카부 (Peek-A-Boo).mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Velvet/04 - 레드벨벳 - 처음인가요 (First Time).flac
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Velvet/08 - 레드벨벳 - 7월 7일 (One of These Nights) [Piano Version].flac
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Velvet/01 - 레드벨벳 - 7월 7일 (One of These Nights).flac
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Velvet/03 - 레드벨벳 - Light Me Up.flac
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Velvet/02 - 레드벨벳 - Cool Hot Sweet Love.flac
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Velvet/05 - 레드벨벳 - 장미꽃 향기는 바람에 날리고 (Rose Scent Breeze).flac
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Velvet/06 - 레드벨벳 - 7월 7일 (One of These Nights) [De-Capo Version].flac
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/The Velvet/07 - 레드벨벳 - 7월 7일 (One of These Nights) [Joe Millionaire Version].flac
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/01 - 러시안 룰렛 Russian Roulette.mp3
+Feb 23 17:31 : update: updating K-Pop/Red Velvet/01 - Rookie.mp3
+Feb 23 17:31 : update: updating K-Pop/Hyolyn X Kisum/효린-01-FRUITY (Prod. GroovyRoom).mp3
+Feb 23 17:31 : update: updating K-Pop/Mino/01 - BODY.mp3
+Feb 23 17:31 : update: updating K-Pop/2PM/2PM-01-미친거 아니야_.mp3
+Feb 23 17:31 : update: updating K-Pop/Jeon Jiyoon/전지윤-02-자석 (Feat. 올티).mp3
+Feb 23 17:31 : update: updating K-Pop/Super Junior/02 - Devil.mp3
+Feb 23 17:31 : update: updating K-Pop/Super Junior/슈퍼주니어-01-쏘리 쏘리 (Sorry, Sorry).mp3
+Feb 23 17:31 : update: updating K-Pop/Super Junior/슈퍼주니어-01-Black Suit.mp3
+Feb 23 17:31 : update: updating K-Pop/Wanna.B/워너비 (WANNA.B)-01-손들어 (Hands Up).mp3
+Feb 23 17:31 : update: updating K-Pop/Wanna.B/워너비 (WANNA.B)-01-왜요 (Why_).mp3
+Feb 23 17:31 : update: updating K-Pop/EXID/EXID-02-낮보다는 밤.mp3
+Feb 23 17:31 : update: updating K-Pop/EXID/EXID-01-덜덜덜.mp3
+Feb 23 17:31 : update: updating K-Pop/EXID/01 - Up & Down.mp3
+Feb 23 17:31 : update: updating K-Pop/EXID/01 - Every night (매일밤).mp3
+Feb 23 17:31 : update: updating K-Pop/EXID/01 - Hot Pink.mp3
+Feb 23 17:31 : update: updating K-Pop/EXID/02 - L.I.E.mp3
+Feb 23 17:31 : update: updating K-Pop/EXID/01 - Ah Yeah.mp3
+Feb 23 17:31 : update: updating K-Pop/Taeyang/03 - I Need a Girl (Feat. G-Dragon).mp3
+Feb 23 17:31 : update: updating K-Pop/Taeyang/06 - 링가 링가.mp3
+Feb 23 17:31 : update: updating K-Pop/Sunmi/선미-01-가시나.mp3
+Feb 23 17:31 : update: updating K-Pop/HOTSHOT/핫샷 (HOTSHOT)-02-젤리 (Jelly) (Inst.).mp3
+Feb 23 17:31 : update: updating K-Pop/HOTSHOT/핫샷 (HOTSHOT)-01-젤리 (Jelly).mp3
+Feb 23 17:31 : update: updating K-Pop/SONAMOO(소나무)/CUSHION/02 - Round N Round(빙그르르).mp3
+Feb 23 17:31 : update: updating K-Pop/SONAMOO(소나무)/CUSHION/01 - CUSHION.mp3
+Feb 23 17:31 : update: updating K-Pop/SONAMOO(소나무)/CUSHION/03 - Deeply love(깊어).mp3
+Feb 23 17:31 : update: updating K-Pop/SONAMOO(소나무)/CUSHION/05 - Liar(다 거짓말).mp3
+Feb 23 17:31 : update: updating K-Pop/SONAMOO(소나무)/CUSHION/06 - Let’s make a movie(상영시간 무한대).mp3
+Feb 23 17:31 : update: updating K-Pop/SONAMOO(소나무)/CUSHION/04 - OK.mp3
+Feb 23 17:31 : update: updating K-Pop/SONAMOO(소나무)/소나무 (SONAMOO)-02-I (knew it).mp3
+Feb 23 17:31 : update: updating K-Pop/SONAMOO(소나무)/소나무 (SONAMOO)-02-금요일밤.mp3
+Feb 23 17:31 : update: updating K-Pop/DPR Live/DPR LIVE-03-Right Here Right Now (Feat. 로꼬 & 박재범).mp3
+Feb 23 17:31 : update: updating K-Pop/Bobby/BOBBY-01-사랑해.mp3
+Feb 23 17:31 : update: updating K-Pop/AoA/01 - Ai Wo Choudai (feat. Takanori Nishikawa T.M.Revolution).mp3
+Feb 23 17:31 : update: updating K-Pop/AoA/01 - Excuse Me.mp3
+Feb 23 17:31 : update: updating K-Pop/AoA/AOA-01-심쿵해 (Heart Attack).mp3
+Feb 23 17:31 : update: updating K-Pop/AoA/Good Luck/04 Crazy Boy.flac
+Feb 23 17:31 : update: updating K-Pop/AoA/Good Luck/03 Cherry Pop.flac
+Feb 23 17:31 : update: updating K-Pop/AoA/Good Luck/01 Good Luck.flac
+Feb 23 17:31 : update: updating K-Pop/AoA/Good Luck/05 Still Falls The Rain.flac
+Feb 23 17:31 : update: updating K-Pop/AoA/Good Luck/02 10 Seconds.flac
+Feb 23 17:31 : update: updating K-Pop/AoA/02 - 짧은 치마 (Miniskirt) (Miniskirt).mp3
+Feb 23 17:31 : update: updating K-Pop/BgA/01 - Who's It Gonna Be.mp3
+Feb 23 17:31 : update: updating K-Pop/BgA/01 - Dong Saya Dae (feat. Ryan Higa & David Choi).mp3
+Feb 23 17:31 : update: updating K-Pop/Chungha/청하-02-Why Don`t You Know (Feat. 넉살).mp3
+Feb 23 17:31 : update: updating K-Pop/Yezi/예지-01-아낙수나문 (Anck Su Namum).mp3
+Feb 23 17:31 : update: updating K-Pop/Yezi/03 - Sse Sse Sse (feat.Gilme & KittiB & An Su Min).mp3
+Feb 23 17:31 : update: updating K-Pop/Yezi/04 - Crazy Dog (feat.San E).mp3
+Feb 23 17:31 : update: updating K-Pop/Yezi/01 - Cider.mp3
+Feb 23 17:31 : update: updating K-Pop/Yezi/02 - The lunar world.mp3
+Feb 23 17:31 : update: updating K-Pop/Yezi/05 - 사이다 (inst).mp3
+Feb 23 17:31 : update: updating K-Pop/Beast/02 - Fiction.mp3
+Feb 23 17:31 : update: updating Kygo/01 - Firestone.mp3
+Feb 23 17:31 : update: updating Chromeo/01 - Jealous (I Ain't With It).mp3
+Feb 23 17:31 : update: updating Daft Punk/08 - Get Lucky.mp3
+Feb 23 17:31 : update: updating Daft Punk/10 - Motherboard.mp3
+Feb 23 17:31 : update: updating Daft Punk/02 - The Game of Love.mp3
+Feb 23 17:31 : update: updating Daft Punk/04 - Within.mp3
+Feb 23 17:31 : update: updating Daft Punk/05 - Instant Crush.mp3
+Feb 23 17:31 : update: updating Daft Punk/12 - Doin' it Right.mp3
+Feb 23 17:31 : update: updating Daft Punk/07 - Touch.mp3
+Feb 23 17:31 : update: updating Daft Punk/09 - Beyond.mp3
+Feb 23 17:31 : update: updating Daft Punk/03 - Giorgio by Moroder.mp3
+Feb 23 17:31 : update: updating Daft Punk/13 - Contact.mp3
+Feb 23 17:31 : update: updating Daft Punk/11 - Fragments of Time.mp3
+Feb 23 17:31 : update: updating Daft Punk/06 - Lose Yourself to Dance.mp3
+Feb 23 17:31 : update: updating Daft Punk/01 - Give Life Back to Music.mp3
+Feb 23 17:31 : update: updating Aimer/05 - 7-tsuki no Tsubasa (Live 'Midnight Sun' ver.).mp3
+Feb 23 17:31 : update: updating Aimer/01 - Brave Shine.mp3
+Feb 23 17:31 : update: updating Aimer/04 - AM03 00 (Live 'Midnight Sun' ver.).mp3
+Feb 23 17:31 : update: updating Aimer/06 - Brave Shine (TV size).mp3
+Feb 23 17:31 : update: updating Aimer/03 - Kimi wo Matsu -acoustic ver.-.mp3
+Feb 23 17:31 : update: updating Aimer/02 - Ophelia.mp3
+Feb 23 17:31 : update: updating Next/09 - Too Close (Instrumental Version).mp3
+Feb 23 17:31 : update: updating Next/01 - Too Close (Explicit Version).mp3
+Feb 23 17:31 : update: updating Ini Kamoze/03 - Here Comes the Hotstepper (Heartical Mix).mp3
+Feb 23 17:31 : update: updating Eddie Kaba/KARD - OH NANA - Eddie Kaba Instrumental [Remake].wav
+Feb 23 17:31 : update: updating Mack Morrison/06 - Return Of The Mack (C & J Street Mix).mp3
+Feb 23 17:31 : update: updating Mack Morrison/04 - Return of the Mack.mp3
+Feb 23 17:31 : update: updating old mp3/01 - RUMOR.mp3
+Feb 23 17:31 : update: updating old mp3/01 - Free Somebody.mp3
+Feb 23 17:31 : update: updating old mp3/01 - Oh NaNa (Hidden. HUR YOUNG JI).mp3
+Feb 23 17:31 : update: updating old mp3/01 - Don't Recall.mp3
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/09 - 平田志穂子 - Heaven.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/06 - 平田志穂子 - Your Affection.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/05 - 平田志穂子 - Reach Out To The Truth.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/03 - 目黒将司 - Like a dream come true.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/07 - 目黒将司 - 夢想曲.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/04 - 目黒将司 - I'll Face Myself (-Battle-).flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/02 - 平田志穂子 - Heartbeat, Heartbreak.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/11 - 目黒将司 - specialist.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/08 - 目黒将司 - SMILE.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/01 - 平田志穂子 - Pursuing My True Self.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/12 - 平田志穂子 - Never More.flac
+Feb 23 17:31 : update: updating ATLUS/Never More -ReincarnationPERSONA4-/10 - 平田志穂子 - Signs Of Love.flac
+Feb 23 17:31 : client: [4] opened from [::1]:47104
+Feb 23 17:31 : player: played "http://174.138.71.242:8000"
+Feb 23 17:31 : client: [4] closed
+Feb 23 17:31 : client: [5] opened from [::1]:47106
+Feb 23 17:31 : client: [5] closed
+Feb 23 17:31 : client: [6] opened from [::1]:47108
+Feb 23 17:31 : client: [6] closed
+Feb 23 17:31 : client: [7] opened from [::1]:47110
+Feb 23 17:31 : client: [7] closed
+Feb 23 17:31 : client: [8] opened from [::1]:47112
+Feb 23 17:31 : client: [8] closed
+Feb 23 17:31 : client: [9] opened from [::1]:47114
+Feb 23 17:31 : client: [9] closed
+Feb 23 17:31 : client: [10] opened from [::1]:47116
+Feb 23 17:31 : exception: No such playlist
+Feb 23 17:31 : client: [10] closed
+Feb 23 17:31 : client: [11] opened from [::1]:47118
+Feb 23 17:31 : client: [11] closed
+Feb 23 17:31 : client: [12] opened from [::1]:47120
+Feb 23 17:31 : client: [12] closed
+Feb 23 17:31 : client: [13] opened from [::1]:47122
+Feb 23 17:31 : client: [13] closed
+Feb 23 17:31 : client: [14] opened from [::1]:47124
+Feb 23 17:31 : client: [14] closed
+Feb 23 17:31 : client: [15] opened from [::1]:47126
+Feb 23 17:31 : client: [15] closed
+Feb 23 17:31 : client: [16] opened from [::1]:47128
+Feb 23 17:31 : client: [16] closed
+Feb 23 17:31 : client: [17] opened from [::1]:47130
+Feb 23 17:31 : client: [17] closed
+Feb 23 17:31 : client: [18] opened from [::1]:47132
+Feb 23 17:31 : client: [18] closed
+Feb 23 17:31 : client: [19] opened from [::1]:47134
+Feb 23 17:31 : client: [19] closed
+Feb 23 17:31 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:31 : client: [20] opened from [::1]:47136
+Feb 23 17:31 : client: [20] closed
+Feb 23 17:35 : player: played "K-Pop/Bobby/BOBBY-01-사랑해.mp3"
+Feb 23 17:37 : client: [21] opened from [::1]:47368
+Feb 23 17:37 : client: [21] closed
+Feb 23 17:43 : client: [22] opened from [::1]:47426
+Feb 23 17:43 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:43 : client: [22] closed
+Feb 23 17:44 : player: played "K-Pop/Dal Shabet/FRI. SAT. SUN/02 - FRI. SAT. SUN.mp3"
+Feb 23 17:47 : player: played "K-Pop/Zico/지코 (ZICO)-03-ANTI (Feat. G.Soul).mp3"
+Feb 23 17:49 : client: [23] opened from [::1]:47648
+Feb 23 17:49 : client: [23] closed
+Feb 23 17:49 : client: [24] opened from [::1]:47650
+Feb 23 17:49 : client: [24] closed
+Feb 23 17:52 : player: played "K-Pop/Chancellor/01 - MURDA (feat.Dok2).mp3"
+Feb 23 17:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:54 : player: played "K-Pop/KARD/Hola Hola/02 - KARD - Don't Recall.flac"
+Feb 23 17:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 17:54 : client: [0] opened from [::1]:48678
+Feb 23 17:54 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:54 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:54 : client: [0] closed
+Feb 23 17:56 : client: [1] opened from 127.0.0.1:50426
+Feb 23 17:56 : client: [1] closed
+Feb 23 17:56 : client: [2] opened from [::1]:48686
+Feb 23 17:56 : client: [2] closed
+Feb 23 17:56 : player: played "K-Pop/KARD/Hola Hola/02 - KARD - Don't Recall.flac"
+Feb 23 17:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 17:56 : client: [3] opened from 127.0.0.1:50434
+Feb 23 17:57 : client: [4] opened from [::1]:48694
+Feb 23 17:57 : client: [4] closed
+Feb 23 17:57 : client: [5] opened from [::1]:48696
+Feb 23 17:57 : client: [5] closed
+Feb 23 17:57 : client: [6] opened from [::1]:48698
+Feb 23 17:57 : client: [6] closed
+Feb 23 18:00 : player: played "K-Pop/SHINee/샤이니 (SHINee)-02-Lucifer.mp3"
+Feb 23 18:01 : player: played "K-Pop/EXID/EXID-02-낮보다는 밤.mp3"
+Feb 23 18:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 18:02 : avahi: Client Disconnected, will reconnect shortly
+Feb 23 18:02 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 23 18:02 : player: played "K-Pop/EXID/EXID-02-낮보다는 밤.mp3"
+Feb 23 18:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 18:03 : avahi: Client Disconnected, will reconnect shortly
+Feb 23 18:03 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 23 18:03 : player: played "K-Pop/EXID/EXID-02-낮보다는 밤.mp3"
+Feb 23 18:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 23 18:03 : client: [0] opened from 127.0.0.1:51358
+Feb 23 18:03 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:03 : client: [1] opened from [::1]:52016
+Feb 23 18:03 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:03 : client: [1] closed
+Feb 23 18:06 : player: played "K-Pop/EXID/EXID-02-낮보다는 밤.mp3"
+Feb 23 18:06 : client: [2] opened from [::1]:52092
+Feb 23 18:06 : client: [2] closed
+Feb 23 18:06 : client: [3] opened from [::1]:52094
+Feb 23 18:06 : client: [3] closed
+Feb 23 18:06 : client: [4] opened from [::1]:52096
+Feb 23 18:06 : client: [4] closed
+Feb 23 18:06 : client: [5] opened from [::1]:52098
+Feb 23 18:06 : client: [5] closed
+Feb 23 18:09 : player: played "K-Pop/SF9/02 - ROAR.mp3"
+Feb 23 18:12 : player: played "K-Pop/NS Yoon G/01 - Yasisi.mp3"
+Feb 23 18:16 : player: played "K-Pop/f(x)/4 Walls - The 4th Album/06 - Diamond.mp3"
+Feb 23 18:20 : player: played "K-Pop/Oh My Girl/Cupid.mp3"
+Feb 23 18:23 : player: played "K-Pop/NCT Dream/NCT DREAM-01-마지막 첫사랑 (My First and Last).mp3"
+Feb 23 18:26 : client: [6] opened from [::1]:52376
+Feb 23 18:26 : client: [6] closed
+Feb 23 18:30 : client: [7] opened from [::1]:52386
+Feb 23 18:30 : player: played "K-Pop/Sistar/03 - One More Day (inst).mp3"
+Feb 23 18:30 : client: [7] closed
+Feb 23 18:30 : client: [8] opened from [::1]:52388
+Feb 23 18:30 : client: [8] closed
+Feb 23 18:30 : client: [9] opened from [::1]:52390
+Feb 23 18:30 : client: [9] closed
+Feb 23 18:30 : client: [10] opened from [::1]:52392
+Feb 23 18:30 : client: [10] closed
+Feb 23 18:30 : client: [11] opened from [::1]:52394
+Feb 23 18:30 : client: [11] closed
+Feb 23 18:30 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:30 : client: [12] opened from [::1]:52396
+Feb 23 18:30 : client: [12] closed
+Feb 23 18:30 : client: [13] opened from [::1]:52398
+Feb 23 18:30 : client: [13] closed
+Feb 23 18:30 : client: [14] opened from [::1]:52400
+Feb 23 18:30 : client: [14] closed
+Feb 23 18:30 : client: [15] opened from [::1]:52402
+Feb 23 18:30 : client: [15] closed
+Feb 23 18:31 : client: [16] opened from [::1]:52406
+Feb 23 18:31 : client: [16] closed
+Feb 23 18:31 : client: [17] opened from [::1]:52410
+Feb 23 18:31 : player: played "K-Pop/Jessica/01 - Wonderland (Eng).mp3"
+Feb 23 18:31 : client: [17] closed
+Feb 23 18:32 : client: [18] opened from [::1]:52412
+Feb 23 18:32 : client: [18] closed
+Feb 23 18:32 : client: [19] opened from [::1]:52414
+Feb 23 18:32 : client: [19] closed
+Feb 23 18:32 : client: [20] opened from [::1]:52416
+Feb 23 18:32 : client: [20] closed
+Feb 23 18:32 : client: [21] opened from [::1]:52418
+Feb 23 18:32 : client: [21] closed
+Feb 23 18:32 : client: [22] opened from [::1]:52420
+Feb 23 18:32 : client: [22] closed
+Feb 23 18:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:32 : client: [23] opened from [::1]:52422
+Feb 23 18:32 : client: [23] closed
+Feb 23 18:33 : client: [24] opened from [::1]:52426
+Feb 23 18:33 : client: [24] closed
+Feb 23 18:33 : client: [25] opened from [::1]:52430
+Feb 23 18:33 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:33 : client: [25] closed
+Feb 23 18:36 : player: played "K-Pop/Teen Top/틴탑-02-재밌어_ (Love is).mp3"
+Feb 23 18:38 : update: updating K-Pop/Momoland/01 - BBoom BBoom.mp3
+Feb 23 18:38 : client: [26] opened from [::1]:52582
+Feb 23 18:38 : client: [26] closed
+Feb 23 18:39 : client: [27] opened from [::1]:52584
+Feb 23 18:39 : client: [27] closed
+Feb 23 18:39 : client: [28] opened from [::1]:52586
+Feb 23 18:39 : client: [28] closed
+Feb 23 18:39 : player: played "K-Pop/Glabingo/GLABINGO (글라빙고)-01-BONNY.mp3"
+Feb 23 18:41 : client: [29] opened from [::1]:52632
+Feb 23 18:41 : client: [29] closed
+Feb 23 18:41 : client: [30] opened from [::1]:52634
+Feb 23 18:41 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:41 : client: [30] closed
+Feb 23 18:42 : player: played "K-Pop/Momoland/01 - BBoom BBoom.mp3"
+Feb 23 18:42 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:46 : player: played "K-Pop/Dreamcatcher/Prequel (First Mini Album)/04 - Dreamcatcher - Sleep-Walking.flac"
+Feb 23 18:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:49 : player: played "K-Pop/INX/INX (인엑스)-01-2gether.mp3"
+Feb 23 18:49 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:53 : player: played "K-Pop/KARD/Hola Hola/09 - KARD - RUMOR (Inst.).flac"
+Feb 23 18:53 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:56 : player: played "K-Pop/Unit Black/UNIT BLACK (유닛블랙)-01-뺏겠어 (Steal Your Heart).mp3"
+Feb 23 18:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:58 : client: [31] opened from [::1]:53282
+Feb 23 18:58 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 18:58 : client: [31] closed
+Feb 23 19:01 : player: played "K-Pop/VAV/VAV-01-ABC (Middle of the Night).mp3"
+Feb 23 19:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 19:05 : player: played "K-Pop/IU/Palette/07 마침표.flac"
+Feb 23 19:09 : player: played "K-Pop/IU/Palette/05 잼잼.flac"
+Feb 23 19:09 : client: [32] opened from [::1]:53580
+Feb 23 19:09 : client: [32] closed
+Feb 23 19:12 : player: played "K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/05 - 나인뮤지스 - Hate Me.flac"
+Feb 23 19:12 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 19:14 : client: [0] closed
+Feb 23 19:14 : client: [33] opened from 127.0.0.1:53082
+Feb 23 19:14 : client: [33] closed
+Feb 23 19:14 : client: [34] opened from 127.0.0.1:53088
+Feb 23 19:15 : client: [34] closed
+Feb 23 19:15 : player: played "K-Pop/JBJ/JBJ-02-Fantasy.mp3"
+Feb 23 19:15 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 19:17 : client: [35] opened from 127.0.0.1:53108
+Feb 23 19:19 : player: played "K-Pop/9muses/MUSES DIARY PART.2 IDENTITY/02 - 나인뮤지스 - 기억해.flac"
+Feb 23 19:19 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 19:23 : player: played "K-Pop/Triple H/트리플 H (현아, 펜타곤 (후이, 이던))-02-365 FRESH.mp3"
+Feb 23 19:23 : client: [36] opened from [::1]:53984
+Feb 23 19:23 : client: [36] closed
+Feb 23 19:25 : client: [35] closed
+Feb 23 19:25 : client: [37] opened from 127.0.0.1:53364
+Feb 23 19:26 : player: played "K-Pop/EXO/EXO-02-Ko Ko Bop.mp3"
+Feb 23 19:30 : player: played "K-Pop/NRG/엔알지 (NRG)-01-20th 세기 Night (20세기 나이트).mp3"
+Feb 23 19:33 : player: played "K-Pop/Vixx LR/빅스LR-01-Whisper.mp3"
+Feb 23 19:33 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 19:34 : client: [38] opened from [::1]:54262
+Feb 23 19:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 23 19:34 : client: [38] closed
+Feb 23 19:38 : player: played "K-Pop/Jay Park/박재범-01-YACHT (k) (Feat. Sik-K).mp3"

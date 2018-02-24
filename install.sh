@@ -5,6 +5,7 @@ ln -sv ~/.dotfiles/.conkyrc ~
 ln -sv ~/.dotfiles/.vimrc ~
 ln -sv ~/.dotfiles/.xbindkeysrc ~
 ln -sv ~/.dotfiles/.config/compton/* ~/.config/compton/
+ln -sv ~/.dotfiles/.config/gsimplecal/* ~/.config/gsimplecal/
 ln -sv ~/.dotfiles/.config/i3/* ~/.config/i3/
 ln -sv ~/.dotfiles/.config/mpd/* ~/.config/mpd/
 ln -sv ~/.dotfiles/.config/mpv/* ~/.config/mpv/
