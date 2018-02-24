@@ -15737,3 +15737,5 @@ Feb 23 19:34 : client: [38] opened from [::1]:54262
 Feb 23 19:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
 Feb 23 19:34 : client: [38] closed
 Feb 23 19:38 : player: played "K-Pop/Jay Park/박재범-01-YACHT (k) (Feat. Sik-K).mp3"
+Feb 23 19:42 : player: played "K-Pop/B.I.G/01 - 1.2.3.mp3"
+Feb 23 19:45 : player: played "K-Pop/Vermuda/버뮤다-01-Dream Girl.mp3"
