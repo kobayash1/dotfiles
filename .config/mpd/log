@@ -16600,3 +16600,74 @@ Feb 24 00:39 : client: [386] opened from [::1]:46018
 Feb 24 00:39 : client: [386] closed
 Feb 24 00:39 : client: [387] opened from [::1]:46020
 Feb 24 00:39 : client: [387] closed
+Feb 24 00:40 : client: [388] opened from 127.0.0.1:53874
+Feb 24 00:40 : client: [388] closed
+Feb 24 00:40 : client: [389] opened from [::1]:46030
+Feb 24 00:40 : client: [389] closed
+Feb 24 00:40 : client: [390] opened from [::1]:46032
+Feb 24 00:40 : client: [390] closed
+Feb 24 00:40 : client: [391] opened from [::1]:46034
+Feb 24 00:40 : client: [391] closed
+Feb 24 00:41 : client: [392] opened from [::1]:46036
+Feb 24 00:41 : client: [392] closed
+Feb 24 00:41 : client: [393] opened from [::1]:46040
+Feb 24 00:41 : client: [393] closed
+Feb 24 00:41 : client: [394] opened from 127.0.0.1:53888
+Feb 24 00:41 : client: [394] closed
+Feb 24 00:41 : client: [395] opened from [::1]:46044
+Feb 24 00:41 : client: [395] closed
+Feb 24 00:41 : client: [396] opened from [::1]:46046
+Feb 24 00:41 : client: [396] closed
+Feb 24 00:41 : client: [397] opened from [::1]:46048
+Feb 24 00:41 : client: [397] closed
+Feb 24 00:41 : client: [398] opened from [::1]:46050
+Feb 24 00:41 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 00:41 : client: [398] closed
+Feb 24 00:41 : client: [399] opened from 127.0.0.1:53898
+Feb 24 00:41 : client: [399] closed
+Feb 24 00:41 : client: [400] opened from [::1]:46054
+Feb 24 00:41 : client: [400] closed
+Feb 24 00:41 : client: [401] opened from [::1]:46056
+Feb 24 00:41 : client: [401] closed
+Feb 24 00:41 : client: [402] opened from [::1]:46058
+Feb 24 00:41 : client: [402] closed
+Feb 24 00:41 : client: [403] opened from 127.0.0.1:53906
+Feb 24 00:41 : client: [403] closed
+Feb 24 00:41 : client: [404] opened from [::1]:46062
+Feb 24 00:41 : client: [404] closed
+Feb 24 00:41 : client: [405] opened from [::1]:46064
+Feb 24 00:41 : client: [405] closed
+Feb 24 00:41 : client: [406] opened from [::1]:46066
+Feb 24 00:41 : client: [406] closed
+Feb 24 00:42 : client: [407] opened from 127.0.0.1:53914
+Feb 24 00:42 : client: [407] closed
+Feb 24 00:42 : client: [408] opened from [::1]:46070
+Feb 24 00:42 : client: [408] closed
+Feb 24 00:42 : client: [409] opened from [::1]:46072
+Feb 24 00:42 : client: [409] closed
+Feb 24 00:42 : client: [410] opened from [::1]:46074
+Feb 24 00:42 : client: [410] closed
+Feb 24 00:43 : client: [411] opened from 127.0.0.1:53926
+Feb 24 00:43 : client: [411] closed
+Feb 24 00:43 : client: [412] opened from [::1]:46082
+Feb 24 00:43 : client: [412] closed
+Feb 24 00:43 : client: [413] opened from [::1]:46084
+Feb 24 00:43 : client: [413] closed
+Feb 24 00:43 : client: [414] opened from [::1]:46086
+Feb 24 00:43 : client: [414] closed
+Feb 24 00:43 : client: [415] opened from 127.0.0.1:53934
+Feb 24 00:43 : client: [415] closed
+Feb 24 00:43 : client: [416] opened from [::1]:46090
+Feb 24 00:43 : client: [416] closed
+Feb 24 00:43 : client: [417] opened from [::1]:46092
+Feb 24 00:43 : client: [417] closed
+Feb 24 00:43 : client: [418] opened from [::1]:46094
+Feb 24 00:43 : client: [418] closed
+Feb 24 00:43 : client: [419] opened from 127.0.0.1:54038
+Feb 24 00:43 : client: [419] closed
+Feb 24 00:43 : client: [420] opened from [::1]:46194
+Feb 24 00:43 : client: [420] closed
+Feb 24 00:43 : client: [421] opened from [::1]:46196
+Feb 24 00:43 : client: [421] closed
+Feb 24 00:43 : client: [422] opened from [::1]:46198
+Feb 24 00:43 : client: [422] closed
