@@ -214,4 +214,4 @@ client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 client.background       #ffffff
 
 # Start mpdcron
-exec_always --no-startup-id "mpdcron -n"
+exec --no-startup-id "mpdcron -n"
