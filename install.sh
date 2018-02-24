@@ -15,3 +15,4 @@ ln -sv ~/.dotfiles/.irssi/* ~/.irssi/
 cp ~/.dotfiles/.config/gsimplecal/* ~/.config/gsimplecal/
 cp ~/.dotfiles/.config/mpdnotify.conf ~/.config/
 cp ~/.dotfiles/.config/dunst/dunstrc ~/.config/dunst/
+cp -r ~/.dotfiles/.mpdcron ~/

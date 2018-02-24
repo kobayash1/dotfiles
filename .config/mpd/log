@@ -17577,3 +17577,47 @@ Feb 24 14:05 : client: [300] opened from [::1]:57308
 Feb 24 14:05 : client: [301] opened from [::1]:57310
 Feb 24 14:05 : client: [300] closed
 Feb 24 14:05 : client: [301] closed
+Feb 24 14:09 : player: played "K-Pop/Dreamcatcher/Prequel (First Mini Album)/02 - Dreamcatcher - 날아올라 (Fly High).flac"
+Feb 24 14:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 14:09 : client: [302] opened from [::1]:57320
+Feb 24 14:09 : client: [303] opened from [::1]:57322
+Feb 24 14:09 : client: [302] closed
+Feb 24 14:09 : client: [303] closed
+Feb 24 14:09 : client: [304] opened from [::1]:57324
+Feb 24 14:09 : client: [305] opened from [::1]:57326
+Feb 24 14:09 : client: [304] closed
+Feb 24 14:09 : client: [305] closed
+Feb 24 14:09 : client: [306] opened from [::1]:57328
+Feb 24 14:09 : client: [307] opened from [::1]:57330
+Feb 24 14:09 : client: [306] closed
+Feb 24 14:09 : client: [307] closed
+Feb 24 14:09 : client: [308] opened from [::1]:57334
+Feb 24 14:09 : client: [308] closed
+Feb 24 14:09 : client: [309] opened from [::1]:57336
+Feb 24 14:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 14:09 : client: [309] closed
+Feb 24 14:09 : client: [310] opened from [::1]:57338
+Feb 24 14:09 : client: [311] opened from [::1]:57340
+Feb 24 14:09 : client: [310] closed
+Feb 24 14:09 : client: [311] closed
+Feb 24 14:09 : client: [312] opened from [::1]:57342
+Feb 24 14:09 : client: [313] opened from [::1]:57344
+Feb 24 14:09 : client: [312] closed
+Feb 24 14:09 : client: [313] closed
+Feb 24 14:09 : client: [314] opened from [::1]:57346
+Feb 24 14:09 : client: [315] opened from [::1]:57348
+Feb 24 14:09 : client: [315] closed
+Feb 24 14:09 : client: [314] closed
+Feb 24 14:12 : player: played "K-Pop/PSY/싸이 (PSY)-01-I LUV IT.mp3"
+Feb 24 14:12 : client: [316] opened from [::1]:57356
+Feb 24 14:12 : client: [317] opened from [::1]:57358
+Feb 24 14:12 : client: [316] closed
+Feb 24 14:12 : client: [317] closed
+Feb 24 14:12 : client: [318] opened from [::1]:57360
+Feb 24 14:12 : client: [319] opened from [::1]:57362
+Feb 24 14:12 : client: [318] closed
+Feb 24 14:12 : client: [319] closed
+Feb 24 14:12 : client: [320] opened from [::1]:57364
+Feb 24 14:12 : client: [321] opened from [::1]:57366
+Feb 24 14:12 : client: [320] closed
+Feb 24 14:12 : client: [321] closed

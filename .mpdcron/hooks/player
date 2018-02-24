@@ -1,0 +1,1 @@
+[[ "$MPD_STATUS_STATE" = play ]] && mpdnotify
