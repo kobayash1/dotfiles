@@ -18106,3 +18106,973 @@ Feb 24 14:58 : client: [552] opened from [::1]:60150
 Feb 24 14:58 : client: [552] closed
 Feb 24 14:58 : client: [553] opened from [::1]:60152
 Feb 24 14:58 : client: [553] closed
+Feb 24 14:59 : client: [554] opened from 127.0.0.1:44146
+Feb 24 14:59 : client: [554] closed
+Feb 24 14:59 : client: [555] opened from [::1]:60160
+Feb 24 14:59 : client: [555] closed
+Feb 24 14:59 : client: [556] opened from [::1]:60162
+Feb 24 14:59 : client: [556] closed
+Feb 24 14:59 : client: [557] opened from [::1]:60164
+Feb 24 14:59 : client: [557] closed
+Feb 24 15:00 : client: [558] opened from 127.0.0.1:44156
+Feb 24 15:00 : client: [558] closed
+Feb 24 15:00 : client: [559] opened from [::1]:60170
+Feb 24 15:00 : client: [559] closed
+Feb 24 15:00 : client: [560] opened from [::1]:60172
+Feb 24 15:00 : client: [560] closed
+Feb 24 15:00 : client: [561] opened from [::1]:60174
+Feb 24 15:00 : client: [561] closed
+Feb 24 15:00 : client: [562] opened from 127.0.0.1:44164
+Feb 24 15:00 : client: [562] closed
+Feb 24 15:00 : client: [563] opened from [::1]:60178
+Feb 24 15:00 : client: [563] closed
+Feb 24 15:00 : client: [564] opened from [::1]:60180
+Feb 24 15:00 : client: [564] closed
+Feb 24 15:00 : client: [565] opened from [::1]:60182
+Feb 24 15:00 : client: [565] closed
+Feb 24 15:01 : player: played "K-Pop/fromis_9/fromis_9-01-유리구두.mp3"
+Feb 24 15:01 : client: [566] opened from [::1]:60186
+Feb 24 15:01 : client: [566] closed
+Feb 24 15:01 : client: [567] opened from [::1]:60188
+Feb 24 15:01 : client: [567] closed
+Feb 24 15:01 : client: [568] opened from [::1]:60190
+Feb 24 15:01 : client: [568] closed
+Feb 24 15:02 : client: [569] opened from 127.0.0.1:44186
+Feb 24 15:02 : client: [569] closed
+Feb 24 15:02 : client: [570] opened from [::1]:60200
+Feb 24 15:02 : client: [570] closed
+Feb 24 15:02 : client: [571] opened from [::1]:60202
+Feb 24 15:02 : client: [571] closed
+Feb 24 15:02 : client: [572] opened from [::1]:60204
+Feb 24 15:02 : client: [572] closed
+Feb 24 15:02 : client: [573] opened from 127.0.0.1:44194
+Feb 24 15:02 : client: [573] closed
+Feb 24 15:02 : client: [574] opened from [::1]:60208
+Feb 24 15:02 : client: [574] closed
+Feb 24 15:02 : client: [575] opened from [::1]:60210
+Feb 24 15:02 : client: [575] closed
+Feb 24 15:02 : client: [576] opened from [::1]:60212
+Feb 24 15:02 : client: [576] closed
+Feb 24 15:02 : client: [577] opened from 127.0.0.1:44202
+Feb 24 15:02 : client: [577] closed
+Feb 24 15:02 : client: [578] opened from [::1]:60216
+Feb 24 15:02 : client: [578] closed
+Feb 24 15:02 : client: [579] opened from [::1]:60218
+Feb 24 15:02 : client: [579] closed
+Feb 24 15:02 : client: [580] opened from [::1]:60220
+Feb 24 15:02 : client: [580] closed
+Feb 24 15:03 : client: [581] opened from 127.0.0.1:44212
+Feb 24 15:03 : client: [581] closed
+Feb 24 15:03 : client: [582] opened from [::1]:60226
+Feb 24 15:03 : client: [582] closed
+Feb 24 15:03 : client: [583] opened from [::1]:60228
+Feb 24 15:03 : client: [583] closed
+Feb 24 15:03 : client: [584] opened from [::1]:60230
+Feb 24 15:03 : client: [584] closed
+Feb 24 15:03 : client: [585] opened from 127.0.0.1:44220
+Feb 24 15:03 : client: [585] closed
+Feb 24 15:03 : client: [586] opened from [::1]:60234
+Feb 24 15:03 : client: [586] closed
+Feb 24 15:03 : client: [587] opened from [::1]:60236
+Feb 24 15:03 : client: [587] closed
+Feb 24 15:03 : client: [588] opened from [::1]:60238
+Feb 24 15:03 : client: [588] closed
+Feb 24 15:03 : client: [589] opened from 127.0.0.1:44228
+Feb 24 15:03 : client: [589] closed
+Feb 24 15:03 : client: [590] opened from [::1]:60242
+Feb 24 15:03 : client: [590] closed
+Feb 24 15:03 : client: [591] opened from [::1]:60244
+Feb 24 15:03 : client: [591] closed
+Feb 24 15:03 : client: [592] opened from [::1]:60246
+Feb 24 15:03 : client: [592] closed
+Feb 24 15:04 : player: played "K-Pop/24K/투포케이-01-너 하나면 돼 (ONLY YOU).mp3"
+Feb 24 15:04 : client: [593] opened from [::1]:60322
+Feb 24 15:04 : client: [593] closed
+Feb 24 15:04 : client: [594] opened from [::1]:60324
+Feb 24 15:04 : client: [594] closed
+Feb 24 15:04 : client: [595] opened from [::1]:60326
+Feb 24 15:04 : client: [595] closed
+Feb 24 15:07 : player: played "K-Pop/Gugudan/구구단 (gugudan)-01-Chococo.mp3"
+Feb 24 15:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 15:08 : client: [596] opened from [::1]:60824
+Feb 24 15:08 : client: [596] closed
+Feb 24 15:08 : client: [597] opened from [::1]:60826
+Feb 24 15:08 : client: [597] closed
+Feb 24 15:08 : client: [598] opened from [::1]:60828
+Feb 24 15:08 : client: [598] closed
+Feb 24 15:11 : client: [599] opened from [::1]:60912
+Feb 24 15:11 : client: [599] closed
+Feb 24 15:11 : client: [600] opened from [::1]:60914
+Feb 24 15:11 : client: [600] closed
+Feb 24 15:11 : client: [601] opened from [::1]:60916
+Feb 24 15:11 : client: [601] closed
+Feb 24 15:11 : player: played "K-Pop/KARD/Hola Hola/06 - KARD - Living Good (Special thanks to.).flac"
+Feb 24 15:11 : client: [602] opened from [::1]:60918
+Feb 24 15:11 : client: [602] closed
+Feb 24 15:11 : client: [603] opened from [::1]:60920
+Feb 24 15:11 : client: [603] closed
+Feb 24 15:11 : client: [604] opened from [::1]:60922
+Feb 24 15:11 : client: [604] closed
+Feb 24 15:12 : client: [605] opened from [::1]:60926
+Feb 24 15:12 : client: [605] closed
+Feb 24 15:12 : client: [606] opened from [::1]:60928
+Feb 24 15:12 : client: [606] closed
+Feb 24 15:12 : client: [607] opened from [::1]:60930
+Feb 24 15:12 : client: [607] closed
+Feb 24 15:15 : player: played "K-Pop/KARD/Hola Hola/10 - KARD - Living Good (Inst.).flac"
+Feb 24 15:15 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 15:15 : client: [608] opened from [::1]:60938
+Feb 24 15:15 : client: [608] closed
+Feb 24 15:15 : client: [609] opened from [::1]:60940
+Feb 24 15:15 : client: [609] closed
+Feb 24 15:15 : client: [610] opened from [::1]:60942
+Feb 24 15:15 : client: [610] closed
+Feb 24 15:15 : client: [611] opened from [::1]:60944
+Feb 24 15:15 : client: [611] closed
+Feb 24 15:15 : client: [612] opened from [::1]:60946
+Feb 24 15:15 : client: [612] closed
+Feb 24 15:15 : client: [613] opened from [::1]:60948
+Feb 24 15:15 : client: [613] closed
+Feb 24 15:15 : client: [614] opened from [::1]:60950
+Feb 24 15:15 : client: [614] closed
+Feb 24 15:15 : client: [615] opened from [::1]:60952
+Feb 24 15:15 : client: [615] closed
+Feb 24 15:15 : client: [616] opened from [::1]:60954
+Feb 24 15:15 : client: [616] closed
+Feb 24 15:15 : client: [617] opened from [::1]:60956
+Feb 24 15:15 : client: [617] closed
+Feb 24 15:15 : client: [618] opened from [::1]:60958
+Feb 24 15:15 : client: [618] closed
+Feb 24 15:17 : client: [619] opened from [::1]:60964
+Feb 24 15:17 : client: [619] closed
+Feb 24 15:27 : client: [620] opened from [::1]:60986
+Feb 24 15:27 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 15:27 : client: [620] closed
+Feb 24 15:27 : client: [621] opened from [::1]:60988
+Feb 24 15:27 : client: [621] closed
+Feb 24 15:27 : client: [622] opened from [::1]:60990
+Feb 24 15:27 : client: [622] closed
+Feb 24 15:27 : client: [623] opened from [::1]:60992
+Feb 24 15:27 : client: [623] closed
+Feb 24 15:29 : player: played "K-Pop/Sik-K/Sik-K (식케이)-01-너의 밤 (Your Night) (Prod. BOYCOLD).mp3"
+Feb 24 15:29 : client: [624] opened from [::1]:32942
+Feb 24 15:29 : client: [624] closed
+Feb 24 15:29 : client: [625] opened from [::1]:32944
+Feb 24 15:29 : client: [625] closed
+Feb 24 15:29 : client: [626] opened from [::1]:32946
+Feb 24 15:29 : client: [626] closed
+Feb 24 15:32 : player: played "K-Pop/Loco/로꼬-02-Summer Go Loco (Feat. GRAY).mp3"
+Feb 24 15:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 15:32 : client: [627] opened from [::1]:32968
+Feb 24 15:32 : client: [627] closed
+Feb 24 15:32 : client: [628] opened from [::1]:32970
+Feb 24 15:32 : client: [628] closed
+Feb 24 15:32 : client: [629] opened from [::1]:32972
+Feb 24 15:32 : client: [629] closed
+Feb 24 15:35 : player: played "K-Pop/KARD/Hola Hola/08 - KARD - Don't Recall (Inst.).flac"
+Feb 24 15:35 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 15:35 : client: [630] opened from [::1]:32992
+Feb 24 15:35 : client: [630] closed
+Feb 24 15:35 : client: [631] opened from [::1]:32994
+Feb 24 15:35 : client: [631] closed
+Feb 24 15:35 : client: [632] opened from [::1]:32996
+Feb 24 15:35 : client: [632] closed
+Feb 24 15:39 : player: played "K-Pop/VAV/VAV-01-She`s Mine.mp3"
+Feb 24 15:39 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 15:39 : client: [633] opened from [::1]:33060
+Feb 24 15:39 : client: [633] closed
+Feb 24 15:39 : client: [634] opened from [::1]:33062
+Feb 24 15:39 : client: [634] closed
+Feb 24 15:39 : client: [635] opened from [::1]:33064
+Feb 24 15:39 : client: [635] closed
+Feb 24 15:43 : player: played "K-Pop/KARD/Hola Hola/01 - KARD - Oh NaNa (Hidden. 허영지).flac"
+Feb 24 15:43 : client: [636] opened from [::1]:33174
+Feb 24 15:43 : client: [636] closed
+Feb 24 15:43 : client: [637] opened from [::1]:33176
+Feb 24 15:43 : client: [637] closed
+Feb 24 15:43 : client: [638] opened from [::1]:33178
+Feb 24 15:43 : client: [638] closed
+Feb 24 15:46 : player: played "K-Pop/Dreamcatcher/Prequel (First Mini Album)/06 - Dreamcatcher - 날아올라 (Fly High) (Inst.).flac"
+Feb 24 15:46 : client: [639] opened from [::1]:33256
+Feb 24 15:46 : client: [639] closed
+Feb 24 15:46 : client: [640] opened from [::1]:33258
+Feb 24 15:46 : client: [640] closed
+Feb 24 15:46 : client: [641] opened from [::1]:33260
+Feb 24 15:46 : client: [641] closed
+Feb 24 15:46 : client: [642] opened from [::1]:33262
+Feb 24 15:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 15:46 : client: [642] closed
+Feb 24 15:46 : client: [643] opened from [::1]:33264
+Feb 24 15:46 : client: [643] closed
+Feb 24 15:46 : client: [644] opened from [::1]:33266
+Feb 24 15:46 : client: [644] closed
+Feb 24 15:46 : client: [645] opened from [::1]:33268
+Feb 24 15:46 : client: [645] closed
+Feb 24 15:46 : client: [646] opened from [::1]:33270
+Feb 24 15:46 : client: [646] closed
+Feb 24 15:47 : client: [647] opened from [::1]:33272
+Feb 24 15:47 : client: [647] closed
+Feb 24 15:47 : client: [648] opened from [::1]:33274
+Feb 24 15:47 : client: [648] closed
+Feb 24 15:47 : client: [649] opened from [::1]:33276
+Feb 24 15:47 : client: [649] closed
+Feb 24 15:47 : client: [650] opened from [::1]:33278
+Feb 24 15:47 : client: [650] closed
+Feb 24 15:47 : client: [651] opened from [::1]:33280
+Feb 24 15:47 : client: [651] closed
+Feb 24 15:47 : client: [652] opened from [::1]:33282
+Feb 24 15:47 : client: [652] closed
+Feb 24 15:47 : client: [653] opened from [::1]:33284
+Feb 24 15:47 : client: [653] closed
+Feb 24 15:50 : player: played "K-Pop/WJSN/우주소녀-02-MoMoMo (모모모).mp3"
+Feb 24 15:50 : client: [654] opened from [::1]:33406
+Feb 24 15:50 : client: [654] closed
+Feb 24 15:50 : client: [655] opened from [::1]:33408
+Feb 24 15:50 : client: [655] closed
+Feb 24 15:50 : client: [656] opened from [::1]:33410
+Feb 24 15:50 : client: [656] closed
+Feb 24 15:54 : player: played "K-Pop/Muzie/뮤지-01-신도림 (Feat. XQ, 빠나나, 제이블랙, 제이핑크).mp3"
+Feb 24 15:54 : client: [657] opened from [::1]:33426
+Feb 24 15:54 : client: [657] closed
+Feb 24 15:54 : client: [658] opened from [::1]:33428
+Feb 24 15:54 : client: [658] closed
+Feb 24 15:54 : client: [659] opened from [::1]:33430
+Feb 24 15:54 : client: [659] closed
+Feb 24 15:54 : client: [660] opened from [::1]:33432
+Feb 24 15:54 : client: [660] closed
+Feb 24 15:57 : client: [661] opened from [::1]:33446
+Feb 24 15:57 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 15:57 : client: [661] closed
+Feb 24 15:57 : client: [662] opened from [::1]:33448
+Feb 24 15:57 : client: [662] closed
+Feb 24 15:57 : client: [663] opened from [::1]:33450
+Feb 24 15:57 : client: [663] closed
+Feb 24 15:57 : client: [664] opened from [::1]:33452
+Feb 24 15:57 : client: [664] closed
+Feb 24 16:00 : player: played "K-Pop/Jay Park/박재범-01-REBORN.mp3"
+Feb 24 16:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 16:00 : client: [665] opened from [::1]:33750
+Feb 24 16:00 : client: [665] closed
+Feb 24 16:00 : client: [666] opened from [::1]:33752
+Feb 24 16:00 : client: [666] closed
+Feb 24 16:00 : client: [667] opened from [::1]:33754
+Feb 24 16:00 : client: [667] closed
+Feb 24 16:02 : client: [668] opened from [::1]:33860
+Feb 24 16:02 : client: [668] closed
+Feb 24 16:07 : client: [669] opened from [::1]:34014
+Feb 24 16:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 16:07 : client: [669] closed
+Feb 24 16:07 : client: [670] opened from [::1]:34016
+Feb 24 16:07 : client: [670] closed
+Feb 24 16:07 : client: [671] opened from [::1]:34018
+Feb 24 16:07 : client: [671] closed
+Feb 24 16:07 : client: [672] opened from [::1]:34020
+Feb 24 16:07 : client: [672] closed
+Feb 24 16:07 : client: [673] opened from [::1]:34022
+Feb 24 16:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 16:07 : client: [673] closed
+Feb 24 16:07 : client: [674] opened from [::1]:34026
+Feb 24 16:07 : client: [674] closed
+Feb 24 16:07 : client: [675] opened from [::1]:34028
+Feb 24 16:07 : client: [675] closed
+Feb 24 16:07 : client: [676] opened from [::1]:34030
+Feb 24 16:07 : client: [676] closed
+Feb 24 16:07 : client: [677] opened from [::1]:34032
+Feb 24 16:07 : client: [677] closed
+Feb 24 16:07 : client: [678] opened from [::1]:34034
+Feb 24 16:07 : client: [678] closed
+Feb 24 16:07 : client: [679] opened from [::1]:34036
+Feb 24 16:07 : client: [679] closed
+Feb 24 16:07 : client: [680] opened from [::1]:34038
+Feb 24 16:07 : client: [680] closed
+Feb 24 16:10 : player: played "K-Pop/Block B/블락비 (Block B)-02-Shall We Dance.mp3"
+Feb 24 16:10 : client: [681] opened from [::1]:34352
+Feb 24 16:10 : client: [681] closed
+Feb 24 16:10 : client: [682] opened from [::1]:34354
+Feb 24 16:10 : client: [682] closed
+Feb 24 16:10 : client: [683] opened from [::1]:34356
+Feb 24 16:10 : client: [683] closed
+Feb 24 16:14 : player: played "K-Pop/Wanna One/PRODUCE 101-01-나야 나 (PICK ME).mp3"
+Feb 24 16:14 : client: [684] opened from [::1]:34500
+Feb 24 16:14 : client: [684] closed
+Feb 24 16:14 : client: [685] opened from [::1]:34502
+Feb 24 16:14 : client: [685] closed
+Feb 24 16:14 : client: [686] opened from [::1]:34504
+Feb 24 16:14 : client: [686] closed
+Feb 24 16:17 : player: played "K-Pop/TWICE/TWICE (트와이스)-01-LIKEY.mp3"
+Feb 24 16:17 : client: [687] opened from [::1]:34800
+Feb 24 16:17 : client: [687] closed
+Feb 24 16:17 : client: [688] opened from [::1]:34802
+Feb 24 16:17 : client: [688] closed
+Feb 24 16:17 : client: [689] opened from [::1]:34804
+Feb 24 16:17 : client: [689] closed
+Feb 24 16:18 : client: [690] opened from [::1]:34808
+Feb 24 16:18 : client: [690] closed
+Feb 24 16:18 : client: [691] opened from [::1]:34810
+Feb 24 16:18 : client: [691] closed
+Feb 24 16:18 : client: [692] opened from [::1]:34812
+Feb 24 16:18 : client: [692] closed
+Feb 24 16:18 : client: [693] opened from [::1]:34814
+Feb 24 16:18 : client: [693] closed
+Feb 24 16:21 : player: played "K-Pop/Hoody/Hoody (후디)-01-한강 (HANGANG).mp3"
+Feb 24 16:21 : client: [694] opened from [::1]:34968
+Feb 24 16:21 : client: [694] closed
+Feb 24 16:21 : client: [695] opened from [::1]:34970
+Feb 24 16:21 : client: [695] closed
+Feb 24 16:21 : client: [696] opened from [::1]:34972
+Feb 24 16:21 : client: [696] closed
+Feb 24 16:24 : client: [697] opened from [::1]:35056
+Feb 24 16:24 : client: [697] closed
+Feb 24 17:09 : client: [698] opened from [::1]:37002
+Feb 24 17:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 17:09 : client: [698] closed
+Feb 24 17:09 : client: [699] opened from [::1]:37004
+Feb 24 17:09 : client: [699] closed
+Feb 24 17:09 : client: [700] opened from [::1]:37006
+Feb 24 17:09 : client: [700] closed
+Feb 24 17:09 : client: [701] opened from [::1]:37008
+Feb 24 17:09 : client: [701] closed
+Feb 24 17:10 : player: played "K-Pop/Hyuna/현아 (HyunA)-02-베베 (BABE).mp3"
+Feb 24 17:10 : client: [702] opened from [::1]:37026
+Feb 24 17:10 : client: [702] closed
+Feb 24 17:10 : client: [703] opened from [::1]:37028
+Feb 24 17:10 : client: [703] closed
+Feb 24 17:10 : client: [704] opened from [::1]:37030
+Feb 24 17:10 : client: [704] closed
+Feb 24 17:10 : client: [705] opened from [::1]:37034
+Feb 24 17:10 : client: [705] closed
+Feb 24 17:10 : client: [706] opened from [::1]:37036
+Feb 24 17:10 : client: [706] closed
+Feb 24 17:10 : client: [707] opened from [::1]:37038
+Feb 24 17:10 : client: [707] closed
+Feb 24 17:10 : client: [708] opened from [::1]:37040
+Feb 24 17:10 : client: [708] closed
+Feb 24 17:11 : client: [709] opened from [::1]:37054
+Feb 24 17:11 : client: [709] closed
+Feb 24 17:14 : player: played "K-Pop/TWICE/TWICE (트와이스)-01-SIGNAL.mp3"
+Feb 24 17:14 : client: [710] opened from [::1]:37060
+Feb 24 17:14 : client: [710] closed
+Feb 24 17:14 : client: [711] opened from [::1]:37062
+Feb 24 17:14 : client: [711] closed
+Feb 24 17:14 : client: [712] opened from [::1]:37064
+Feb 24 17:14 : client: [712] closed
+Feb 24 17:14 : client: [713] opened from [::1]:37068
+Feb 24 17:14 : client: [713] closed
+Feb 24 17:14 : client: [714] opened from [::1]:37070
+Feb 24 17:14 : client: [714] closed
+Feb 24 17:14 : client: [715] opened from [::1]:37072
+Feb 24 17:14 : client: [715] closed
+Feb 24 17:14 : client: [716] opened from [::1]:37074
+Feb 24 17:14 : client: [716] closed
+Feb 24 17:14 : client: [717] opened from [::1]:37076
+Feb 24 17:14 : client: [717] closed
+Feb 24 17:14 : client: [718] opened from [::1]:37078
+Feb 24 17:14 : client: [718] closed
+Feb 24 17:14 : client: [719] opened from [::1]:37080
+Feb 24 17:14 : client: [719] closed
+Feb 24 17:14 : client: [720] opened from [::1]:37082
+Feb 24 17:14 : client: [720] closed
+Feb 24 17:14 : client: [721] opened from [::1]:37084
+Feb 24 17:14 : client: [721] closed
+Feb 24 17:14 : client: [722] opened from [::1]:37086
+Feb 24 17:14 : client: [722] closed
+Feb 24 17:14 : client: [723] opened from [::1]:37088
+Feb 24 17:14 : client: [723] closed
+Feb 24 17:14 : client: [724] opened from [::1]:37090
+Feb 24 17:14 : client: [724] closed
+Feb 24 17:14 : client: [725] opened from [::1]:37098
+Feb 24 17:14 : client: [725] closed
+Feb 24 17:14 : client: [726] opened from [::1]:37100
+Feb 24 17:14 : client: [726] closed
+Feb 24 17:14 : client: [727] opened from [::1]:37102
+Feb 24 17:14 : client: [727] closed
+Feb 24 17:15 : client: [728] opened from [::1]:37112
+Feb 24 17:15 : client: [728] closed
+Feb 24 17:24 : client: [729] opened from [::1]:37870
+Feb 24 17:24 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 24 17:24 : client: [729] closed
+Feb 24 17:24 : client: [730] opened from [::1]:37872
+Feb 24 17:24 : client: [730] closed
+Feb 24 17:24 : client: [731] opened from [::1]:37874
+Feb 24 17:24 : client: [731] closed
+Feb 24 17:24 : client: [732] opened from [::1]:37876
+Feb 24 17:24 : client: [732] closed
+Feb 24 17:27 : player: played "K-Pop/Akdong Musician/악동뮤지션-01-DINOSAUR.mp3"
+Feb 24 17:27 : client: [733] opened from [::1]:38132
+Feb 24 17:27 : client: [733] closed
+Feb 24 17:27 : client: [734] opened from [::1]:38134
+Feb 24 17:27 : client: [734] closed
+Feb 24 17:27 : client: [735] opened from [::1]:38136
+Feb 24 17:27 : client: [735] closed
+Feb 24 17:29 : client: [736] opened from [::1]:38158
+Feb 24 17:29 : client: [736] closed
+Feb 24 17:29 : client: [265] closed
+Feb 24 17:29 : avahi: Client Disconnected, will reconnect shortly
+Feb 24 17:29 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 24 17:29 : player: played "K-Pop/Stellar/스텔라-01-세피로트의 나무.mp3"
+Feb 24 17:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 24 17:32 : avahi: Client Disconnected, will reconnect shortly
+Feb 24 17:32 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 24 17:32 : player: played "K-Pop/Stellar/스텔라-01-세피로트의 나무.mp3"
+Feb 25 10:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 10:38 : client: [0] opened from [::1]:50046
+Feb 25 10:38 : client: [1] opened from 127.0.0.1:36890
+Feb 25 10:38 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 25 11:00 : client: [2] opened from 127.0.0.1:37326
+Feb 25 11:00 : client: [2] closed
+Feb 25 11:00 : client: [3] opened from [::1]:50486
+Feb 25 11:00 : client: [3] closed
+Feb 25 11:00 : client: [4] opened from [::1]:50488
+Feb 25 11:00 : client: [4] closed
+Feb 25 11:00 : client: [5] opened from [::1]:50490
+Feb 25 11:00 : client: [5] closed
+Feb 25 11:00 : client: [6] opened from 127.0.0.1:37334
+Feb 25 11:00 : client: [6] closed
+Feb 25 11:00 : client: [7] opened from [::1]:50494
+Feb 25 11:00 : client: [7] closed
+Feb 25 11:00 : client: [8] opened from [::1]:50496
+Feb 25 11:00 : client: [8] closed
+Feb 25 11:00 : client: [9] opened from [::1]:50498
+Feb 25 11:00 : client: [9] closed
+Feb 25 11:50 : client: [10] opened from [::1]:52230
+Feb 25 11:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 11:50 : client: [10] closed
+Feb 25 11:50 : client: [11] opened from [::1]:52232
+Feb 25 11:50 : client: [11] closed
+Feb 25 11:50 : client: [12] opened from [::1]:52234
+Feb 25 11:50 : client: [12] closed
+Feb 25 11:50 : client: [13] opened from [::1]:52236
+Feb 25 11:50 : client: [13] closed
+Feb 25 11:50 : client: [14] opened from [::1]:52238
+Feb 25 11:50 : client: [14] closed
+Feb 25 11:50 : client: [15] opened from [::1]:52240
+Feb 25 11:50 : client: [15] closed
+Feb 25 11:50 : client: [16] opened from [::1]:52242
+Feb 25 11:50 : client: [16] closed
+Feb 25 11:50 : client: [17] opened from [::1]:52244
+Feb 25 11:50 : client: [17] closed
+Feb 25 11:50 : client: [18] opened from [::1]:52246
+Feb 25 11:50 : client: [18] closed
+Feb 25 11:50 : client: [19] opened from [::1]:52248
+Feb 25 11:50 : client: [19] closed
+Feb 25 11:50 : client: [20] opened from [::1]:52250
+Feb 25 11:50 : client: [20] closed
+Feb 25 11:50 : client: [21] opened from [::1]:52252
+Feb 25 11:50 : client: [21] closed
+Feb 25 11:53 : player: played "K-Pop/Loco/로꼬-02-Summer Go Loco (Feat. GRAY).mp3"
+Feb 25 11:53 : client: [22] opened from [::1]:52264
+Feb 25 11:53 : client: [22] closed
+Feb 25 11:53 : client: [23] opened from [::1]:52266
+Feb 25 11:53 : client: [23] closed
+Feb 25 11:53 : client: [24] opened from [::1]:52268
+Feb 25 11:53 : client: [24] closed
+Feb 25 11:56 : player: played "K-Pop/Lee Gi Kwang/이기광-01-What You Like.mp3"
+Feb 25 11:56 : client: [25] opened from [::1]:52332
+Feb 25 11:56 : client: [25] closed
+Feb 25 11:56 : client: [26] opened from [::1]:52334
+Feb 25 11:56 : client: [26] closed
+Feb 25 11:56 : client: [27] opened from [::1]:52336
+Feb 25 11:56 : client: [27] closed
+Feb 25 11:59 : player: played "K-Pop/Wanna One/Wanna One (워너원)-03-에너제틱 (Energetic).mp3"
+Feb 25 11:59 : client: [28] opened from [::1]:52506
+Feb 25 11:59 : client: [28] closed
+Feb 25 11:59 : client: [29] opened from [::1]:52508
+Feb 25 11:59 : client: [29] closed
+Feb 25 11:59 : client: [30] opened from [::1]:52510
+Feb 25 11:59 : client: [30] closed
+Feb 25 12:02 : player: played "K-Pop/Pristin/PRISTIN (프리스틴)-02-WE LIKE.mp3"
+Feb 25 12:02 : client: [31] opened from [::1]:52524
+Feb 25 12:02 : client: [31] closed
+Feb 25 12:02 : client: [32] opened from [::1]:52526
+Feb 25 12:02 : client: [32] closed
+Feb 25 12:02 : client: [33] opened from [::1]:52528
+Feb 25 12:02 : client: [33] closed
+Feb 25 12:06 : player: played "K-Pop/Super Junior/슈퍼주니어-01-Black Suit.mp3"
+Feb 25 12:06 : client: [34] opened from [::1]:52552
+Feb 25 12:06 : client: [34] closed
+Feb 25 12:06 : client: [35] opened from [::1]:52554
+Feb 25 12:06 : client: [35] closed
+Feb 25 12:06 : client: [36] opened from [::1]:52556
+Feb 25 12:06 : client: [36] closed
+Feb 25 12:09 : player: played "K-Pop/SONAMOO(소나무)/소나무 (SONAMOO)-02-금요일밤.mp3"
+Feb 25 12:09 : client: [37] opened from [::1]:52568
+Feb 25 12:09 : client: [37] closed
+Feb 25 12:09 : client: [38] opened from [::1]:52570
+Feb 25 12:09 : client: [38] closed
+Feb 25 12:09 : client: [39] opened from [::1]:52572
+Feb 25 12:09 : client: [39] closed
+Feb 25 12:13 : player: played "K-Pop/NCT 127/NCT 127-01-無限的我 (무한적아;Limitless).mp3"
+Feb 25 12:13 : client: [40] opened from [::1]:52596
+Feb 25 12:13 : client: [40] closed
+Feb 25 12:13 : client: [41] opened from [::1]:52598
+Feb 25 12:13 : client: [41] closed
+Feb 25 12:13 : client: [42] opened from [::1]:52600
+Feb 25 12:13 : client: [42] closed
+Feb 25 12:17 : player: played "K-Pop/PEEJAY/PEEJAY-03-나비야 X ZION.T.mp3"
+Feb 25 12:17 : client: [43] opened from [::1]:52700
+Feb 25 12:17 : client: [43] closed
+Feb 25 12:17 : client: [44] opened from [::1]:52702
+Feb 25 12:17 : client: [44] closed
+Feb 25 12:17 : client: [45] opened from [::1]:52704
+Feb 25 12:17 : client: [45] closed
+Feb 25 12:19 : client: [46] opened from [::1]:52730
+Feb 25 12:19 : client: [46] closed
+Feb 25 12:19 : client: [47] opened from [::1]:52732
+Feb 25 12:19 : client: [47] closed
+Feb 25 12:19 : client: [48] opened from [::1]:52734
+Feb 25 12:19 : client: [48] closed
+Feb 25 12:19 : client: [49] opened from [::1]:52736
+Feb 25 12:19 : client: [49] closed
+Feb 25 12:19 : client: [50] opened from [::1]:52738
+Feb 25 12:19 : client: [50] closed
+Feb 25 12:19 : client: [51] opened from [::1]:52740
+Feb 25 12:19 : client: [51] closed
+Feb 25 12:19 : client: [52] opened from [::1]:52742
+Feb 25 12:19 : client: [52] closed
+Feb 25 12:19 : client: [53] opened from [::1]:52744
+Feb 25 12:19 : client: [53] closed
+Feb 25 12:19 : client: [54] opened from [::1]:52746
+Feb 25 12:19 : client: [54] closed
+Feb 25 12:19 : client: [55] opened from [::1]:52748
+Feb 25 12:19 : client: [55] closed
+Feb 25 12:19 : client: [56] opened from [::1]:52750
+Feb 25 12:19 : client: [56] closed
+Feb 25 12:19 : client: [57] opened from [::1]:52752
+Feb 25 12:19 : client: [57] closed
+Feb 25 12:19 : client: [58] opened from [::1]:52754
+Feb 25 12:19 : client: [58] closed
+Feb 25 12:19 : client: [59] opened from [::1]:52756
+Feb 25 12:19 : client: [59] closed
+Feb 25 12:19 : client: [60] opened from [::1]:52758
+Feb 25 12:19 : client: [60] closed
+Feb 25 12:19 : client: [61] opened from [::1]:52760
+Feb 25 12:19 : client: [61] closed
+Feb 25 12:19 : client: [62] opened from [::1]:52762
+Feb 25 12:19 : client: [62] closed
+Feb 25 12:19 : client: [63] opened from [::1]:52764
+Feb 25 12:19 : client: [63] closed
+Feb 25 12:19 : client: [64] opened from [::1]:52766
+Feb 25 12:19 : client: [64] closed
+Feb 25 12:19 : client: [65] opened from [::1]:52768
+Feb 25 12:19 : client: [65] closed
+Feb 25 12:23 : player: played "YOX/03 - Stampede.mp3"
+Feb 25 12:23 : client: [66] opened from [::1]:52790
+Feb 25 12:23 : client: [66] closed
+Feb 25 12:23 : client: [67] opened from [::1]:52792
+Feb 25 12:23 : client: [67] closed
+Feb 25 12:23 : client: [68] opened from [::1]:52794
+Feb 25 12:23 : client: [68] closed
+Feb 25 12:26 : player: played "K-Pop/Gugudan/02 - 나 같은 애 (A Girl Like Me).mp3"
+Feb 25 12:26 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 12:26 : client: [69] opened from [::1]:52826
+Feb 25 12:26 : client: [69] closed
+Feb 25 12:26 : client: [70] opened from [::1]:52828
+Feb 25 12:26 : client: [70] closed
+Feb 25 12:26 : client: [71] opened from [::1]:52830
+Feb 25 12:26 : client: [71] closed
+Feb 25 12:26 : client: [72] opened from [::1]:52832
+Feb 25 12:26 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 12:26 : client: [72] closed
+Feb 25 12:26 : client: [73] opened from [::1]:52834
+Feb 25 12:26 : client: [73] closed
+Feb 25 12:26 : client: [74] opened from [::1]:52836
+Feb 25 12:26 : client: [74] closed
+Feb 25 12:26 : client: [75] opened from [::1]:52838
+Feb 25 12:26 : client: [75] closed
+Feb 25 12:26 : client: [76] opened from [::1]:52840
+Feb 25 12:26 : client: [76] closed
+Feb 25 12:26 : client: [77] opened from [::1]:52842
+Feb 25 12:26 : client: [77] closed
+Feb 25 12:26 : client: [78] opened from [::1]:52844
+Feb 25 12:26 : client: [78] closed
+Feb 25 12:26 : client: [79] opened from [::1]:52846
+Feb 25 12:26 : client: [79] closed
+Feb 25 12:26 : client: [80] opened from [::1]:52848
+Feb 25 12:26 : client: [80] closed
+Feb 25 12:26 : client: [81] opened from [::1]:52850
+Feb 25 12:26 : client: [81] closed
+Feb 25 12:26 : client: [82] opened from [::1]:52852
+Feb 25 12:26 : client: [82] closed
+Feb 25 12:26 : client: [83] opened from [::1]:52854
+Feb 25 12:26 : client: [83] closed
+Feb 25 12:27 : client: [84] opened from [::1]:52858
+Feb 25 12:27 : client: [84] closed
+Feb 25 12:27 : client: [85] opened from [::1]:52860
+Feb 25 12:27 : client: [85] closed
+Feb 25 12:27 : client: [86] opened from [::1]:52862
+Feb 25 12:27 : client: [86] closed
+Feb 25 12:27 : client: [87] opened from [::1]:52864
+Feb 25 12:27 : client: [87] closed
+Feb 25 12:27 : client: [88] opened from [::1]:52866
+Feb 25 12:27 : client: [88] closed
+Feb 25 12:27 : client: [89] opened from [::1]:52868
+Feb 25 12:27 : client: [89] closed
+Feb 25 12:27 : client: [90] opened from [::1]:52870
+Feb 25 12:27 : client: [90] closed
+Feb 25 12:27 : client: [91] opened from [::1]:52872
+Feb 25 12:27 : client: [91] closed
+Feb 25 12:27 : client: [92] opened from [::1]:52874
+Feb 25 12:27 : client: [92] closed
+Feb 25 12:28 : client: [93] opened from [::1]:52932
+Feb 25 12:28 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 12:28 : client: [93] closed
+Feb 25 12:28 : client: [94] opened from [::1]:52934
+Feb 25 12:28 : client: [94] closed
+Feb 25 12:28 : client: [95] opened from [::1]:52936
+Feb 25 12:28 : client: [95] closed
+Feb 25 12:28 : client: [96] opened from [::1]:52938
+Feb 25 12:28 : client: [96] closed
+Feb 25 12:28 : client: [97] opened from [::1]:52942
+Feb 25 12:28 : client: [97] closed
+Feb 25 12:28 : client: [98] opened from [::1]:52944
+Feb 25 12:28 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 12:28 : client: [98] closed
+Feb 25 12:28 : client: [99] opened from [::1]:52946
+Feb 25 12:28 : client: [99] closed
+Feb 25 12:28 : client: [100] opened from [::1]:52948
+Feb 25 12:28 : client: [100] closed
+Feb 25 12:28 : client: [101] opened from [::1]:52950
+Feb 25 12:28 : client: [101] closed
+Feb 25 12:28 : client: [102] opened from [::1]:52952
+Feb 25 12:28 : client: [102] closed
+Feb 25 12:28 : client: [103] opened from [::1]:52954
+Feb 25 12:28 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 12:28 : client: [103] closed
+Feb 25 12:28 : client: [104] opened from [::1]:52956
+Feb 25 12:28 : client: [104] closed
+Feb 25 12:28 : client: [105] opened from [::1]:52958
+Feb 25 12:28 : client: [105] closed
+Feb 25 12:28 : client: [106] opened from [::1]:52960
+Feb 25 12:28 : client: [106] closed
+Feb 25 12:31 : player: played "K-Pop/Up10tion/업텐션 (UP10TION)-01-미치게 해 (Going Crazy).mp3"
+Feb 25 12:31 : client: [107] opened from [::1]:52982
+Feb 25 12:31 : client: [107] closed
+Feb 25 12:31 : client: [108] opened from [::1]:52984
+Feb 25 12:31 : client: [108] closed
+Feb 25 12:31 : client: [109] opened from [::1]:52986
+Feb 25 12:31 : client: [109] closed
+Feb 25 12:35 : player: played "K-Pop/BTS/16 - Not Today.mp3"
+Feb 25 12:35 : client: [110] opened from [::1]:53116
+Feb 25 12:35 : client: [110] closed
+Feb 25 12:35 : client: [111] opened from [::1]:53118
+Feb 25 12:35 : client: [111] closed
+Feb 25 12:35 : client: [112] opened from [::1]:53120
+Feb 25 12:35 : client: [112] closed
+Feb 25 12:35 : client: [113] opened from [::1]:53122
+Feb 25 12:35 : client: [113] closed
+Feb 25 12:35 : client: [114] opened from [::1]:53124
+Feb 25 12:35 : client: [114] closed
+Feb 25 12:35 : client: [115] opened from [::1]:53126
+Feb 25 12:35 : client: [115] closed
+Feb 25 12:35 : client: [116] opened from [::1]:53128
+Feb 25 12:35 : client: [116] closed
+Feb 25 12:39 : player: played "K-Pop/Sik-K/Sik-K (식케이)-01-iffy (Prod. GroovyRoom).mp3"
+Feb 25 12:39 : client: [117] opened from [::1]:53158
+Feb 25 12:39 : client: [117] closed
+Feb 25 12:39 : client: [118] opened from [::1]:53160
+Feb 25 12:39 : client: [118] closed
+Feb 25 12:39 : client: [119] opened from [::1]:53162
+Feb 25 12:39 : client: [119] closed
+Feb 25 12:43 : player: played "K-Pop/TWICE/TWICE (트와이스)-01-KNOCK KNOCK.mp3"
+Feb 25 12:43 : client: [120] opened from [::1]:53182
+Feb 25 12:43 : client: [120] closed
+Feb 25 12:43 : client: [121] opened from [::1]:53184
+Feb 25 12:43 : client: [121] closed
+Feb 25 12:43 : client: [122] opened from [::1]:53186
+Feb 25 12:43 : client: [122] closed
+Feb 25 12:46 : player: played "K-Pop/DPR Live/DPR LIVE-03-Right Here Right Now (Feat. 로꼬 & 박재범).mp3"
+Feb 25 12:46 : client: [123] opened from [::1]:53228
+Feb 25 12:46 : client: [123] closed
+Feb 25 12:46 : client: [124] opened from [::1]:53230
+Feb 25 12:46 : client: [124] closed
+Feb 25 12:46 : client: [125] opened from [::1]:53232
+Feb 25 12:46 : client: [125] closed
+Feb 25 12:48 : client: [126] opened from 127.0.0.1:40130
+Feb 25 12:48 : client: [126] closed
+Feb 25 12:48 : client: [127] opened from [::1]:53290
+Feb 25 12:48 : client: [127] closed
+Feb 25 12:48 : client: [128] opened from [::1]:53292
+Feb 25 12:48 : client: [128] closed
+Feb 25 12:48 : client: [129] opened from [::1]:53294
+Feb 25 12:48 : client: [129] closed
+Feb 25 12:49 : client: [130] opened from [::1]:53302
+Feb 25 12:49 : client: [130] closed
+Feb 25 12:49 : client: [131] opened from [::1]:53304
+Feb 25 12:49 : client: [131] closed
+Feb 25 12:49 : client: [132] opened from [::1]:53308
+Feb 25 12:49 : client: [132] closed
+Feb 25 12:49 : client: [133] opened from [::1]:53310
+Feb 25 12:49 : client: [133] closed
+Feb 25 12:50 : player: played "K-Pop/Moon Hyuna/문현아-02-크리켓송.mp3"
+Feb 25 12:50 : client: [134] opened from [::1]:53324
+Feb 25 12:50 : client: [134] closed
+Feb 25 12:50 : client: [135] opened from [::1]:53326
+Feb 25 12:50 : client: [135] closed
+Feb 25 12:50 : client: [136] opened from [::1]:53328
+Feb 25 12:50 : client: [136] closed
+Feb 25 12:53 : player: played "K-Pop/EXO/EXO-01-Lotto.mp3"
+Feb 25 12:53 : client: [137] opened from [::1]:53362
+Feb 25 12:53 : client: [137] closed
+Feb 25 12:53 : client: [138] opened from [::1]:53364
+Feb 25 12:53 : client: [138] closed
+Feb 25 12:53 : client: [139] opened from [::1]:53366
+Feb 25 12:53 : client: [139] closed
+Feb 25 12:56 : client: [140] opened from [::1]:53448
+Feb 25 12:56 : client: [140] closed
+Feb 25 13:12 : client: [141] opened from [::1]:53850
+Feb 25 13:12 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 13:12 : client: [141] closed
+Feb 25 13:12 : client: [142] opened from [::1]:53852
+Feb 25 13:12 : client: [142] closed
+Feb 25 13:12 : client: [143] opened from [::1]:53854
+Feb 25 13:12 : client: [143] closed
+Feb 25 13:12 : client: [144] opened from [::1]:53856
+Feb 25 13:12 : client: [144] closed
+Feb 25 13:12 : player: played "K-Pop/LaBoum/라붐(LABOUM)-02-Hwi hwi.mp3"
+Feb 25 13:12 : client: [145] opened from [::1]:53858
+Feb 25 13:12 : client: [145] closed
+Feb 25 13:12 : client: [146] opened from [::1]:53860
+Feb 25 13:12 : client: [146] closed
+Feb 25 13:12 : client: [147] opened from [::1]:53862
+Feb 25 13:12 : client: [147] closed
+Feb 25 13:14 : client: [148] opened from [::1]:53884
+Feb 25 13:14 : client: [148] closed
+Feb 25 13:14 : client: [149] opened from [::1]:53886
+Feb 25 13:14 : client: [149] closed
+Feb 25 13:14 : client: [150] opened from [::1]:53888
+Feb 25 13:14 : client: [150] closed
+Feb 25 13:14 : client: [151] opened from [::1]:53890
+Feb 25 13:14 : client: [151] closed
+Feb 25 13:18 : player: played "K-Pop/Woo Won Jae/우원재-01-시차 (We Are) (Feat. 로꼬 & GRAY).mp3"
+Feb 25 13:18 : client: [152] opened from [::1]:53958
+Feb 25 13:18 : client: [152] closed
+Feb 25 13:18 : client: [153] opened from [::1]:53960
+Feb 25 13:18 : client: [153] closed
+Feb 25 13:18 : client: [154] opened from [::1]:53962
+Feb 25 13:18 : client: [154] closed
+Feb 25 13:20 : client: [155] opened from [::1]:54002
+Feb 25 13:20 : client: [155] closed
+Feb 25 13:20 : client: [156] opened from [::1]:54004
+Feb 25 13:20 : client: [156] closed
+Feb 25 13:20 : client: [157] opened from [::1]:54006
+Feb 25 13:20 : client: [157] closed
+Feb 25 13:21 : player: played "K-Pop/WJSN/우주소녀-01-너에게 닿기를 (I Wish).mp3"
+Feb 25 13:21 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 13:21 : client: [158] opened from [::1]:54014
+Feb 25 13:21 : client: [158] closed
+Feb 25 13:21 : client: [159] opened from [::1]:54016
+Feb 25 13:21 : client: [159] closed
+Feb 25 13:21 : client: [160] opened from [::1]:54018
+Feb 25 13:21 : client: [160] closed
+Feb 25 13:25 : player: played "K-Pop/KARD/Hola Hola/06 - KARD - Living Good (Special thanks to.).flac"
+Feb 25 13:25 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 13:25 : client: [161] opened from [::1]:54042
+Feb 25 13:25 : client: [161] closed
+Feb 25 13:25 : client: [162] opened from [::1]:54044
+Feb 25 13:25 : client: [162] closed
+Feb 25 13:25 : client: [163] opened from [::1]:54046
+Feb 25 13:25 : client: [163] closed
+Feb 25 13:25 : client: [164] opened from [::1]:54048
+Feb 25 13:25 : client: [164] closed
+Feb 25 13:25 : client: [165] opened from [::1]:54050
+Feb 25 13:25 : client: [165] closed
+Feb 25 13:25 : client: [166] opened from [::1]:54052
+Feb 25 13:25 : client: [166] closed
+Feb 25 13:25 : client: [167] opened from [::1]:54054
+Feb 25 13:25 : client: [167] closed
+Feb 25 13:25 : client: [168] opened from [::1]:54056
+Feb 25 13:25 : client: [168] closed
+Feb 25 13:25 : client: [169] opened from [::1]:54058
+Feb 25 13:25 : client: [169] closed
+Feb 25 13:28 : player: played "K-Pop/KNK/크나큰-01-비.mp3"
+Feb 25 13:28 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 13:28 : client: [170] opened from [::1]:54124
+Feb 25 13:28 : client: [170] closed
+Feb 25 13:28 : client: [171] opened from [::1]:54126
+Feb 25 13:28 : client: [171] closed
+Feb 25 13:28 : client: [172] opened from [::1]:54128
+Feb 25 13:28 : client: [172] closed
+Feb 25 13:29 : client: [173] opened from [::1]:54134
+Feb 25 13:29 : client: [173] closed
+Feb 25 13:29 : client: [174] opened from [::1]:54136
+Feb 25 13:29 : client: [174] closed
+Feb 25 13:32 : player: played "K-Pop/Luna/Free Somebody/01 - Luna - Free Somebody.flac"
+Feb 25 13:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 13:32 : client: [175] opened from [::1]:54148
+Feb 25 13:32 : client: [175] closed
+Feb 25 13:32 : client: [176] opened from [::1]:54150
+Feb 25 13:32 : client: [176] closed
+Feb 25 13:32 : client: [177] opened from [::1]:54152
+Feb 25 13:32 : client: [177] closed
+Feb 25 13:35 : player: played "K-Pop/CLC/CLC (씨엘씨)-02-도깨비.mp3"
+Feb 25 13:35 : client: [178] opened from [::1]:54170
+Feb 25 13:35 : client: [178] closed
+Feb 25 13:35 : client: [179] opened from [::1]:54172
+Feb 25 13:35 : client: [179] closed
+Feb 25 13:35 : client: [180] opened from [::1]:54174
+Feb 25 13:35 : client: [180] closed
+Feb 25 13:37 : client: [181] opened from [::1]:54184
+Feb 25 13:37 : client: [181] closed
+Feb 25 13:40 : client: [182] opened from [::1]:54200
+Feb 25 13:40 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 13:40 : client: [182] closed
+Feb 25 13:40 : client: [183] opened from [::1]:54202
+Feb 25 13:40 : client: [183] closed
+Feb 25 13:40 : client: [184] opened from [::1]:54204
+Feb 25 13:40 : client: [184] closed
+Feb 25 13:40 : client: [185] opened from [::1]:54206
+Feb 25 13:40 : client: [185] closed
+Feb 25 13:41 : player: played "K-Pop/BTS/방탄소년단-02-DNA.mp3"
+Feb 25 13:41 : client: [186] opened from [::1]:54212
+Feb 25 13:41 : client: [186] closed
+Feb 25 13:41 : client: [187] opened from [::1]:54214
+Feb 25 13:41 : client: [187] closed
+Feb 25 13:41 : client: [188] opened from [::1]:54216
+Feb 25 13:41 : client: [188] closed
+Feb 25 13:44 : player: played "K-Pop/Monsta X/몬스타엑스-01-DRAMARAMA.mp3"
+Feb 25 13:44 : client: [189] opened from [::1]:54290
+Feb 25 13:44 : client: [189] closed
+Feb 25 13:44 : client: [190] opened from [::1]:54292
+Feb 25 13:44 : client: [190] closed
+Feb 25 13:44 : client: [191] opened from [::1]:54294
+Feb 25 13:44 : client: [191] closed
+Feb 25 13:48 : player: played "K-Pop/Yuseol/유설-01-Ocean View.mp3"
+Feb 25 13:48 : client: [192] opened from [::1]:54354
+Feb 25 13:48 : client: [192] closed
+Feb 25 13:48 : client: [193] opened from [::1]:54356
+Feb 25 13:48 : client: [193] closed
+Feb 25 13:48 : client: [194] opened from [::1]:54358
+Feb 25 13:48 : client: [194] closed
+Feb 25 13:48 : client: [195] opened from [::1]:54370
+Feb 25 13:48 : client: [195] closed
+Feb 25 13:55 : client: [196] opened from [::1]:54646
+Feb 25 13:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 25 13:55 : client: [196] closed
+Feb 25 13:55 : client: [197] opened from [::1]:54648
+Feb 25 13:55 : client: [197] closed
+Feb 25 13:55 : client: [198] opened from [::1]:54650
+Feb 25 13:55 : client: [198] closed
+Feb 25 13:55 : client: [199] opened from [::1]:54652
+Feb 25 13:55 : client: [199] closed
+Feb 25 13:56 : client: [200] opened from [::1]:54818
+Feb 25 13:56 : client: [200] closed
+Feb 25 14:15 : client: [0] closed
+Feb 25 14:15 : client: [1] closed
+Feb 25 14:15 : avahi: Client Disconnected, will reconnect shortly
+Feb 25 14:15 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 25 14:15 : player: played "K-Pop/Taemin/태민 (TAEMIN)-01-MOVE.mp3"
+Feb 25 23:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 25 23:26 : client: [0] opened from [::1]:47580
+Feb 25 23:26 : client: [1] opened from 127.0.0.1:57648
+Feb 25 23:26 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 26 01:07 : client: [0] closed
+Feb 26 01:07 : player: played "K-Pop/Taemin/태민 (TAEMIN)-01-MOVE.mp3"
+Feb 26 11:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 11:10 : client: [0] opened from [::1]:40596
+Feb 26 11:10 : client: [1] opened from 127.0.0.1:37312
+Feb 26 11:10 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 26 14:10 : client: [2] opened from [::1]:42892
+Feb 26 14:10 : client: [2] closed
+Feb 26 14:10 : client: [3] opened from [::1]:42894
+Feb 26 14:10 : client: [3] closed
+Feb 26 14:10 : client: [4] opened from [::1]:42896
+Feb 26 14:10 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 26 14:10 : client: [4] closed
+Feb 26 14:10 : client: [5] opened from [::1]:42898
+Feb 26 14:10 : client: [5] closed
+Feb 26 14:10 : client: [6] opened from [::1]:42900
+Feb 26 14:10 : client: [6] closed
+Feb 26 14:10 : client: [7] opened from [::1]:42902
+Feb 26 14:10 : client: [7] closed
+Feb 26 14:10 : client: [8] opened from [::1]:42906
+Feb 26 14:10 : client: [8] closed
+Feb 26 14:10 : client: [9] opened from [::1]:42908
+Feb 26 14:10 : client: [9] closed
+Feb 26 14:10 : client: [10] opened from [::1]:42910
+Feb 26 14:10 : client: [10] closed
+Feb 26 14:10 : client: [11] opened from [::1]:42912
+Feb 26 14:10 : client: [11] closed
+Feb 26 14:14 : player: played "K-Pop/Sik-K/Sik-K (식케이)-01-너의 밤 (Your Night) (Prod. BOYCOLD).mp3"
+Feb 26 14:14 : client: [12] opened from [::1]:42922
+Feb 26 14:14 : client: [12] closed
+Feb 26 14:14 : client: [13] opened from [::1]:42924
+Feb 26 14:14 : client: [13] closed
+Feb 26 14:14 : client: [14] opened from [::1]:42926
+Feb 26 14:14 : client: [14] closed
+Feb 26 14:15 : player: played "K-Pop/Sik-K/Sik-K (식케이)-01-너의 밤 (Your Night) (Prod. BOYCOLD).mp3"
+Feb 26 23:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 26 23:35 : client: [0] opened from [::1]:38608
+Feb 26 23:35 : client: [1] opened from 127.0.0.1:57210
+Feb 26 23:35 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 27 00:29 : client: [0] closed
+Feb 27 00:29 : client: [1] closed
+Feb 27 00:29 : avahi: Client Disconnected, will reconnect shortly
+Feb 27 00:29 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 27 00:29 : player: played "K-Pop/Sik-K/Sik-K (식케이)-01-너의 밤 (Your Night) (Prod. BOYCOLD).mp3"
+Feb 27 17:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 27 17:04 : client: [0] opened from [::1]:44446
+Feb 27 17:04 : client: [1] opened from 127.0.0.1:46156
+Feb 27 17:04 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 27 17:09 : client: [2] opened from [::1]:45008
+Feb 27 17:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 17:09 : client: [2] closed
+Feb 27 17:09 : client: [3] opened from [::1]:45010
+Feb 27 17:09 : client: [3] closed
+Feb 27 17:09 : client: [4] opened from [::1]:45012
+Feb 27 17:09 : client: [4] closed
+Feb 27 17:09 : client: [5] opened from [::1]:45014
+Feb 27 17:09 : client: [5] closed
+Feb 27 17:11 : player: played "K-Pop/Sik-K/Sik-K (식케이)-01-너의 밤 (Your Night) (Prod. BOYCOLD).mp3"
+Feb 27 17:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 17:11 : client: [6] opened from [::1]:45048
+Feb 27 17:11 : client: [6] closed
+Feb 27 17:11 : client: [7] opened from [::1]:45050
+Feb 27 17:11 : client: [7] closed
+Feb 27 17:11 : client: [8] opened from [::1]:45052
+Feb 27 17:11 : client: [8] closed
+Feb 27 17:15 : client: [9] opened from [::1]:45180
+Feb 27 17:15 : client: [9] closed
+Feb 27 18:07 : client: [10] opened from [::1]:46242
+Feb 27 18:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 18:07 : client: [10] closed
+Feb 27 18:07 : client: [11] opened from [::1]:46244
+Feb 27 18:07 : client: [11] closed
+Feb 27 18:07 : client: [12] opened from [::1]:46246
+Feb 27 18:07 : client: [12] closed
+Feb 27 18:07 : client: [13] opened from [::1]:46248
+Feb 27 18:07 : client: [13] closed
+Feb 27 18:07 : player: played "K-Pop/KARD/Hola Hola/03 - KARD - RUMOR.flac"
+Feb 27 18:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 18:07 : client: [14] opened from [::1]:46250
+Feb 27 18:07 : client: [14] closed
+Feb 27 18:07 : client: [15] opened from [::1]:46252
+Feb 27 18:07 : client: [15] closed
+Feb 27 18:07 : client: [16] opened from [::1]:46254
+Feb 27 18:07 : client: [16] closed
+Feb 27 18:08 : client: [17] opened from [::1]:46258
+Feb 27 18:08 : client: [17] closed
+Feb 27 18:08 : client: [18] opened from [::1]:46262
+Feb 27 18:08 : client: [18] closed
+Feb 27 18:08 : client: [19] opened from [::1]:46264
+Feb 27 18:08 : client: [19] closed
+Feb 27 18:11 : player: played "K-Pop/Snuper/스누퍼-02-Back_Hug (백허그).mp3"
+Feb 27 18:11 : client: [20] opened from [::1]:46278
+Feb 27 18:11 : client: [20] closed
+Feb 27 18:11 : client: [21] opened from [::1]:46280
+Feb 27 18:11 : client: [21] closed
+Feb 27 18:11 : client: [22] opened from [::1]:46282
+Feb 27 18:11 : client: [22] closed
+Feb 27 18:14 : player: played "K-Pop/Lovelyz/러블리즈-02-WoW!.mp3"
+Feb 27 18:14 : client: [23] opened from [::1]:46306
+Feb 27 18:14 : client: [23] closed
+Feb 27 18:14 : client: [24] opened from [::1]:46308
+Feb 27 18:14 : client: [24] closed
+Feb 27 18:14 : client: [25] opened from [::1]:46310
+Feb 27 18:14 : client: [25] closed
+Feb 27 18:17 : player: played "K-Pop/Hyolyn X Kisum/효린-01-FRUITY (Prod. GroovyRoom).mp3"
+Feb 27 18:17 : client: [26] opened from [::1]:46336
+Feb 27 18:17 : client: [26] closed
+Feb 27 18:17 : client: [27] opened from [::1]:46338
+Feb 27 18:17 : client: [27] closed
+Feb 27 18:17 : client: [28] opened from [::1]:46340
+Feb 27 18:17 : client: [28] closed

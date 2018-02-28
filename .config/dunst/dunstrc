@@ -327,6 +327,6 @@
      summary = "Now Playing"
      background = "#000000"
      foreground = "#dfdfdf"
-     timeout = 10
+     timeout = 7
 
 # vim: ft=cfg
