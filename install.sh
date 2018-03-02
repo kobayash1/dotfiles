@@ -1,6 +1,7 @@
 #!/bin/sh
 
 ln -sv ~/.dotfiles/.bashrc ~
+ln -sv ~/.dotfiles/.bash_profile ~
 ln -sv ~/.dotfiles/.conkyrc ~
 ln -sv ~/.dotfiles/.vimrc ~
 ln -sv ~/.dotfiles/.xbindkeysrc ~

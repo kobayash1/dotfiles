@@ -19076,3 +19076,288 @@ Feb 27 18:17 : client: [27] opened from [::1]:46338
 Feb 27 18:17 : client: [27] closed
 Feb 27 18:17 : client: [28] opened from [::1]:46340
 Feb 27 18:17 : client: [28] closed
+Feb 27 18:20 : player: played "K-Pop/HALO/헤일로 (HALO)-01-여기여기.mp3"
+Feb 27 18:20 : client: [29] opened from [::1]:46372
+Feb 27 18:20 : client: [29] closed
+Feb 27 18:20 : client: [30] opened from [::1]:46374
+Feb 27 18:20 : client: [30] closed
+Feb 27 18:20 : client: [31] opened from [::1]:46376
+Feb 27 18:20 : client: [31] closed
+Feb 27 18:24 : player: played "K-Pop/Sanchez/산체스-01-5분만 더 (Feat. 빈지노).mp3"
+Feb 27 18:24 : client: [32] opened from [::1]:46432
+Feb 27 18:24 : client: [32] closed
+Feb 27 18:24 : client: [33] opened from [::1]:46434
+Feb 27 18:24 : client: [33] closed
+Feb 27 18:24 : client: [34] opened from [::1]:46436
+Feb 27 18:24 : client: [34] closed
+Feb 27 18:27 : player: played "K-Pop/Suzy/수지-02-Yes No Maybe.mp3"
+Feb 27 18:27 : client: [35] opened from [::1]:46456
+Feb 27 18:27 : client: [35] closed
+Feb 27 18:27 : client: [36] opened from [::1]:46458
+Feb 27 18:27 : client: [37] opened from [::1]:46460
+Feb 27 18:27 : client: [36] closed
+Feb 27 18:27 : client: [37] closed
+Feb 27 18:28 : client: [1] closed
+Feb 27 18:28 : client: [38] opened from 127.0.0.1:48174
+Feb 27 18:28 : client: [39] opened from [::1]:46472
+Feb 27 18:28 : client: [39] closed
+Feb 27 18:28 : client: [40] opened from [::1]:46474
+Feb 27 18:28 : client: [40] closed
+Feb 27 18:28 : client: [41] opened from [::1]:46476
+Feb 27 18:28 : client: [41] closed
+Feb 27 18:28 : client: [42] opened from [::1]:46478
+Feb 27 18:28 : client: [42] closed
+Feb 27 18:28 : client: [43] opened from [::1]:46480
+Feb 27 18:28 : client: [43] closed
+Feb 27 18:28 : client: [44] opened from [::1]:46482
+Feb 27 18:28 : client: [44] closed
+Feb 27 18:30 : player: played "K-Pop/gugudan OGUOGU/구구단 오구오구-01-ICE CHU.mp3"
+Feb 27 18:30 : client: [45] opened from [::1]:46492
+Feb 27 18:30 : client: [45] closed
+Feb 27 18:30 : client: [46] opened from [::1]:46494
+Feb 27 18:30 : client: [46] closed
+Feb 27 18:30 : client: [47] opened from [::1]:46496
+Feb 27 18:30 : client: [47] closed
+Feb 27 18:31 : client: [48] opened from [::1]:46498
+Feb 27 18:31 : client: [48] closed
+Feb 27 18:31 : client: [49] opened from [::1]:46500
+Feb 27 18:31 : client: [49] closed
+Feb 27 18:31 : client: [50] opened from [::1]:46502
+Feb 27 18:31 : client: [50] closed
+Feb 27 18:34 : player: played "K-Pop/Zico/지코 (ZICO)-02-Artist.mp3"
+Feb 27 18:34 : client: [51] opened from [::1]:46522
+Feb 27 18:34 : client: [51] closed
+Feb 27 18:34 : client: [52] opened from [::1]:46524
+Feb 27 18:34 : client: [52] closed
+Feb 27 18:34 : client: [53] opened from [::1]:46526
+Feb 27 18:34 : client: [53] closed
+Feb 27 18:34 : client: [54] opened from [::1]:46530
+Feb 27 18:34 : client: [54] closed
+Feb 27 18:34 : client: [55] opened from [::1]:46534
+Feb 27 18:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 18:34 : client: [55] closed
+Feb 27 18:34 : client: [56] opened from [::1]:46536
+Feb 27 18:34 : client: [56] closed
+Feb 27 18:34 : client: [57] opened from [::1]:46538
+Feb 27 18:34 : client: [57] closed
+Feb 27 18:34 : client: [58] opened from [::1]:46540
+Feb 27 18:34 : client: [58] closed
+Feb 27 18:35 : client: [59] opened from [::1]:46542
+Feb 27 18:35 : client: [59] closed
+Feb 27 18:35 : client: [60] opened from [::1]:46544
+Feb 27 18:35 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 18:35 : client: [60] closed
+Feb 27 18:35 : client: [61] opened from [::1]:46546
+Feb 27 18:35 : client: [61] closed
+Feb 27 18:35 : client: [62] opened from [::1]:46548
+Feb 27 18:35 : client: [62] closed
+Feb 27 18:35 : client: [63] opened from [::1]:46550
+Feb 27 18:35 : client: [63] closed
+Feb 27 18:35 : client: [64] opened from [::1]:46554
+Feb 27 18:35 : client: [64] closed
+Feb 27 18:37 : client: [65] opened from [::1]:46562
+Feb 27 18:37 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 18:37 : client: [65] closed
+Feb 27 18:37 : client: [66] opened from [::1]:46564
+Feb 27 18:37 : client: [66] closed
+Feb 27 18:37 : client: [67] opened from [::1]:46566
+Feb 27 18:37 : client: [67] closed
+Feb 27 18:37 : client: [68] opened from [::1]:46568
+Feb 27 18:37 : client: [68] closed
+Feb 27 18:37 : client: [69] opened from [::1]:46622
+Feb 27 18:37 : client: [69] closed
+Feb 27 18:46 : client: [70] opened from [::1]:46760
+Feb 27 18:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 18:46 : client: [70] closed
+Feb 27 18:46 : client: [71] opened from [::1]:46762
+Feb 27 18:46 : client: [71] closed
+Feb 27 18:46 : client: [72] opened from [::1]:46764
+Feb 27 18:46 : client: [72] closed
+Feb 27 18:46 : client: [73] opened from [::1]:46766
+Feb 27 18:46 : client: [73] closed
+Feb 27 18:48 : player: played "K-Pop/Zico/I Am You You Are Me.mp3"
+Feb 27 18:48 : client: [74] opened from [::1]:46794
+Feb 27 18:48 : client: [74] closed
+Feb 27 18:48 : client: [75] opened from [::1]:46796
+Feb 27 18:48 : client: [75] closed
+Feb 27 18:48 : client: [76] opened from [::1]:46798
+Feb 27 18:48 : client: [76] closed
+Feb 27 18:49 : client: [77] opened from [::1]:46800
+Feb 27 18:49 : client: [77] closed
+Feb 27 18:49 : client: [78] opened from [::1]:46802
+Feb 27 18:49 : client: [78] closed
+Feb 27 18:52 : player: played "K-Pop/HOTSHOT/핫샷 (HOTSHOT)-01-젤리 (Jelly).mp3"
+Feb 27 18:52 : client: [79] opened from [::1]:46812
+Feb 27 18:52 : client: [79] closed
+Feb 27 18:52 : client: [80] opened from [::1]:46814
+Feb 27 18:52 : client: [80] closed
+Feb 27 18:52 : client: [81] opened from [::1]:46816
+Feb 27 18:52 : client: [81] closed
+Feb 27 18:56 : player: played "K-Pop/Akdong Musician/악동뮤지션-01-DINOSAUR.mp3"
+Feb 27 18:56 : client: [82] opened from [::1]:46828
+Feb 27 18:56 : client: [82] closed
+Feb 27 18:56 : client: [83] opened from [::1]:46830
+Feb 27 18:56 : client: [83] closed
+Feb 27 18:56 : client: [84] opened from [::1]:46832
+Feb 27 18:56 : client: [84] closed
+Feb 27 18:57 : client: [85] opened from [::1]:46846
+Feb 27 18:57 : client: [85] closed
+Feb 27 23:05 : client: [86] opened from [::1]:51150
+Feb 27 23:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 23:05 : client: [86] closed
+Feb 27 23:05 : client: [87] opened from [::1]:51152
+Feb 27 23:05 : client: [87] closed
+Feb 27 23:05 : client: [88] opened from [::1]:51154
+Feb 27 23:05 : client: [88] closed
+Feb 27 23:05 : client: [89] opened from [::1]:51156
+Feb 27 23:05 : client: [89] closed
+Feb 27 23:05 : client: [90] opened from [::1]:51158
+Feb 27 23:05 : client: [90] closed
+Feb 27 23:05 : client: [91] opened from [::1]:51160
+Feb 27 23:05 : client: [91] closed
+Feb 27 23:05 : client: [92] opened from [::1]:51162
+Feb 27 23:05 : client: [92] closed
+Feb 27 23:05 : client: [93] opened from [::1]:51164
+Feb 27 23:05 : client: [93] closed
+Feb 27 23:09 : player: played "K-Pop/Heize/헤이즈 (Heize)-01-널 너무 모르고.mp3"
+Feb 27 23:09 : client: [94] opened from [::1]:51538
+Feb 27 23:09 : client: [94] closed
+Feb 27 23:09 : client: [95] opened from [::1]:51540
+Feb 27 23:09 : client: [95] closed
+Feb 27 23:09 : client: [96] opened from [::1]:51542
+Feb 27 23:09 : client: [96] closed
+Feb 27 23:09 : client: [97] opened from 127.0.0.1:53326
+Feb 27 23:09 : client: [97] closed
+Feb 27 23:09 : client: [98] opened from [::1]:51620
+Feb 27 23:09 : client: [98] closed
+Feb 27 23:09 : client: [99] opened from [::1]:51622
+Feb 27 23:09 : client: [99] closed
+Feb 27 23:09 : client: [100] opened from [::1]:51624
+Feb 27 23:09 : client: [100] closed
+Feb 27 23:12 : player: played "K-Pop/Romeo/로미오 (ROMEO)-02-니가 없는데.mp3"
+Feb 27 23:12 : client: [101] opened from [::1]:51940
+Feb 27 23:12 : client: [101] closed
+Feb 27 23:12 : client: [102] opened from [::1]:51942
+Feb 27 23:12 : client: [102] closed
+Feb 27 23:12 : client: [103] opened from [::1]:51944
+Feb 27 23:12 : client: [103] closed
+Feb 27 23:15 : player: played "K-Pop/Girls Generation/소녀시대-03-Holiday.mp3"
+Feb 27 23:15 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 23:15 : client: [104] opened from [::1]:51998
+Feb 27 23:15 : client: [104] closed
+Feb 27 23:15 : client: [105] opened from [::1]:52000
+Feb 27 23:15 : client: [105] closed
+Feb 27 23:15 : client: [106] opened from [::1]:52002
+Feb 27 23:15 : client: [106] closed
+Feb 27 23:17 : client: [107] opened from [::1]:52068
+Feb 27 23:17 : client: [107] closed
+Feb 27 23:17 : client: [108] opened from [::1]:52070
+Feb 27 23:17 : client: [108] closed
+Feb 27 23:17 : client: [109] opened from [::1]:52072
+Feb 27 23:17 : client: [109] closed
+Feb 27 23:17 : client: [110] opened from [::1]:52074
+Feb 27 23:17 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 27 23:17 : client: [110] closed
+Feb 27 23:17 : client: [111] opened from [::1]:52076
+Feb 27 23:17 : client: [111] closed
+Feb 27 23:17 : client: [112] opened from [::1]:52078
+Feb 27 23:17 : client: [112] closed
+Feb 27 23:17 : client: [113] opened from [::1]:52080
+Feb 27 23:17 : client: [113] closed
+Feb 27 23:21 : client: [114] opened from [::1]:52302
+Feb 27 23:21 : client: [114] closed
+Feb 27 23:21 : player: played "K-Pop/KARD/KARD-05-You In Me.mp3"
+Feb 28 08:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 08:05 : client: [0] opened from [::1]:36708
+Feb 28 08:05 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 28 08:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 28 08:05 : client: [0] closed
+Feb 28 08:05 : player: played "K-Pop/KARD/KARD-05-You In Me.mp3"
+Feb 28 08:05 : client: [1] opened from [::1]:36710
+Feb 28 08:05 : client: [1] closed
+Feb 28 08:05 : client: [2] opened from [::1]:36712
+Feb 28 08:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 28 08:05 : client: [2] closed
+Feb 28 08:08 : player: played "K-Pop/UZA/uza - SUITABLE.flac"
+Feb 28 08:09 : client: [3] opened from [::1]:36714
+Feb 28 08:09 : client: [4] opened from 127.0.0.1:38210
+Feb 28 08:11 : player: played "K-Pop/Girls Day/Everyday #5/01 I'll Be Yours.flac"
+Feb 28 08:11 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 28 08:11 : client: [5] opened from [::1]:36860
+Feb 28 08:11 : client: [5] closed
+Feb 28 08:11 : client: [6] opened from [::1]:36862
+Feb 28 08:11 : client: [6] closed
+Feb 28 08:11 : client: [7] opened from [::1]:36864
+Feb 28 08:11 : client: [7] closed
+Feb 28 08:13 : client: [8] opened from [::1]:37032
+Feb 28 08:13 : client: [8] closed
+Feb 28 08:13 : client: [9] opened from [::1]:37034
+Feb 28 08:13 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Feb 28 08:13 : client: [9] closed
+Feb 28 08:13 : client: [10] opened from [::1]:37036
+Feb 28 08:13 : client: [10] closed
+Feb 28 08:13 : client: [11] opened from [::1]:37038
+Feb 28 08:13 : client: [11] closed
+Feb 28 08:13 : client: [12] opened from [::1]:37040
+Feb 28 08:13 : client: [12] closed
+Feb 28 08:14 : player: played "K-Pop/Yuseol/유설-02-Ocean View (Inst.).mp3"
+Feb 28 08:14 : client: [13] opened from [::1]:37046
+Feb 28 08:14 : client: [13] closed
+Feb 28 08:14 : client: [14] opened from [::1]:37048
+Feb 28 08:14 : client: [14] closed
+Feb 28 08:14 : client: [15] opened from [::1]:37050
+Feb 28 08:14 : client: [15] closed
+Feb 28 08:18 : player: played "K-Pop/LOONA/이달의 소녀-01-Singing in the Rain (진솔).mp3"
+Feb 28 08:18 : client: [16] opened from [::1]:37062
+Feb 28 08:18 : client: [16] closed
+Feb 28 08:18 : client: [17] opened from [::1]:37064
+Feb 28 08:18 : client: [17] closed
+Feb 28 08:18 : client: [18] opened from [::1]:37066
+Feb 28 08:18 : client: [18] closed
+Feb 28 08:21 : player: played "K-Pop/CLC/CLC (씨엘씨)-01-Liar.mp3"
+Feb 28 08:45 : client: [19] opened from [::1]:37744
+Feb 28 08:45 : client: [19] closed
+Feb 28 09:09 : client: [3] closed
+Feb 28 09:09 : client: [4] closed
+Feb 28 09:09 : avahi: Client Disconnected, will reconnect shortly
+Feb 28 09:09 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 28 11:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 11:58 : client: [0] opened from [::1]:43092
+Feb 28 11:58 : client: [1] opened from 127.0.0.1:42024
+Feb 28 11:58 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Feb 28 13:28 : client: [0] closed
+Feb 28 13:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 13:32 : avahi: Client Disconnected, will reconnect shortly
+Feb 28 13:32 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Feb 28 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 28 22:28 : avahi: Client Disconnected, will reconnect shortly
+Feb 28 22:28 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 01 19:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 19:17 : client: [0] opened from [::1]:37106
+Mar 01 19:17 : client: [1] opened from 127.0.0.1:49724
+Mar 01 19:17 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 01 19:31 : avahi: Client Disconnected, will reconnect shortly
+Mar 01 19:31 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 02 12:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 12:24 : client: [0] opened from [::1]:52464
+Mar 02 12:24 : client: [1] opened from 127.0.0.1:55736
+Mar 02 12:24 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 12:33 : client: [0] closed
+Mar 02 12:33 : avahi: Client Disconnected, will reconnect shortly
+Mar 02 12:33 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 02 12:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 12:34 : avahi: Client Disconnected, will reconnect shortly
+Mar 02 12:34 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 02 12:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 12:35 : client: [0] opened from [::1]:53204
+Mar 02 12:35 : client: [1] opened from 127.0.0.1:48332
+Mar 02 12:35 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 18:55 : client: [0] closed
+Mar 02 18:55 : client: [1] closed
+Mar 02 18:55 : avahi: Client Disconnected, will reconnect shortly
+Mar 02 18:55 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 02 12:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 12:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 12:58 : client: [0] opened from [::1]:37720
+Mar 02 12:58 : client: [1] opened from 127.0.0.1:60076
+Mar 02 12:58 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
