@@ -22,7 +22,8 @@ height = 27
 offset-x = 0
 offset-y = 0
 
-background = ${colors.background}
+#background = ${colors.background}
+background = #00000000
 foreground = ${colors.foreground}
 
 line-size = 3
@@ -35,7 +36,7 @@ border-right-size = 5
 border-color = #00000000
 
 padding-left = 0
-padding-right = 1
+padding-right = 0
 
 module-margin-left = 1
 module-margin-right = 1
@@ -56,7 +57,9 @@ enable-ipc = true
 
 [module/xwindow]
 type = internal/xwindow
+label-background = ${colors.background}
 label = %title:0:30:...%
+label-padding = 1
 
 [module/xkeyboard]
 type = internal/xkeyboard
@@ -119,6 +122,7 @@ label-focused-underline = ${module/bspwm.label-focused-underline}
 label-focused-padding = ${module/bspwm.label-focused-padding}
 
 label-unfocused = %index%
+label-unfocused-background = ${colors.background}
 label-unfocused-padding = ${module/bspwm.label-occupied-padding}
 
 label-visible = %index%
@@ -158,17 +162,22 @@ format-online = %{A1:mpc prev:}%{A2:mpc toggle:}%{A3:mpc next:}<icon-prev>%{A}%{
 
 label = "%output:0:45:...%"
 label-song = %title%
+label-song-background = ${colors.background}
 label-song-padding = 1
 
 icon-prev = 
+icon-prev-background = ${colors.background}
 icon-prev-padding = 1
 
 
 [module/cpu]
 type = internal/cpu
 interval = 2
-format-prefix = " "
+label-background = ${colors.background}
+format-prefix = "  "
 label = %percentage%%
+label-padding = 1
+format-prefix-background = ${colors.background}
 
 [module/memory]
 type = internal/memory
@@ -223,6 +232,8 @@ label = %date% %time%
 [module/datecal]
 type = custom/script
 interval = 5
+format-padding = 1
+format-background = ${colors.background}
 exec = "date | awk '{ print $4 }' | rev | cut -c 4- | rev"
 format-prefix = " "
 format = %{A1:gsimplecal:}<label>%{A}
@@ -310,27 +321,37 @@ exec = "~/.config/polybar/getip.sh wlp6s0"
 
 [module/actualtemp]
 type = custom/script
+background = ${colors.background}
 format-prefix = " "
 format = <label>°C
+format-padding = 1
+format-background = ${colors.background}
 interval = 2
 exec = "cat /sys/devices/platform/coretemp.0/hwmon/hwmon?/temp1_input | rev | cut -c 4- | rev"
 
 [module/weather]
 type = custom/script
 interval = 60
+format-background = ${colors.background}
 format = <label>
 format-prefix = " "
+format-padding = 1
 exec = ~/.config/polybar/weather
 
 [module/redshift]
 type = custom/script
 interval = 10
+format-padding = 1
+format-background = ${colors.background}
 exec = ~/.config/polybar/redshift.sh
 
 [module/archupdates]
 type = custom/script
 interval = 3600
+format-background = ${colors.background}
+format-prefix-background = ${colors.background}
 format-prefix = " "
+format-padding = 1
 format = <label>
 label = %output%
 exec = sleep 2 && checkupdates | wc -l

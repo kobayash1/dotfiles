@@ -19974,3 +19974,440 @@ Mar 02 22:04 : client: [69] opened from [::1]:59220
 Mar 02 22:04 : client: [69] closed
 Mar 02 22:04 : client: [70] opened from [::1]:59222
 Mar 02 22:04 : client: [70] closed
+Mar 02 22:07 : player: played "K-Pop/ELRIS/엘리스 (ELRIS)-02-Pow Pow.mp3"
+Mar 02 22:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:07 : client: [71] opened from [::1]:59244
+Mar 02 22:07 : client: [71] closed
+Mar 02 22:07 : client: [72] opened from [::1]:59246
+Mar 02 22:07 : client: [72] closed
+Mar 02 22:07 : client: [73] opened from [::1]:59248
+Mar 02 22:07 : client: [73] closed
+Mar 02 22:07 : client: [74] opened from [::1]:59250
+Mar 02 22:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:07 : client: [74] closed
+Mar 02 22:07 : client: [75] opened from [::1]:59252
+Mar 02 22:07 : client: [75] closed
+Mar 02 22:07 : client: [76] opened from [::1]:59254
+Mar 02 22:07 : client: [76] closed
+Mar 02 22:07 : client: [77] opened from [::1]:59256
+Mar 02 22:07 : client: [77] closed
+Mar 02 22:11 : player: played "K-Pop/April/에이프릴 (APRIL)-01-손을 잡아줘.mp3"
+Mar 02 22:11 : client: [78] opened from [::1]:59534
+Mar 02 22:11 : client: [78] closed
+Mar 02 22:11 : client: [79] opened from [::1]:59536
+Mar 02 22:11 : client: [79] closed
+Mar 02 22:11 : client: [80] opened from [::1]:59538
+Mar 02 22:11 : client: [80] closed
+Mar 02 22:15 : player: played "K-Pop/PEEJAY/PEEJAY-03-나비야 X ZION.T.mp3"
+Mar 02 22:15 : client: [81] opened from [::1]:59680
+Mar 02 22:15 : client: [81] closed
+Mar 02 22:15 : client: [82] opened from [::1]:59682
+Mar 02 22:15 : client: [82] closed
+Mar 02 22:15 : client: [83] opened from [::1]:59684
+Mar 02 22:15 : client: [83] closed
+Mar 02 22:15 : client: [84] opened from [::1]:59686
+Mar 02 22:15 : client: [84] closed
+Mar 02 22:15 : client: [85] opened from [::1]:59688
+Mar 02 22:15 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:15 : client: [85] closed
+Mar 02 22:15 : client: [86] opened from [::1]:59690
+Mar 02 22:15 : client: [86] closed
+Mar 02 22:15 : client: [87] opened from [::1]:59692
+Mar 02 22:15 : client: [87] closed
+Mar 02 22:15 : client: [88] opened from [::1]:59694
+Mar 02 22:15 : client: [88] closed
+Mar 02 22:15 : client: [89] opened from 127.0.0.1:59046
+Mar 02 22:15 : client: [89] closed
+Mar 02 22:15 : client: [90] opened from [::1]:59698
+Mar 02 22:15 : client: [90] closed
+Mar 02 22:15 : client: [91] opened from [::1]:59700
+Mar 02 22:15 : client: [91] closed
+Mar 02 22:15 : client: [92] opened from [::1]:59702
+Mar 02 22:15 : client: [92] closed
+Mar 02 22:15 : client: [93] opened from 127.0.0.1:59054
+Mar 02 22:15 : client: [93] closed
+Mar 02 22:15 : client: [94] opened from [::1]:59706
+Mar 02 22:15 : client: [94] closed
+Mar 02 22:15 : client: [95] opened from [::1]:59708
+Mar 02 22:15 : client: [95] closed
+Mar 02 22:15 : client: [96] opened from [::1]:59710
+Mar 02 22:15 : client: [96] closed
+Mar 02 22:15 : client: [97] opened from 127.0.0.1:59062
+Mar 02 22:15 : client: [97] closed
+Mar 02 22:15 : client: [98] opened from [::1]:59714
+Mar 02 22:15 : client: [98] closed
+Mar 02 22:15 : client: [99] opened from [::1]:59716
+Mar 02 22:15 : client: [99] closed
+Mar 02 22:15 : client: [100] opened from [::1]:59718
+Mar 02 22:15 : client: [100] closed
+Mar 02 22:15 : client: [101] opened from 127.0.0.1:59070
+Mar 02 22:15 : client: [101] closed
+Mar 02 22:15 : client: [102] opened from [::1]:59722
+Mar 02 22:15 : client: [102] closed
+Mar 02 22:15 : client: [103] opened from [::1]:59724
+Mar 02 22:15 : client: [103] closed
+Mar 02 22:15 : client: [104] opened from [::1]:59726
+Mar 02 22:15 : client: [104] closed
+Mar 02 22:15 : client: [105] opened from 127.0.0.1:59078
+Mar 02 22:15 : client: [105] closed
+Mar 02 22:15 : client: [106] opened from [::1]:59730
+Mar 02 22:15 : client: [106] closed
+Mar 02 22:15 : client: [107] opened from [::1]:59732
+Mar 02 22:15 : client: [107] closed
+Mar 02 22:15 : client: [108] opened from [::1]:59734
+Mar 02 22:15 : client: [108] closed
+Mar 02 22:15 : client: [109] opened from 127.0.0.1:59086
+Mar 02 22:15 : client: [109] closed
+Mar 02 22:15 : client: [110] opened from [::1]:59738
+Mar 02 22:15 : client: [110] closed
+Mar 02 22:15 : client: [111] opened from [::1]:59740
+Mar 02 22:15 : client: [111] closed
+Mar 02 22:15 : client: [112] opened from [::1]:59742
+Mar 02 22:15 : client: [112] closed
+Mar 02 22:15 : client: [113] opened from 127.0.0.1:59094
+Mar 02 22:15 : client: [113] closed
+Mar 02 22:15 : client: [114] opened from [::1]:59746
+Mar 02 22:15 : client: [114] closed
+Mar 02 22:15 : client: [115] opened from [::1]:59748
+Mar 02 22:15 : client: [115] closed
+Mar 02 22:15 : client: [116] opened from [::1]:59750
+Mar 02 22:15 : client: [116] closed
+Mar 02 22:15 : client: [117] opened from 127.0.0.1:59102
+Mar 02 22:15 : client: [117] closed
+Mar 02 22:15 : client: [118] opened from [::1]:59754
+Mar 02 22:15 : client: [118] closed
+Mar 02 22:15 : client: [119] opened from [::1]:59756
+Mar 02 22:15 : client: [119] closed
+Mar 02 22:15 : client: [120] opened from [::1]:59758
+Mar 02 22:15 : client: [120] closed
+Mar 02 22:15 : client: [121] opened from 127.0.0.1:59110
+Mar 02 22:15 : client: [121] closed
+Mar 02 22:15 : client: [122] opened from [::1]:59762
+Mar 02 22:15 : client: [122] closed
+Mar 02 22:15 : client: [123] opened from [::1]:59764
+Mar 02 22:15 : client: [123] closed
+Mar 02 22:15 : client: [124] opened from [::1]:59766
+Mar 02 22:15 : client: [124] closed
+Mar 02 22:15 : client: [125] opened from 127.0.0.1:59118
+Mar 02 22:15 : client: [125] closed
+Mar 02 22:15 : client: [126] opened from [::1]:59770
+Mar 02 22:15 : client: [126] closed
+Mar 02 22:15 : client: [127] opened from [::1]:59772
+Mar 02 22:15 : client: [127] closed
+Mar 02 22:15 : client: [128] opened from [::1]:59774
+Mar 02 22:15 : client: [128] closed
+Mar 02 22:15 : client: [129] opened from 127.0.0.1:59126
+Mar 02 22:15 : client: [129] closed
+Mar 02 22:15 : client: [130] opened from [::1]:59778
+Mar 02 22:15 : client: [130] closed
+Mar 02 22:15 : client: [131] opened from [::1]:59780
+Mar 02 22:15 : client: [131] closed
+Mar 02 22:15 : client: [132] opened from [::1]:59782
+Mar 02 22:15 : client: [132] closed
+Mar 02 22:15 : client: [133] opened from 127.0.0.1:59134
+Mar 02 22:15 : client: [133] closed
+Mar 02 22:15 : client: [134] opened from [::1]:59786
+Mar 02 22:15 : client: [134] closed
+Mar 02 22:15 : client: [135] opened from [::1]:59788
+Mar 02 22:15 : client: [135] closed
+Mar 02 22:15 : client: [136] opened from [::1]:59790
+Mar 02 22:15 : client: [136] closed
+Mar 02 22:15 : client: [137] opened from 127.0.0.1:59142
+Mar 02 22:15 : client: [137] closed
+Mar 02 22:15 : client: [138] opened from [::1]:59794
+Mar 02 22:15 : client: [138] closed
+Mar 02 22:15 : client: [139] opened from [::1]:59796
+Mar 02 22:15 : client: [139] closed
+Mar 02 22:15 : client: [140] opened from [::1]:59798
+Mar 02 22:15 : client: [140] closed
+Mar 02 22:15 : client: [141] opened from 127.0.0.1:59150
+Mar 02 22:15 : client: [141] closed
+Mar 02 22:15 : client: [142] opened from [::1]:59802
+Mar 02 22:15 : client: [142] closed
+Mar 02 22:15 : client: [143] opened from [::1]:59804
+Mar 02 22:15 : client: [143] closed
+Mar 02 22:15 : client: [144] opened from [::1]:59806
+Mar 02 22:15 : client: [144] closed
+Mar 02 22:15 : client: [145] opened from 127.0.0.1:59158
+Mar 02 22:15 : client: [145] closed
+Mar 02 22:15 : client: [146] opened from [::1]:59810
+Mar 02 22:15 : client: [146] closed
+Mar 02 22:15 : client: [147] opened from [::1]:59812
+Mar 02 22:15 : client: [147] closed
+Mar 02 22:15 : client: [148] opened from [::1]:59814
+Mar 02 22:15 : client: [148] closed
+Mar 02 22:15 : client: [149] opened from 127.0.0.1:59166
+Mar 02 22:15 : client: [149] closed
+Mar 02 22:15 : client: [150] opened from [::1]:59818
+Mar 02 22:15 : client: [150] closed
+Mar 02 22:15 : client: [151] opened from [::1]:59820
+Mar 02 22:15 : client: [151] closed
+Mar 02 22:15 : client: [152] opened from [::1]:59822
+Mar 02 22:15 : client: [152] closed
+Mar 02 22:15 : client: [153] opened from 127.0.0.1:59174
+Mar 02 22:15 : client: [153] closed
+Mar 02 22:15 : client: [154] opened from [::1]:59826
+Mar 02 22:15 : client: [154] closed
+Mar 02 22:15 : client: [155] opened from [::1]:59828
+Mar 02 22:15 : client: [155] closed
+Mar 02 22:15 : client: [156] opened from [::1]:59830
+Mar 02 22:15 : client: [156] closed
+Mar 02 22:15 : client: [157] opened from 127.0.0.1:59182
+Mar 02 22:15 : client: [157] closed
+Mar 02 22:15 : client: [158] opened from [::1]:59834
+Mar 02 22:15 : client: [158] closed
+Mar 02 22:15 : client: [159] opened from [::1]:59836
+Mar 02 22:15 : client: [159] closed
+Mar 02 22:15 : client: [160] opened from [::1]:59838
+Mar 02 22:15 : client: [160] closed
+Mar 02 22:15 : client: [161] opened from 127.0.0.1:59190
+Mar 02 22:15 : client: [161] closed
+Mar 02 22:15 : client: [162] opened from [::1]:59842
+Mar 02 22:15 : client: [162] closed
+Mar 02 22:15 : client: [163] opened from [::1]:59844
+Mar 02 22:15 : client: [163] closed
+Mar 02 22:15 : client: [164] opened from [::1]:59846
+Mar 02 22:15 : client: [164] closed
+Mar 02 22:15 : client: [165] opened from 127.0.0.1:59198
+Mar 02 22:15 : client: [165] closed
+Mar 02 22:15 : client: [166] opened from [::1]:59850
+Mar 02 22:15 : client: [166] closed
+Mar 02 22:15 : client: [167] opened from [::1]:59852
+Mar 02 22:15 : client: [167] closed
+Mar 02 22:15 : client: [168] opened from [::1]:59854
+Mar 02 22:15 : client: [168] closed
+Mar 02 22:15 : client: [169] opened from 127.0.0.1:59206
+Mar 02 22:15 : client: [169] closed
+Mar 02 22:15 : client: [170] opened from [::1]:59858
+Mar 02 22:15 : client: [170] closed
+Mar 02 22:15 : client: [171] opened from [::1]:59860
+Mar 02 22:15 : client: [171] closed
+Mar 02 22:15 : client: [172] opened from [::1]:59862
+Mar 02 22:15 : client: [172] closed
+Mar 02 22:15 : client: [173] opened from 127.0.0.1:59214
+Mar 02 22:15 : client: [173] closed
+Mar 02 22:15 : client: [174] opened from [::1]:59866
+Mar 02 22:15 : client: [174] closed
+Mar 02 22:15 : client: [175] opened from [::1]:59868
+Mar 02 22:15 : client: [175] closed
+Mar 02 22:15 : client: [176] opened from [::1]:59870
+Mar 02 22:15 : client: [176] closed
+Mar 02 22:15 : client: [177] opened from 127.0.0.1:59222
+Mar 02 22:15 : client: [177] closed
+Mar 02 22:15 : client: [178] opened from [::1]:59874
+Mar 02 22:15 : client: [178] closed
+Mar 02 22:15 : client: [179] opened from [::1]:59876
+Mar 02 22:15 : client: [179] closed
+Mar 02 22:15 : client: [180] opened from [::1]:59878
+Mar 02 22:15 : client: [180] closed
+Mar 02 22:15 : client: [181] opened from 127.0.0.1:59230
+Mar 02 22:15 : client: [181] closed
+Mar 02 22:15 : client: [182] opened from [::1]:59882
+Mar 02 22:15 : client: [182] closed
+Mar 02 22:15 : client: [183] opened from [::1]:59884
+Mar 02 22:15 : client: [183] closed
+Mar 02 22:15 : client: [184] opened from [::1]:59886
+Mar 02 22:15 : client: [184] closed
+Mar 02 22:15 : client: [185] opened from 127.0.0.1:59238
+Mar 02 22:15 : client: [185] closed
+Mar 02 22:15 : client: [186] opened from [::1]:59890
+Mar 02 22:15 : client: [186] closed
+Mar 02 22:15 : client: [187] opened from [::1]:59892
+Mar 02 22:15 : client: [187] closed
+Mar 02 22:15 : client: [188] opened from [::1]:59894
+Mar 02 22:15 : client: [188] closed
+Mar 02 22:15 : client: [189] opened from 127.0.0.1:59246
+Mar 02 22:15 : client: [189] closed
+Mar 02 22:15 : client: [190] opened from [::1]:59898
+Mar 02 22:15 : client: [190] closed
+Mar 02 22:15 : client: [191] opened from [::1]:59900
+Mar 02 22:15 : client: [191] closed
+Mar 02 22:15 : client: [192] opened from [::1]:59902
+Mar 02 22:15 : client: [192] closed
+Mar 02 22:15 : client: [193] opened from 127.0.0.1:59254
+Mar 02 22:15 : client: [193] closed
+Mar 02 22:15 : client: [194] opened from [::1]:59906
+Mar 02 22:15 : client: [194] closed
+Mar 02 22:15 : client: [195] opened from [::1]:59908
+Mar 02 22:15 : client: [195] closed
+Mar 02 22:15 : client: [196] opened from [::1]:59910
+Mar 02 22:15 : client: [196] closed
+Mar 02 22:15 : client: [197] opened from 127.0.0.1:59262
+Mar 02 22:15 : client: [197] closed
+Mar 02 22:15 : client: [198] opened from [::1]:59914
+Mar 02 22:15 : client: [198] closed
+Mar 02 22:15 : client: [199] opened from [::1]:59916
+Mar 02 22:15 : client: [199] closed
+Mar 02 22:15 : client: [200] opened from [::1]:59918
+Mar 02 22:15 : client: [200] closed
+Mar 02 22:15 : client: [201] opened from 127.0.0.1:59270
+Mar 02 22:15 : client: [201] closed
+Mar 02 22:15 : client: [202] opened from [::1]:59922
+Mar 02 22:15 : client: [202] closed
+Mar 02 22:15 : client: [203] opened from [::1]:59924
+Mar 02 22:15 : client: [203] closed
+Mar 02 22:15 : client: [204] opened from [::1]:59926
+Mar 02 22:15 : client: [204] closed
+Mar 02 22:15 : client: [205] opened from 127.0.0.1:59278
+Mar 02 22:15 : client: [205] closed
+Mar 02 22:15 : client: [206] opened from [::1]:59930
+Mar 02 22:15 : client: [206] closed
+Mar 02 22:15 : client: [207] opened from [::1]:59932
+Mar 02 22:15 : client: [207] closed
+Mar 02 22:15 : client: [208] opened from [::1]:59934
+Mar 02 22:15 : client: [208] closed
+Mar 02 22:15 : client: [209] opened from [::1]:59936
+Mar 02 22:15 : client: [209] closed
+Mar 02 22:15 : client: [210] opened from [::1]:59938
+Mar 02 22:15 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:15 : client: [210] closed
+Mar 02 22:15 : client: [211] opened from [::1]:59940
+Mar 02 22:15 : client: [211] closed
+Mar 02 22:15 : client: [212] opened from [::1]:59942
+Mar 02 22:15 : client: [212] closed
+Mar 02 22:15 : client: [213] opened from [::1]:59944
+Mar 02 22:15 : client: [213] closed
+Mar 02 22:19 : player: played "K-Pop/GD x Taeyang/01 - Good Boy.mp3"
+Mar 02 22:19 : client: [214] opened from [::1]:59954
+Mar 02 22:19 : client: [214] closed
+Mar 02 22:19 : client: [215] opened from [::1]:59956
+Mar 02 22:19 : client: [215] closed
+Mar 02 22:19 : client: [216] opened from [::1]:59958
+Mar 02 22:19 : client: [216] closed
+Mar 02 22:22 : player: played "K-Pop/NRG/엔알지 (NRG)-01-20th 세기 Night (20세기 나이트).mp3"
+Mar 02 22:22 : client: [217] opened from [::1]:59966
+Mar 02 22:22 : client: [217] closed
+Mar 02 22:22 : client: [218] opened from [::1]:59968
+Mar 02 22:22 : client: [218] closed
+Mar 02 22:22 : client: [219] opened from [::1]:59970
+Mar 02 22:22 : client: [219] closed
+Mar 02 22:26 : client: [64] closed
+Mar 02 22:26 : client: [220] opened from 127.0.0.1:59330
+Mar 02 22:26 : client: [220] closed
+Mar 02 22:26 : player: played "K-Pop/Jay Park/박재범-11-DRIVE (Feat. GRAY).mp3"
+Mar 02 22:26 : client: [221] opened from [::1]:59986
+Mar 02 22:26 : client: [221] closed
+Mar 02 22:26 : client: [222] opened from [::1]:59988
+Mar 02 22:26 : client: [222] closed
+Mar 02 22:26 : client: [223] opened from [::1]:59990
+Mar 02 22:26 : client: [223] closed
+Mar 02 22:26 : client: [224] opened from 127.0.0.1:59342
+Mar 02 22:27 : client: [224] closed
+Mar 02 22:29 : client: [225] opened from 127.0.0.1:59502
+Mar 02 22:29 : client: [226] opened from 127.0.0.1:59508
+Mar 02 22:29 : client: [226] closed
+Mar 02 22:29 : client: [227] opened from [::1]:60160
+Mar 02 22:29 : client: [227] closed
+Mar 02 22:29 : client: [228] opened from [::1]:60162
+Mar 02 22:29 : client: [228] closed
+Mar 02 22:29 : client: [229] opened from [::1]:60164
+Mar 02 22:29 : client: [229] closed
+Mar 02 22:29 : client: [225] closed
+Mar 02 22:29 : player: played "K-Pop/CLC/CLC (씨엘씨)-01-어디야_.mp3"
+Mar 02 22:29 : client: [230] opened from [::1]:60166
+Mar 02 22:29 : client: [230] closed
+Mar 02 22:29 : client: [231] opened from [::1]:60168
+Mar 02 22:29 : client: [231] closed
+Mar 02 22:29 : client: [232] opened from [::1]:60170
+Mar 02 22:29 : client: [232] closed
+Mar 02 22:30 : client: [233] opened from 127.0.0.1:59522
+Mar 02 22:30 : client: [233] closed
+Mar 02 22:30 : client: [234] opened from 127.0.0.1:59528
+Mar 02 22:31 : client: [234] closed
+Mar 02 22:32 : client: [235] opened from 127.0.0.1:59534
+Mar 02 22:32 : client: [235] closed
+Mar 02 22:32 : client: [236] opened from 127.0.0.1:59540
+Mar 02 22:32 : client: [236] closed
+Mar 02 22:33 : client: [237] opened from 127.0.0.1:59546
+Mar 02 22:33 : player: played "K-Pop/EXO/01 - Lucky One.mp3"
+Mar 02 22:33 : client: [238] opened from [::1]:60200
+Mar 02 22:33 : client: [238] closed
+Mar 02 22:33 : client: [239] opened from [::1]:60202
+Mar 02 22:33 : client: [239] closed
+Mar 02 22:33 : client: [240] opened from [::1]:60204
+Mar 02 22:33 : client: [240] closed
+Mar 02 22:33 : client: [237] closed
+Mar 02 22:34 : client: [241] opened from 127.0.0.1:59560
+Mar 02 22:35 : client: [241] closed
+Mar 02 22:35 : client: [242] opened from 127.0.0.1:59566
+Mar 02 22:36 : client: [242] closed
+Mar 02 22:37 : client: [243] opened from 127.0.0.1:59572
+Mar 02 22:37 : client: [243] closed
+Mar 02 22:37 : player: played "K-Pop/Dean/01 - I'm Not Sorry (feat. Eric Bellinger).mp3"
+Mar 02 22:37 : client: [244] opened from [::1]:60228
+Mar 02 22:37 : client: [244] closed
+Mar 02 22:37 : client: [245] opened from [::1]:60230
+Mar 02 22:37 : client: [245] closed
+Mar 02 22:37 : client: [246] opened from [::1]:60232
+Mar 02 22:37 : client: [246] closed
+Mar 02 22:37 : client: [247] opened from 127.0.0.1:59584
+Mar 02 22:37 : client: [247] closed
+Mar 02 22:38 : client: [248] opened from 127.0.0.1:59590
+Mar 02 22:38 : client: [248] closed
+Mar 02 22:39 : client: [249] opened from 127.0.0.1:59596
+Mar 02 22:39 : client: [249] closed
+Mar 02 22:40 : client: [250] opened from 127.0.0.1:59602
+Mar 02 22:40 : player: played "K-Pop/Red Velvet/02 - Automatic.mp3"
+Mar 02 22:40 : client: [251] opened from [::1]:60256
+Mar 02 22:40 : client: [251] closed
+Mar 02 22:40 : client: [252] opened from [::1]:60258
+Mar 02 22:40 : client: [252] closed
+Mar 02 22:40 : client: [253] opened from [::1]:60260
+Mar 02 22:40 : client: [253] closed
+Mar 02 22:40 : client: [250] closed
+Mar 02 22:41 : client: [254] opened from 127.0.0.1:59614
+Mar 02 22:41 : client: [254] closed
+Mar 02 22:42 : client: [255] opened from 127.0.0.1:59620
+Mar 02 22:42 : client: [255] closed
+Mar 02 22:43 : client: [256] opened from 127.0.0.1:59626
+Mar 02 22:43 : client: [256] closed
+Mar 02 22:43 : client: [257] opened from 127.0.0.1:59632
+Mar 02 22:44 : client: [257] closed
+Mar 02 22:44 : player: played "K-Pop/BAP/B.A.P-02-WAKE ME UP.mp3"
+Mar 02 22:44 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:44 : client: [258] opened from [::1]:60288
+Mar 02 22:44 : client: [258] closed
+Mar 02 22:44 : client: [259] opened from [::1]:60290
+Mar 02 22:44 : client: [259] closed
+Mar 02 22:44 : client: [260] opened from [::1]:60292
+Mar 02 22:44 : client: [260] closed
+Mar 02 22:44 : client: [261] opened from 127.0.0.1:59644
+Mar 02 22:44 : client: [262] opened from [::1]:60300
+Mar 02 22:44 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:44 : client: [263] opened from [::1]:60302
+Mar 02 22:44 : client: [264] opened from [::1]:60304
+Mar 02 22:44 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:44 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:44 : client: [262] closed
+Mar 02 22:44 : client: [265] opened from [::1]:60306
+Mar 02 22:44 : client: [263] closed
+Mar 02 22:44 : client: [264] closed
+Mar 02 22:44 : client: [265] closed
+Mar 02 22:44 : client: [266] opened from [::1]:60308
+Mar 02 22:44 : client: [266] closed
+Mar 02 22:44 : client: [267] opened from [::1]:60310
+Mar 02 22:44 : client: [268] opened from [::1]:60312
+Mar 02 22:44 : client: [267] closed
+Mar 02 22:44 : client: [268] closed
+Mar 02 22:44 : client: [269] opened from [::1]:60314
+Mar 02 22:44 : client: [269] closed
+Mar 02 22:44 : client: [270] opened from [::1]:60316
+Mar 02 22:44 : client: [270] closed
+Mar 02 22:44 : client: [261] closed
+Mar 02 22:45 : client: [271] opened from [::1]:60318
+Mar 02 22:45 : client: [271] closed
+Mar 02 22:45 : client: [272] opened from [::1]:60320
+Mar 02 22:45 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:45 : client: [272] closed
+Mar 02 22:45 : client: [273] opened from [::1]:60322
+Mar 02 22:45 : client: [273] closed
+Mar 02 22:45 : client: [274] opened from [::1]:60324
+Mar 02 22:45 : client: [274] closed
+Mar 02 22:45 : client: [275] opened from [::1]:60326
+Mar 02 22:45 : client: [275] closed
+Mar 02 22:45 : client: [276] opened from 127.0.0.1:59678
+Mar 02 22:45 : client: [276] closed
+Mar 02 22:46 : client: [277] opened from 127.0.0.1:59684
+Mar 02 22:46 : client: [277] closed
+Mar 02 22:47 : client: [278] opened from 127.0.0.1:59690
+Mar 02 22:47 : client: [278] closed
