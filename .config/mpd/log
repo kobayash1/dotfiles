@@ -19382,3 +19382,595 @@ Mar 02 19:28 : client: [9] opened from 127.0.0.1:52876
 Mar 02 19:29 : client: [9] closed
 Mar 02 19:29 : client: [10] opened from [::1]:45508
 Mar 02 19:29 : client: [11] opened from 127.0.0.1:52884
+Mar 02 19:31 : client: [12] opened from [::1]:45522
+Mar 02 19:31 : client: [12] closed
+Mar 02 19:31 : client: [13] opened from [::1]:45524
+Mar 02 19:31 : client: [13] closed
+Mar 02 19:31 : client: [14] opened from [::1]:45526
+Mar 02 19:31 : client: [14] closed
+Mar 02 19:31 : client: [15] opened from [::1]:45528
+Mar 02 19:31 : client: [15] closed
+Mar 02 19:31 : client: [16] opened from [::1]:45530
+Mar 02 19:31 : client: [16] closed
+Mar 02 19:31 : client: [17] opened from [::1]:45532
+Mar 02 19:31 : client: [17] closed
+Mar 02 19:31 : client: [18] opened from [::1]:45534
+Mar 02 19:31 : client: [18] closed
+Mar 02 19:31 : client: [19] opened from [::1]:45536
+Mar 02 19:31 : client: [19] closed
+Mar 02 19:31 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 19:31 : client: [20] opened from [::1]:45538
+Mar 02 19:31 : client: [21] opened from [::1]:45540
+Mar 02 19:31 : client: [22] opened from [::1]:45542
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: [21] closed
+Mar 02 19:31 : client: [20] closed
+Mar 02 19:31 : client: [23] opened from [::1]:45548
+Mar 02 19:31 : client: [22] closed
+Mar 02 19:31 : client: [24] opened from [::1]:45550
+Mar 02 19:31 : client: [25] opened from [::1]:45552
+Mar 02 19:31 : client: [24] closed
+Mar 02 19:31 : client: [26] opened from [::1]:45554
+Mar 02 19:31 : client: [23] closed
+Mar 02 19:31 : client: [25] closed
+Mar 02 19:31 : client: [27] opened from [::1]:45556
+Mar 02 19:31 : client: [28] opened from [::1]:45558
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: [28] closed
+Mar 02 19:31 : client: [29] opened from [::1]:45566
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: [27] closed
+Mar 02 19:31 : client: [30] opened from [::1]:45570
+Mar 02 19:31 : client: [26] closed
+Mar 02 19:31 : client: [29] closed
+Mar 02 19:31 : client: [31] opened from [::1]:45572
+Mar 02 19:31 : client: [32] opened from [::1]:45574
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: [30] closed
+Mar 02 19:31 : client: [31] closed
+Mar 02 19:31 : client: [33] opened from [::1]:45578
+Mar 02 19:31 : client: [34] opened from [::1]:45580
+Mar 02 19:31 : client: [32] closed
+Mar 02 19:31 : client: [35] opened from [::1]:45582
+Mar 02 19:31 : client: [34] closed
+Mar 02 19:31 : client: [35] closed
+Mar 02 19:31 : client: [36] opened from [::1]:45584
+Mar 02 19:31 : client: [37] opened from [::1]:45586
+Mar 02 19:31 : client: [36] closed
+Mar 02 19:31 : client: [33] closed
+Mar 02 19:31 : client: [38] opened from [::1]:45588
+Mar 02 19:31 : client: [37] closed
+Mar 02 19:31 : client: [38] closed
+Mar 02 19:31 : client: [39] opened from [::1]:45590
+Mar 02 19:31 : client: [39] closed
+Mar 02 19:31 : client: [40] opened from [::1]:45592
+Mar 02 19:31 : client: [41] opened from [::1]:45594
+Mar 02 19:31 : client: [42] opened from [::1]:45596
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: [40] closed
+Mar 02 19:31 : client: [43] opened from [::1]:45602
+Mar 02 19:31 : client: [43] closed
+Mar 02 19:31 : client: [44] opened from [::1]:45604
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: [42] closed
+Mar 02 19:31 : client: [44] closed
+Mar 02 19:31 : client: [41] closed
+Mar 02 19:31 : client: [45] opened from [::1]:45612
+Mar 02 19:31 : client: [46] opened from [::1]:45614
+Mar 02 19:31 : client: [47] opened from [::1]:45616
+Mar 02 19:31 : client: Max connections reached
+Mar 02 19:31 : client: [46] closed
+Mar 02 19:31 : client: [47] closed
+Mar 02 19:31 : client: [48] opened from [::1]:45620
+Mar 02 19:31 : client: [45] closed
+Mar 02 19:31 : client: [49] opened from [::1]:45622
+Mar 02 19:31 : client: [50] opened from [::1]:45624
+Mar 02 19:31 : client: [50] closed
+Mar 02 19:31 : client: [49] closed
+Mar 02 19:31 : client: [48] closed
+Mar 02 19:32 : client: [0] closed
+Mar 02 19:32 : client: [2] closed
+Mar 02 19:32 : client: [4] closed
+Mar 02 19:32 : client: [6] closed
+Mar 02 19:32 : client: [8] closed
+Mar 02 19:32 : client: [10] closed
+Mar 02 19:32 : client: [11] closed
+Mar 02 19:32 : player: played "K-Pop/HOTSHOT/핫샷 (HOTSHOT)-02-젤리 (Jelly) (Inst.).mp3"
+Mar 02 19:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 19:32 : client: [0] opened from [::1]:37858
+Mar 02 19:32 : client: [1] opened from 127.0.0.1:54112
+Mar 02 19:32 : client: [2] opened from [::1]:37862
+Mar 02 19:32 : client: [2] closed
+Mar 02 19:32 : client: [3] opened from [::1]:37864
+Mar 02 19:32 : client: [3] closed
+Mar 02 19:32 : client: [4] opened from [::1]:37866
+Mar 02 19:32 : client: [4] closed
+Mar 02 19:32 : client: [5] opened from [::1]:37868
+Mar 02 19:32 : client: [5] closed
+Mar 02 19:32 : client: [6] opened from [::1]:37870
+Mar 02 19:32 : client: [6] closed
+Mar 02 19:32 : client: [7] opened from [::1]:37872
+Mar 02 19:32 : client: [7] closed
+Mar 02 19:32 : client: [8] opened from [::1]:37874
+Mar 02 19:32 : client: [8] closed
+Mar 02 19:32 : client: [9] opened from [::1]:37876
+Mar 02 19:32 : client: [9] closed
+Mar 02 19:32 : client: [10] opened from [::1]:37878
+Mar 02 19:32 : client: [10] closed
+Mar 02 19:32 : client: [11] opened from [::1]:37880
+Mar 02 19:32 : client: [11] closed
+Mar 02 19:32 : client: [12] opened from [::1]:37882
+Mar 02 19:32 : client: [12] closed
+Mar 02 19:32 : client: [13] opened from [::1]:37884
+Mar 02 19:32 : client: [13] closed
+Mar 02 19:33 : player: played "K-Pop/HOTSHOT/핫샷 (HOTSHOT)-02-젤리 (Jelly) (Inst.).mp3"
+Mar 02 19:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 19:33 : client: [0] opened from 127.0.0.1:54148
+Mar 02 19:33 : client: [1] opened from [::1]:37898
+Mar 02 19:33 : client: [1] closed
+Mar 02 19:33 : client: [2] opened from [::1]:37900
+Mar 02 19:33 : client: [3] opened from [::1]:37902
+Mar 02 19:33 : client: [3] closed
+Mar 02 19:34 : client: [2] closed
+Mar 02 19:34 : player: played "K-Pop/HOTSHOT/핫샷 (HOTSHOT)-02-젤리 (Jelly) (Inst.).mp3"
+Mar 02 19:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 19:34 : client: [0] opened from [::1]:45026
+Mar 02 19:34 : client: [1] opened from 127.0.0.1:51278
+Mar 02 19:34 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 19:34 : client: [2] opened from [::1]:45030
+Mar 02 19:34 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 19:34 : client: [2] closed
+Mar 02 19:34 : client: [3] opened from [::1]:45032
+Mar 02 19:34 : client: [3] closed
+Mar 02 19:34 : client: [4] opened from [::1]:45034
+Mar 02 19:34 : client: [4] closed
+Mar 02 19:34 : client: [5] opened from [::1]:45036
+Mar 02 19:34 : client: [5] closed
+Mar 02 19:36 : player: played "K-Pop/HOTSHOT/핫샷 (HOTSHOT)-02-젤리 (Jelly) (Inst.).mp3"
+Mar 02 19:36 : client: [6] opened from [::1]:45126
+Mar 02 19:36 : client: [6] closed
+Mar 02 19:36 : client: [7] opened from [::1]:45128
+Mar 02 19:36 : client: [7] closed
+Mar 02 19:36 : client: [8] opened from [::1]:45130
+Mar 02 19:36 : client: [8] closed
+Mar 02 19:38 : client: [0] closed
+Mar 02 19:38 : player: played "K-Pop/Vixx/02 - 저주인형 (Voodoo doll).mp3"
+Mar 02 19:39 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 19:39 : client: [0] opened from [::1]:37800
+Mar 02 19:39 : client: [1] opened from 127.0.0.1:45080
+Mar 02 19:39 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 19:40 : client: [0] closed
+Mar 02 19:40 : player: played "K-Pop/Vixx/02 - 저주인형 (Voodoo doll).mp3"
+Mar 02 19:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 19:51 : client: [0] opened from [::1]:39204
+Mar 02 19:51 : client: [1] opened from 127.0.0.1:57108
+Mar 02 19:51 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 19:52 : avahi: Client Disconnected, will reconnect shortly
+Mar 02 19:52 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 02 19:52 : player: played "K-Pop/Vixx/02 - 저주인형 (Voodoo doll).mp3"
+Mar 02 19:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 19:57 : client: [0] opened from [::1]:46090
+Mar 02 19:57 : client: [1] opened from 127.0.0.1:47762
+Mar 02 19:57 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 19:57 : client: [0] closed
+Mar 02 19:57 : avahi: Client Disconnected, will reconnect shortly
+Mar 02 19:57 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 02 19:57 : player: played "K-Pop/Vixx/02 - 저주인형 (Voodoo doll).mp3"
+Mar 02 21:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 21:06 : client: [0] opened from [::1]:50748
+Mar 02 21:06 : client: [1] opened from 127.0.0.1:44168
+Mar 02 21:06 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 21:10 : client: [1] closed
+Mar 02 21:10 : client: [2] opened from [::1]:51126
+Mar 02 21:10 : client: [3] opened from 127.0.0.1:44546
+Mar 02 21:14 : client: [4] opened from [::1]:51448
+Mar 02 21:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 21:14 : client: [4] closed
+Mar 02 21:14 : client: [5] opened from [::1]:51452
+Mar 02 21:14 : client: [6] opened from [::1]:51450
+Mar 02 21:14 : client: [5] closed
+Mar 02 21:14 : client: [6] closed
+Mar 02 21:14 : client: [7] opened from [::1]:51454
+Mar 02 21:14 : client: [8] opened from [::1]:51456
+Mar 02 21:14 : client: [7] closed
+Mar 02 21:14 : client: [8] closed
+Mar 02 21:14 : client: [9] opened from [::1]:51458
+Mar 02 21:14 : client: [10] opened from [::1]:51460
+Mar 02 21:14 : client: [9] closed
+Mar 02 21:14 : client: [10] closed
+Mar 02 21:15 : client: [11] opened from 127.0.0.1:44880
+Mar 02 21:15 : client: [11] closed
+Mar 02 21:15 : client: [12] opened from [::1]:51464
+Mar 02 21:15 : client: [12] closed
+Mar 02 21:15 : client: [13] opened from [::1]:51466
+Mar 02 21:15 : client: [13] closed
+Mar 02 21:15 : client: [14] opened from [::1]:51468
+Mar 02 21:15 : client: [14] closed
+Mar 02 21:15 : client: [3] closed
+Mar 02 21:15 : client: [15] opened from 127.0.0.1:44890
+Mar 02 21:16 : client: [15] closed
+Mar 02 21:16 : client: [16] opened from [::1]:51478
+Mar 02 21:16 : client: [16] closed
+Mar 02 21:16 : client: [0] closed
+Mar 02 21:16 : client: [2] closed
+Mar 02 21:16 : player: played "K-Pop/Vixx/02 - 저주인형 (Voodoo doll).mp3"
+Mar 02 21:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 21:16 : client: [0] opened from [::1]:47542
+Mar 02 21:16 : client: [1] opened from 127.0.0.1:33932
+Mar 02 21:16 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 21:17 : client: [2] opened from [::1]:47546
+Mar 02 21:17 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 21:17 : client: [2] closed
+Mar 02 21:17 : client: [3] opened from [::1]:47548
+Mar 02 21:17 : client: [3] closed
+Mar 02 21:17 : client: [4] opened from [::1]:47550
+Mar 02 21:17 : client: [4] closed
+Mar 02 21:17 : client: [5] opened from [::1]:47552
+Mar 02 21:17 : client: [5] closed
+Mar 02 21:17 : player: played "K-Pop/Vixx/02 - 저주인형 (Voodoo doll).mp3"
+Mar 02 21:17 : client: [6] opened from [::1]:47554
+Mar 02 21:17 : client: [6] closed
+Mar 02 21:17 : client: [7] opened from [::1]:47556
+Mar 02 21:17 : client: [7] closed
+Mar 02 21:17 : client: [8] opened from [::1]:47558
+Mar 02 21:17 : client: [8] closed
+Mar 02 21:18 : client: [1] closed
+Mar 02 21:18 : client: [9] opened from [::1]:47562
+Mar 02 21:18 : client: [10] opened from 127.0.0.1:33952
+Mar 02 21:18 : client: [10] closed
+Mar 02 21:19 : client: [11] opened from [::1]:47570
+Mar 02 21:19 : client: [12] opened from 127.0.0.1:33960
+Mar 02 21:20 : player: played "K-Pop/Gugudan/02 - 나 같은 애 (A Girl Like Me).mp3"
+Mar 02 21:20 : client: [13] opened from [::1]:47578
+Mar 02 21:20 : client: [14] opened from [::1]:47580
+Mar 02 21:20 : client: [15] opened from [::1]:47582
+Mar 02 21:20 : client: [13] closed
+Mar 02 21:20 : client: [14] closed
+Mar 02 21:20 : client: [16] opened from [::1]:47584
+Mar 02 21:20 : client: [17] opened from [::1]:47586
+Mar 02 21:20 : client: [15] closed
+Mar 02 21:20 : client: [18] opened from [::1]:47588
+Mar 02 21:20 : client: [16] closed
+Mar 02 21:20 : client: [17] closed
+Mar 02 21:20 : client: [19] opened from [::1]:47590
+Mar 02 21:20 : client: [20] opened from [::1]:47592
+Mar 02 21:20 : client: [18] closed
+Mar 02 21:20 : client: [21] opened from [::1]:47594
+Mar 02 21:20 : client: [19] closed
+Mar 02 21:20 : client: [20] closed
+Mar 02 21:20 : client: [21] closed
+Mar 02 21:20 : client: [22] opened from [::1]:47596
+Mar 02 21:20 : client: [22] closed
+Mar 02 21:20 : client: [23] opened from [::1]:47600
+Mar 02 21:20 : client: [24] opened from [::1]:47598
+Mar 02 21:20 : client: [25] opened from [::1]:47604
+Mar 02 21:20 : client: [23] closed
+Mar 02 21:20 : client: [25] closed
+Mar 02 21:20 : client: [24] closed
+Mar 02 21:20 : client: [26] opened from [::1]:47606
+Mar 02 21:20 : client: [27] opened from [::1]:47608
+Mar 02 21:20 : client: [28] opened from [::1]:47610
+Mar 02 21:20 : client: [26] closed
+Mar 02 21:20 : client: [27] closed
+Mar 02 21:20 : client: [29] opened from [::1]:47612
+Mar 02 21:20 : client: [30] opened from [::1]:47614
+Mar 02 21:20 : client: [28] closed
+Mar 02 21:20 : client: [31] opened from [::1]:47616
+Mar 02 21:20 : client: [29] closed
+Mar 02 21:20 : client: [30] closed
+Mar 02 21:20 : client: [31] closed
+Mar 02 21:23 : player: played "K-Pop/Red Velvet/The Red/05 - Oh Boy.mp3"
+Mar 02 21:23 : client: [32] opened from [::1]:47664
+Mar 02 21:23 : client: [33] opened from [::1]:47666
+Mar 02 21:23 : client: [34] opened from [::1]:47670
+Mar 02 21:23 : client: [32] closed
+Mar 02 21:23 : client: [33] closed
+Mar 02 21:23 : client: [34] closed
+Mar 02 21:23 : client: [35] opened from [::1]:47672
+Mar 02 21:23 : client: [36] opened from [::1]:47674
+Mar 02 21:23 : client: [37] opened from [::1]:47676
+Mar 02 21:23 : client: [36] closed
+Mar 02 21:23 : client: [35] closed
+Mar 02 21:23 : client: [37] closed
+Mar 02 21:23 : client: [38] opened from [::1]:47678
+Mar 02 21:23 : client: [39] opened from [::1]:47680
+Mar 02 21:23 : client: [40] opened from [::1]:47682
+Mar 02 21:23 : client: [39] closed
+Mar 02 21:23 : client: [38] closed
+Mar 02 21:23 : client: [40] closed
+Mar 02 21:26 : player: played "K-Pop/Glabingo/GLABINGO (글라빙고)-01-BONNY.mp3"
+Mar 02 21:26 : client: [41] opened from [::1]:47912
+Mar 02 21:26 : client: [42] opened from [::1]:47914
+Mar 02 21:26 : client: [43] opened from [::1]:47916
+Mar 02 21:26 : client: [41] closed
+Mar 02 21:26 : client: [42] closed
+Mar 02 21:26 : client: [43] closed
+Mar 02 21:26 : client: [44] opened from [::1]:47918
+Mar 02 21:26 : client: [45] opened from [::1]:47920
+Mar 02 21:26 : client: [46] opened from [::1]:47922
+Mar 02 21:26 : client: [44] closed
+Mar 02 21:26 : client: [45] closed
+Mar 02 21:26 : client: [46] closed
+Mar 02 21:26 : client: [47] opened from [::1]:47926
+Mar 02 21:26 : client: [48] opened from [::1]:47924
+Mar 02 21:26 : client: [49] opened from [::1]:47928
+Mar 02 21:26 : client: [47] closed
+Mar 02 21:26 : client: [48] closed
+Mar 02 21:26 : client: [49] closed
+Mar 02 21:30 : player: played "K-Pop/WJSN/우주소녀-02-MoMoMo (모모모).mp3"
+Mar 02 21:30 : client: [50] opened from [::1]:48100
+Mar 02 21:30 : client: [51] opened from [::1]:48098
+Mar 02 21:30 : client: [52] opened from [::1]:48104
+Mar 02 21:30 : client: [50] closed
+Mar 02 21:30 : client: [51] closed
+Mar 02 21:30 : client: [52] closed
+Mar 02 21:30 : client: [53] opened from [::1]:48106
+Mar 02 21:30 : client: [54] opened from [::1]:48108
+Mar 02 21:30 : client: [55] opened from [::1]:48110
+Mar 02 21:30 : client: [53] closed
+Mar 02 21:30 : client: [54] closed
+Mar 02 21:30 : client: [55] closed
+Mar 02 21:30 : client: [56] opened from [::1]:48112
+Mar 02 21:30 : client: [57] opened from [::1]:48114
+Mar 02 21:30 : client: [58] opened from [::1]:48116
+Mar 02 21:30 : client: [56] closed
+Mar 02 21:30 : client: [57] closed
+Mar 02 21:30 : client: [58] closed
+Mar 02 21:33 : client: [12] closed
+Mar 02 21:33 : client: [59] opened from 127.0.0.1:34534
+Mar 02 21:33 : client: [59] closed
+Mar 02 21:33 : player: played "K-Pop/GOT7/GOT7 (갓세븐)-01-Fly.mp3"
+Mar 02 21:33 : client: [60] opened from [::1]:48152
+Mar 02 21:33 : client: [61] opened from [::1]:48154
+Mar 02 21:33 : client: [62] opened from [::1]:48158
+Mar 02 21:33 : client: [60] closed
+Mar 02 21:33 : client: [61] closed
+Mar 02 21:33 : client: [62] closed
+Mar 02 21:33 : client: [63] opened from [::1]:48160
+Mar 02 21:33 : client: [64] opened from [::1]:48162
+Mar 02 21:33 : client: [65] opened from [::1]:48164
+Mar 02 21:33 : client: [63] closed
+Mar 02 21:33 : client: [64] closed
+Mar 02 21:33 : client: [65] closed
+Mar 02 21:33 : client: [66] opened from [::1]:48166
+Mar 02 21:33 : client: [67] opened from [::1]:48168
+Mar 02 21:33 : client: [68] opened from [::1]:48170
+Mar 02 21:33 : client: [66] closed
+Mar 02 21:33 : client: [67] closed
+Mar 02 21:33 : client: [68] closed
+Mar 02 21:34 : client: [69] opened from 127.0.0.1:34560
+Mar 02 21:34 : client: [69] closed
+Mar 02 21:35 : client: [70] opened from [::1]:48178
+Mar 02 21:35 : client: [71] opened from 127.0.0.1:34568
+Mar 02 21:36 : player: played "K-Pop/Block B/02 - HER.mp3"
+Mar 02 21:36 : client: [72] opened from [::1]:48234
+Mar 02 21:36 : client: [73] opened from [::1]:48232
+Mar 02 21:36 : client: [74] opened from [::1]:48238
+Mar 02 21:36 : client: [75] opened from [::1]:48240
+Mar 02 21:36 : client: [72] closed
+Mar 02 21:36 : client: [73] closed
+Mar 02 21:36 : client: [74] closed
+Mar 02 21:36 : client: [75] closed
+Mar 02 21:36 : client: [76] opened from [::1]:48242
+Mar 02 21:36 : client: [77] opened from [::1]:48244
+Mar 02 21:36 : client: [78] opened from [::1]:48246
+Mar 02 21:36 : client: [79] opened from [::1]:48248
+Mar 02 21:36 : client: [76] closed
+Mar 02 21:36 : client: [78] closed
+Mar 02 21:36 : client: [79] closed
+Mar 02 21:36 : client: [77] closed
+Mar 02 21:36 : client: [80] opened from [::1]:48250
+Mar 02 21:36 : client: [81] opened from [::1]:48252
+Mar 02 21:36 : client: [82] opened from [::1]:48254
+Mar 02 21:36 : client: [83] opened from [::1]:48256
+Mar 02 21:36 : client: [80] closed
+Mar 02 21:36 : client: [81] closed
+Mar 02 21:36 : client: [82] closed
+Mar 02 21:36 : client: [83] closed
+Mar 02 21:37 : client: [9] closed
+Mar 02 21:37 : client: [11] closed
+Mar 02 21:37 : client: [70] closed
+Mar 02 21:40 : client: [71] closed
+Mar 02 21:40 : player: played "K-Pop/Penomeco/PENOMECO-01-HUNNIT.mp3"
+Mar 02 21:40 : client: [84] opened from [::1]:48408
+Mar 02 21:40 : client: [84] closed
+Mar 02 21:40 : client: [85] opened from [::1]:48410
+Mar 02 21:40 : client: [85] closed
+Mar 02 21:40 : client: [86] opened from [::1]:48412
+Mar 02 21:40 : client: [86] closed
+Mar 02 21:40 : client: [87] opened from 127.0.0.1:34802
+Mar 02 21:40 : client: [87] closed
+Mar 02 21:41 : client: [88] opened from 127.0.0.1:34810
+Mar 02 21:42 : client: [89] opened from [::1]:48428
+Mar 02 21:42 : client: [89] closed
+Mar 02 21:42 : client: [90] opened from [::1]:48430
+Mar 02 21:42 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 21:42 : client: [90] closed
+Mar 02 21:42 : client: [91] opened from [::1]:48432
+Mar 02 21:42 : client: [91] closed
+Mar 02 21:42 : client: [92] opened from [::1]:48434
+Mar 02 21:42 : client: [92] closed
+Mar 02 21:42 : client: [93] opened from [::1]:48436
+Mar 02 21:42 : client: [93] closed
+Mar 02 21:42 : client: [88] closed
+Mar 02 21:43 : client: [94] opened from [::1]:48440
+Mar 02 21:43 : client: [94] closed
+Mar 02 21:43 : client: [95] opened from [::1]:48442
+Mar 02 21:43 : client: [95] closed
+Mar 02 21:43 : client: [96] opened from [::1]:48444
+Mar 02 21:43 : client: [96] closed
+Mar 02 21:43 : player: played "K-Pop/WINNER/WINNER-02-센치해.mp3"
+Mar 02 21:43 : client: [97] opened from [::1]:48446
+Mar 02 21:43 : client: [97] closed
+Mar 02 21:43 : client: [98] opened from [::1]:48448
+Mar 02 21:43 : client: [98] closed
+Mar 02 21:43 : client: [99] opened from [::1]:48450
+Mar 02 21:43 : client: [99] closed
+Mar 02 21:44 : client: [0] closed
+Mar 02 21:44 : player: played "K-Pop/BTS/05 - Dope.mp3"
+Mar 02 21:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 21:44 : client: [0] opened from [::1]:58564
+Mar 02 21:44 : client: [1] opened from 127.0.0.1:57916
+Mar 02 21:44 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 21:44 : client: [2] opened from [::1]:58568
+Mar 02 21:44 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 21:44 : client: [2] closed
+Mar 02 21:44 : client: [3] opened from [::1]:58570
+Mar 02 21:44 : client: [3] closed
+Mar 02 21:44 : client: [4] opened from [::1]:58572
+Mar 02 21:44 : client: [4] closed
+Mar 02 21:44 : client: [5] opened from [::1]:58574
+Mar 02 21:44 : client: [5] closed
+Mar 02 21:44 : client: [6] opened from [::1]:58588
+Mar 02 21:44 : client: [6] closed
+Mar 02 21:44 : client: [7] opened from [::1]:58590
+Mar 02 21:44 : client: [7] closed
+Mar 02 21:44 : client: [8] opened from [::1]:58592
+Mar 02 21:44 : client: [8] closed
+Mar 02 21:44 : client: [9] opened from [::1]:58598
+Mar 02 21:44 : client: [9] closed
+Mar 02 21:44 : client: [10] opened from [::1]:58600
+Mar 02 21:44 : client: [10] closed
+Mar 02 21:44 : client: [11] opened from [::1]:58602
+Mar 02 21:44 : client: [11] closed
+Mar 02 21:44 : client: [12] opened from [::1]:58604
+Mar 02 21:44 : client: [12] closed
+Mar 02 21:44 : client: [13] opened from [::1]:58606
+Mar 02 21:44 : client: [13] closed
+Mar 02 21:44 : client: [14] opened from [::1]:58608
+Mar 02 21:44 : client: [14] closed
+Mar 02 21:48 : player: played "K-Pop/BTS/05 - Dope.mp3"
+Mar 02 21:48 : client: [15] opened from [::1]:58642
+Mar 02 21:48 : client: [15] closed
+Mar 02 21:48 : client: [16] opened from [::1]:58644
+Mar 02 21:48 : client: [16] closed
+Mar 02 21:48 : client: [17] opened from [::1]:58646
+Mar 02 21:48 : client: [17] closed
+Mar 02 21:51 : player: played "K-Pop/Yezi/03 - Sse Sse Sse (feat.Gilme & KittiB & An Su Min).mp3"
+Mar 02 21:51 : client: [18] opened from [::1]:58802
+Mar 02 21:51 : client: [18] closed
+Mar 02 21:51 : client: [19] opened from [::1]:58804
+Mar 02 21:51 : client: [19] closed
+Mar 02 21:51 : client: [20] opened from [::1]:58806
+Mar 02 21:51 : client: [20] closed
+Mar 02 21:53 : client: [1] closed
+Mar 02 21:53 : client: [21] opened from [::1]:58834
+Mar 02 21:53 : client: [22] opened from 127.0.0.1:58186
+Mar 02 21:54 : client: [22] closed
+Mar 02 21:54 : client: [23] opened from [::1]:58858
+Mar 02 21:54 : client: [24] opened from 127.0.0.1:58210
+Mar 02 21:54 : player: played "K-Pop/Girls Day/03 - EXPECT(기대해).mp3"
+Mar 02 21:54 : client: [25] opened from [::1]:58882
+Mar 02 21:54 : client: [26] opened from [::1]:58884
+Mar 02 21:54 : client: [25] closed
+Mar 02 21:54 : client: [26] closed
+Mar 02 21:54 : client: [27] opened from [::1]:58886
+Mar 02 21:54 : client: [28] opened from [::1]:58888
+Mar 02 21:54 : client: [29] opened from [::1]:58890
+Mar 02 21:54 : client: [28] closed
+Mar 02 21:54 : client: [27] closed
+Mar 02 21:54 : client: [29] closed
+Mar 02 21:54 : client: [30] opened from [::1]:58892
+Mar 02 21:54 : client: [31] opened from [::1]:58894
+Mar 02 21:54 : client: [32] opened from [::1]:58896
+Mar 02 21:54 : client: [30] closed
+Mar 02 21:54 : client: [31] closed
+Mar 02 21:54 : client: [32] closed
+Mar 02 21:54 : client: [33] opened from [::1]:58898
+Mar 02 21:54 : client: [33] closed
+Mar 02 21:55 : client: [24] closed
+Mar 02 21:55 : client: [34] opened from [::1]:58900
+Mar 02 21:55 : client: [35] opened from 127.0.0.1:58252
+Mar 02 21:56 : client: [35] closed
+Mar 02 21:56 : client: [36] opened from [::1]:58920
+Mar 02 21:56 : client: [37] opened from 127.0.0.1:58272
+Mar 02 21:57 : player: played "K-Pop/Lovelyz/러블리즈-02-WoW!.mp3"
+Mar 02 21:57 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 21:57 : client: [38] opened from [::1]:59078
+Mar 02 21:57 : client: [39] opened from [::1]:59080
+Mar 02 21:57 : client: [40] opened from [::1]:59082
+Mar 02 21:57 : client: [41] opened from [::1]:59084
+Mar 02 21:57 : client: [40] closed
+Mar 02 21:57 : client: [39] closed
+Mar 02 21:57 : client: [42] opened from [::1]:59086
+Mar 02 21:57 : client: [43] opened from [::1]:59088
+Mar 02 21:57 : client: [38] closed
+Mar 02 21:57 : client: [44] opened from [::1]:59090
+Mar 02 21:57 : client: Max connections reached
+Mar 02 21:57 : client: [41] closed
+Mar 02 21:57 : client: [42] closed
+Mar 02 21:57 : client: [45] opened from [::1]:59094
+Mar 02 21:57 : client: [46] opened from [::1]:59096
+Mar 02 21:57 : client: [43] closed
+Mar 02 21:57 : client: [45] closed
+Mar 02 21:57 : client: [44] closed
+Mar 02 21:57 : client: [47] opened from [::1]:59098
+Mar 02 21:57 : client: [46] closed
+Mar 02 21:57 : client: [48] opened from [::1]:59100
+Mar 02 21:57 : client: [49] opened from [::1]:59102
+Mar 02 21:57 : client: [50] opened from [::1]:59104
+Mar 02 21:57 : client: Max connections reached
+Mar 02 21:57 : client: [48] closed
+Mar 02 21:57 : client: [49] closed
+Mar 02 21:57 : client: [47] closed
+Mar 02 21:57 : client: [50] closed
+Mar 02 21:58 : client: [37] closed
+Mar 02 21:58 : client: [51] opened from [::1]:59110
+Mar 02 21:58 : client: [52] opened from 127.0.0.1:58462
+Mar 02 21:59 : client: [52] closed
+Mar 02 21:59 : client: [53] opened from [::1]:59132
+Mar 02 21:59 : client: [54] opened from 127.0.0.1:58484
+Mar 02 22:00 : client: [54] closed
+Mar 02 22:00 : client: [55] opened from [::1]:59140
+Mar 02 22:00 : client: [56] opened from 127.0.0.1:58492
+Mar 02 22:01 : player: played "K-Pop/KARD/Hola Hola/10 - KARD - Living Good (Inst.).flac"
+Mar 02 22:01 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:01 : client: [57] opened from [::1]:59160
+Mar 02 22:01 : client: Max connections reached
+Mar 02 22:01 : client: Max connections reached
+Mar 02 22:01 : client: Max connections reached
+Mar 02 22:01 : client: Max connections reached
+Mar 02 22:01 : client: Max connections reached
+Mar 02 22:01 : client: [57] closed
+Mar 02 22:01 : client: [58] opened from [::1]:59172
+Mar 02 22:01 : client: Max connections reached
+Mar 02 22:01 : client: Max connections reached
+Mar 02 22:01 : client: Max connections reached
+Mar 02 22:01 : client: [58] closed
+Mar 02 22:01 : client: [59] opened from [::1]:59180
+Mar 02 22:01 : client: [59] closed
+Mar 02 22:01 : client: [60] opened from [::1]:59182
+Mar 02 22:01 : client: [60] closed
+Mar 02 22:01 : client: [56] closed
+Mar 02 22:01 : client: [61] opened from [::1]:59186
+Mar 02 22:01 : client: [62] opened from 127.0.0.1:58538
+Mar 02 22:03 : client: [62] closed
+Mar 02 22:03 : client: [23] closed
+Mar 02 22:03 : client: [21] closed
+Mar 02 22:03 : client: [0] closed
+Mar 02 22:03 : client: [34] closed
+Mar 02 22:03 : client: [36] closed
+Mar 02 22:03 : client: [51] closed
+Mar 02 22:03 : client: [53] closed
+Mar 02 22:03 : client: [55] closed
+Mar 02 22:03 : client: [61] closed
+Mar 02 22:03 : client: [63] opened from [::1]:59204
+Mar 02 22:03 : client: [64] opened from 127.0.0.1:58556
+Mar 02 22:04 : player: played "K-Pop/Sik-K/Sik-K (식케이)-01-너의 밤 (Your Night) (Prod. BOYCOLD).mp3"
+Mar 02 22:04 : client: [65] opened from [::1]:59212
+Mar 02 22:04 : client: [65] closed
+Mar 02 22:04 : client: [66] opened from [::1]:59214
+Mar 02 22:04 : client: [66] closed
+Mar 02 22:04 : client: [67] opened from [::1]:59216
+Mar 02 22:04 : client: [67] closed
+Mar 02 22:04 : client: [68] opened from [::1]:59218
+Mar 02 22:04 : client: [68] closed
+Mar 02 22:04 : client: [69] opened from [::1]:59220
+Mar 02 22:04 : client: [69] closed
+Mar 02 22:04 : client: [70] opened from [::1]:59222
+Mar 02 22:04 : client: [70] closed
