@@ -20411,3 +20411,198 @@ Mar 02 22:46 : client: [277] opened from 127.0.0.1:59684
 Mar 02 22:46 : client: [277] closed
 Mar 02 22:47 : client: [278] opened from 127.0.0.1:59690
 Mar 02 22:47 : client: [278] closed
+Mar 02 22:48 : player: played "K-Pop/Vixx/빅스-02-Error.mp3"
+Mar 02 22:48 : client: [279] opened from [::1]:60346
+Mar 02 22:48 : client: [279] closed
+Mar 02 22:48 : client: [280] opened from [::1]:60348
+Mar 02 22:48 : client: [280] closed
+Mar 02 22:48 : client: [281] opened from [::1]:60350
+Mar 02 22:48 : client: [281] closed
+Mar 02 22:49 : client: [63] closed
+Mar 02 22:49 : client: [282] opened from [::1]:60354
+Mar 02 22:49 : client: [283] opened from 127.0.0.1:59706
+Mar 02 22:51 : player: played "K-Pop/4minute/01 - Crazy.mp3"
+Mar 02 22:51 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:51 : client: [284] opened from [::1]:60366
+Mar 02 22:51 : client: [284] closed
+Mar 02 22:51 : client: [285] opened from [::1]:60368
+Mar 02 22:51 : client: [285] closed
+Mar 02 22:51 : client: [286] opened from [::1]:60370
+Mar 02 22:51 : client: [286] closed
+Mar 02 22:55 : player: played "K-Pop/KARD/Hola Hola/06 - KARD - Living Good (Special thanks to.).flac"
+Mar 02 22:55 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:55 : client: [287] opened from [::1]:60380
+Mar 02 22:55 : client: [287] closed
+Mar 02 22:55 : client: [288] opened from [::1]:60382
+Mar 02 22:55 : client: [288] closed
+Mar 02 22:55 : client: [289] opened from [::1]:60384
+Mar 02 22:55 : client: [289] closed
+Mar 02 22:55 : client: [290] opened from [::1]:60386
+Mar 02 22:55 : client: [290] closed
+Mar 02 22:55 : client: [291] opened from [::1]:60388
+Mar 02 22:55 : client: [291] closed
+Mar 02 22:55 : client: [292] opened from [::1]:60390
+Mar 02 22:55 : client: [292] closed
+Mar 02 22:56 : client: [293] opened from [::1]:60406
+Mar 02 22:56 : client: [293] closed
+Mar 02 22:56 : client: [294] opened from [::1]:60408
+Mar 02 22:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:56 : client: [294] closed
+Mar 02 22:56 : client: [295] opened from [::1]:60410
+Mar 02 22:56 : client: [295] closed
+Mar 02 22:56 : client: [296] opened from [::1]:60412
+Mar 02 22:56 : client: [296] closed
+Mar 02 22:56 : client: [297] opened from [::1]:60414
+Mar 02 22:56 : client: [297] closed
+Mar 02 22:57 : client: [298] opened from [::1]:60418
+Mar 02 22:57 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 22:57 : client: [298] closed
+Mar 02 22:57 : client: [299] opened from [::1]:60420
+Mar 02 22:57 : client: [299] closed
+Mar 02 22:57 : client: [300] opened from [::1]:60422
+Mar 02 22:57 : client: [300] closed
+Mar 02 22:57 : client: [301] opened from [::1]:60424
+Mar 02 22:57 : client: [301] closed
+Mar 02 23:00 : player: played "K-Pop/KARD/Hola Hola/10 - KARD - Living Good (Inst.).flac"
+Mar 02 23:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 23:00 : client: [302] opened from [::1]:60526
+Mar 02 23:00 : client: [302] closed
+Mar 02 23:00 : client: [303] opened from [::1]:60528
+Mar 02 23:00 : client: [303] closed
+Mar 02 23:00 : client: [304] opened from [::1]:60530
+Mar 02 23:00 : client: [304] closed
+Mar 02 23:04 : player: played "K-Pop/2NE1/2NE1-01-내가 제일 잘 나가.mp3"
+Mar 02 23:04 : client: [305] opened from [::1]:60640
+Mar 02 23:04 : client: [305] closed
+Mar 02 23:04 : client: [306] opened from [::1]:60642
+Mar 02 23:04 : client: [306] closed
+Mar 02 23:04 : client: [307] opened from [::1]:60644
+Mar 02 23:04 : client: [307] closed
+Mar 02 23:04 : client: [308] opened from [::1]:60648
+Mar 02 23:04 : client: [308] closed
+Mar 02 23:04 : client: [309] opened from [::1]:60650
+Mar 02 23:04 : client: [309] closed
+Mar 02 23:04 : client: [310] opened from [::1]:60652
+Mar 02 23:04 : client: [310] closed
+Mar 02 23:04 : client: [311] opened from [::1]:60654
+Mar 02 23:04 : client: [311] closed
+Mar 02 23:04 : client: [312] opened from [::1]:60656
+Mar 02 23:04 : client: [312] closed
+Mar 02 23:04 : client: [313] opened from [::1]:60658
+Mar 02 23:04 : client: [313] closed
+Mar 02 23:04 : client: [314] opened from [::1]:60660
+Mar 02 23:04 : client: [314] closed
+Mar 02 23:04 : client: [315] opened from [::1]:60662
+Mar 02 23:04 : client: [315] closed
+Mar 02 23:04 : client: [316] opened from 127.0.0.1:60014
+Mar 02 23:04 : client: [316] closed
+Mar 02 23:04 : client: [317] opened from [::1]:60666
+Mar 02 23:04 : client: [317] closed
+Mar 02 23:04 : client: [318] opened from [::1]:60668
+Mar 02 23:04 : client: [318] closed
+Mar 02 23:04 : client: [319] opened from [::1]:60670
+Mar 02 23:04 : client: [319] closed
+Mar 02 23:05 : client: [320] opened from 127.0.0.1:60022
+Mar 02 23:05 : client: [320] closed
+Mar 02 23:05 : client: [321] opened from [::1]:60674
+Mar 02 23:05 : client: [321] closed
+Mar 02 23:05 : client: [322] opened from [::1]:60676
+Mar 02 23:05 : client: [322] closed
+Mar 02 23:05 : client: [323] opened from [::1]:60678
+Mar 02 23:05 : client: [323] closed
+Mar 02 23:05 : client: [324] opened from 127.0.0.1:60032
+Mar 02 23:05 : client: [324] closed
+Mar 02 23:05 : client: [325] opened from [::1]:60684
+Mar 02 23:05 : client: [325] closed
+Mar 02 23:05 : client: [326] opened from [::1]:60686
+Mar 02 23:05 : client: [326] closed
+Mar 02 23:05 : client: [327] opened from [::1]:60688
+Mar 02 23:05 : client: [327] closed
+Mar 02 23:07 : player: played "K-Pop/Hyuna/현아 (HyunA)-02-베베 (BABE).mp3"
+Mar 02 23:07 : client: [328] opened from [::1]:60694
+Mar 02 23:07 : client: [328] closed
+Mar 02 23:07 : client: [329] opened from [::1]:60696
+Mar 02 23:07 : client: [329] closed
+Mar 02 23:07 : client: [330] opened from [::1]:60698
+Mar 02 23:07 : client: [330] closed
+Mar 02 23:09 : client: [331] opened from [::1]:60702
+Mar 02 23:09 : client: [331] closed
+Mar 02 23:09 : client: [332] opened from [::1]:60704
+Mar 02 23:09 : client: [332] closed
+Mar 02 23:09 : client: [333] opened from [::1]:60706
+Mar 02 23:09 : client: [333] closed
+Mar 02 23:09 : client: [334] opened from [::1]:60708
+Mar 02 23:09 : client: [334] closed
+Mar 02 23:09 : client: [335] opened from [::1]:60710
+Mar 02 23:09 : client: [335] closed
+Mar 02 23:09 : client: [336] opened from [::1]:60712
+Mar 02 23:09 : client: [336] closed
+Mar 02 23:09 : client: [337] opened from [::1]:60714
+Mar 02 23:09 : client: [337] closed
+Mar 02 23:09 : client: [338] opened from [::1]:60716
+Mar 02 23:09 : client: [338] closed
+Mar 02 23:09 : client: [339] opened from 127.0.0.1:60070
+Mar 02 23:09 : client: [339] closed
+Mar 02 23:09 : client: [340] opened from [::1]:60722
+Mar 02 23:09 : client: [340] closed
+Mar 02 23:09 : client: [341] opened from [::1]:60724
+Mar 02 23:09 : client: [341] closed
+Mar 02 23:09 : client: [342] opened from [::1]:60726
+Mar 02 23:09 : client: [342] closed
+Mar 02 23:09 : client: [343] opened from [::1]:60728
+Mar 02 23:09 : client: [343] closed
+Mar 02 23:09 : client: [344] opened from [::1]:60730
+Mar 02 23:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 23:09 : client: [344] closed
+Mar 02 23:09 : client: [345] opened from [::1]:60732
+Mar 02 23:09 : client: [345] closed
+Mar 02 23:09 : client: [346] opened from [::1]:60734
+Mar 02 23:09 : client: [346] closed
+Mar 02 23:09 : client: [347] opened from [::1]:60736
+Mar 02 23:09 : client: [347] closed
+Mar 02 23:12 : player: played "K-Pop/Crayon Pop/Crayon Pop 1st Mini Album/03 - Bing Bing (Instrumental).mp3"
+Mar 02 23:12 : client: [348] opened from [::1]:60784
+Mar 02 23:12 : client: [348] closed
+Mar 02 23:12 : client: [349] opened from [::1]:60786
+Mar 02 23:12 : client: [349] closed
+Mar 02 23:12 : client: [350] opened from [::1]:60788
+Mar 02 23:12 : client: [350] closed
+Mar 02 23:13 : client: [283] closed
+Mar 02 23:13 : client: [282] closed
+Mar 02 23:13 : client: [351] opened from [::1]:60792
+Mar 02 23:13 : client: [352] opened from 127.0.0.1:60144
+Mar 02 23:14 : client: [353] opened from [::1]:60802
+Mar 02 23:14 : client: [353] closed
+Mar 02 23:14 : client: [354] opened from [::1]:60804
+Mar 02 23:14 : client: [354] closed
+Mar 02 23:14 : client: [355] opened from [::1]:60806
+Mar 02 23:14 : client: [355] closed
+Mar 02 23:14 : client: [356] opened from [::1]:60808
+Mar 02 23:14 : client: [356] closed
+Mar 02 23:14 : client: [357] opened from [::1]:60810
+Mar 02 23:14 : client: [357] closed
+Mar 02 23:14 : client: [358] opened from [::1]:60812
+Mar 02 23:14 : client: [358] closed
+Mar 02 23:15 : client: [352] closed
+Mar 02 23:15 : client: [351] closed
+Mar 02 23:15 : client: [359] opened from [::1]:60814
+Mar 02 23:15 : client: [360] opened from 127.0.0.1:60166
+Mar 02 23:15 : client: [361] opened from 127.0.0.1:60172
+Mar 02 23:15 : client: [361] closed
+Mar 02 23:15 : client: [362] opened from [::1]:60824
+Mar 02 23:15 : client: [362] closed
+Mar 02 23:15 : client: [363] opened from [::1]:60826
+Mar 02 23:15 : client: [363] closed
+Mar 02 23:15 : client: [364] opened from [::1]:60828
+Mar 02 23:15 : client: [364] closed
+Mar 02 23:15 : client: [365] opened from [::1]:60830
+Mar 02 23:15 : client: [365] closed
+Mar 02 23:15 : client: [366] opened from [::1]:60832
+Mar 02 23:15 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Mar 02 23:15 : client: [366] closed
+Mar 02 23:15 : client: [367] opened from [::1]:60834
+Mar 02 23:15 : client: [367] closed
+Mar 02 23:15 : client: [368] opened from [::1]:60836
+Mar 02 23:15 : client: [368] closed
+Mar 02 23:15 : client: [369] opened from [::1]:60838
+Mar 02 23:15 : client: [369] closed
