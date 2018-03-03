@@ -19361,3 +19361,24 @@ Mar 02 12:58 : exception: OutputThread could not get realtime scheduling, contin
 Mar 02 12:58 : client: [0] opened from [::1]:37720
 Mar 02 12:58 : client: [1] opened from 127.0.0.1:60076
 Mar 02 12:58 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 19:01 : client: [0] closed
+Mar 02 19:01 : client: [1] closed
+Mar 02 13:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 02 13:01 : client: [0] opened from [::1]:44438
+Mar 02 13:01 : client: [1] opened from 127.0.0.1:51814
+Mar 02 13:01 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Mar 02 19:17 : client: [1] closed
+Mar 02 19:17 : client: [2] opened from [::1]:44964
+Mar 02 19:17 : client: [3] opened from 127.0.0.1:52340
+Mar 02 19:21 : client: [3] closed
+Mar 02 19:21 : client: [4] opened from [::1]:45138
+Mar 02 19:21 : client: [5] opened from 127.0.0.1:52514
+Mar 02 19:22 : client: [5] closed
+Mar 02 19:22 : client: [6] opened from [::1]:45146
+Mar 02 19:22 : client: [7] opened from 127.0.0.1:52522
+Mar 02 19:28 : client: [7] closed
+Mar 02 19:28 : client: [8] opened from [::1]:45500
+Mar 02 19:28 : client: [9] opened from 127.0.0.1:52876
+Mar 02 19:29 : client: [9] closed
+Mar 02 19:29 : client: [10] opened from [::1]:45508
+Mar 02 19:29 : client: [11] opened from 127.0.0.1:52884
