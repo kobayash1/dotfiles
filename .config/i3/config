@@ -165,7 +165,7 @@ smart_borders on
 #for_window [class="^.*"] border pixel 0
 
 # Chromium
-bindsym $mod+c exec chromium
+bindsym $mod+c exec firefox
 
 # Multi-screen screenshots with scrot
 bindsym --release Print exec scrot 'Screenshot_%Y%m%d_%H%M%S.png' -e 'mkdir -p ~/Pictures/Screenshots && mv $f ~/Pictures/Screenshots && xclip -selection clipboard -t image/png -i ~/Pictures/Screenshots/`ls -1 -t ~/Pictures/Screenshots | head -1`' # All screens
@@ -214,7 +214,7 @@ client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 client.background       #ffffff
 
 # Start mpdcron
-exec --no-startup-id "killall mpdcron && mpdcron -n"
+exec_always --no-startup-id "killall mpdcron & mpdcron -n"
 
 # Autostart terminal and move to scratchpad
 for_window [title=">_"] move scratchpad
