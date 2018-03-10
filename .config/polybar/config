@@ -344,6 +344,7 @@ interval = 10
 format-padding = 1
 format-background = ${colors.background}
 exec = ~/.config/polybar/redshift.sh
+click-left = /home/kobayashi/Scripts/redshifttoggle
 
 [module/archupdates]
 type = custom/script
