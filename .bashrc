@@ -21,3 +21,4 @@ source /usr/lib/python3.6/site-packages/powerline/bindings/bash/powerline.sh
 alias rm='rm -i'
 alias bye='shutdown'
 alias s='startx'
+alias boot='systemd-analyze'
