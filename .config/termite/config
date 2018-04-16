@@ -40,4 +40,5 @@ color15 = #f5f5f5
 
 [options]
 
-font = Hack 10
+# font = Hack 10
+font = Iosevka Term 10
