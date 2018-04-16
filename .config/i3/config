@@ -160,11 +160,11 @@ bindsym $mod+r mode "resize"
 # gaps
 gaps inner 10
 gaps outer -5
-smart_borders on
+#smart_borders on
 #smart_gaps on
 #for_window [class="^.*"] border pixel 0
 
-# Chromium
+# Firefox
 bindsym $mod+c exec firefox
 
 # Multi-screen screenshots with scrot
