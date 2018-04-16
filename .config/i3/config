@@ -180,7 +180,7 @@ exec_always --no-startup-id "feh --bg-fill Pictures/Wallpapers/default"
 exec --no-startup-id "allow_rgb10_configs=false compton -b --config ~/.config/compton/compton.conf"
 
 # Use rofi
-# bindsym $mod+d exec rofi -show run -lines 5 -width 100 -padding 300 -fullscreen -opacity "85" -font "Roboto 50" -separator-style "none"
+# bindsym $mod+d exec rofi -show run -lines 5 -width 100 -padding 300 -fullscreen -color-normal "#66000000,#ffdfdfdf,#66000000,#ffdfdfdf,#66808080" -font "Iosevka Term 20" -separator-style "none"
 
 # Use polybar
 exec_always --no-startup-id /home/kobayashi/.config/polybar/launch.sh

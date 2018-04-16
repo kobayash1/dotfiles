@@ -12,6 +12,7 @@ ln -sv ~/.dotfiles/.config/mpv/* ~/.config/mpv/
 ln -sv ~/.dotfiles/.config/polybar/* ~/.config/polybar/
 ln -sv ~/.dotfiles/.config/termite/* ~/.config/termite/
 ln -sv ~/.dotfiles/.config/redshift.conf ~/.config/
+ln -sv ~/.dotfiles/.config/rofi/config ~/.config/rofi/
 ln -sv ~/.dotfiles/.irssi/* ~/.irssi/
 cp ~/.dotfiles/.config/gsimplecal/* ~/.config/gsimplecal/
 cp ~/.dotfiles/.config/mpdnotify.conf ~/.config/
