@@ -174,7 +174,7 @@ bindsym --release Print exec scrot 'Screenshot_%Y%m%d_%H%M%S.png' -e 'mkdir -p ~
 bindsym --release Shift+Print exec scrot -s 'Screenshot_%Y%m%d_%H%M%S.png' -e 'mkdir -p ~/Pictures/Screenshots && mv $f ~/Pictures/Screenshots && xclip -selection clipboard -t image/png -i ~/Pictures/Screenshots/`ls -1 -t ~/Pictures/Screenshots | head -1`' # Area selection
 
 # Set wallpaper
-exec --no-startup-id "feh --bg-fill Pictures/Wallpapers/default"
+exec_always --no-startup-id "feh --bg-fill Pictures/Wallpapers/default"
 
 # Use compton
 exec --no-startup-id "allow_rgb10_configs=false compton -b --config ~/.config/compton/compton.conf"
@@ -214,7 +214,7 @@ client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 client.background       #ffffff
 
 # Start mpdcron
-exec_always --no-startup-id "mpdcron -n"
+exec --no-startup-id "mpdcron -n"
 
 # Autostart terminal and move to scratchpad
 for_window [title=">_"] move scratchpad
