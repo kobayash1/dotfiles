@@ -19,3 +19,7 @@ runtime! archlinux.vim
 set rtp+=/usr/lib/python3.6/site-packages/powerline/bindings/vim
 syntax on
 set laststatus=2
+
+" Settings needed for vimwiki
+set nocompatible
+filetype plugin on

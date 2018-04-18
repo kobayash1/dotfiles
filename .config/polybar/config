@@ -162,8 +162,8 @@ interval = 2
 
 format-online = %{A1:mpc prev:}%{A2:mpc toggle:}%{A3:mpc next:}<icon-prev>%{A}%{A}%{A}%{A1:mpdnotify:}<label-song>%{A}
 
-label = "%output:0:45:...%"
-label-song = %title%
+label = %output%
+label-song = %title:0:60:...%
 label-song-background = ${colors.background}
 label-song-padding-right = 1
 
