@@ -10,19 +10,15 @@
 ! == Rofi settings ==
 rofi.font:		Hack 18
 rofi.separator-style:	none
-! rofi.color-enabled:	true
+rofi.color-enabled:	true
 rofi.fullscreen:	false
 rofi.lines:		5
 rofi.hide-scrollbar:	true
 
 !                  bg       border   separator
-! rofi.color-window: #66000000, #dfdfdf, #dfdfdf
-rofi.color-window: #66ffffff, #66ffffff, #dfdfdf
+rofi.color-window: #e5ffffff, #e5ffffff, #dfdfdf
 
 !                  bg       fg       bg-alt   hl-bg    hl-fg
-! rofi.color-normal: #66000000, #dfdfdf, #66000000, #66808080, #fec553
-rofi.color-normal: #66ffffff, #1d1e1e, #66ffffff, #66ffffff, #fec553
-! rofi.color-active: #66000000, #dfdfdf, #66000000, #66808080, #fec553
-! rofi.color-urgent: #66000000, #dfdfdf, #66000000, #66808080, #fec553
-rofi.color-active: #66ffffff, #1d1e1e, #66ffffff, #66ffffff, #fec553
-rofi.color-urgent: #66ffffff, #1d1e1e, #66ffffff, #66ffffff, #fec553
+rofi.color-normal: #00ffffff, #1d1e1e, #00ffffff, #00ffffff, #fec553
+rofi.color-active: #00ffffff, #1d1e1e, #00ffffff, #00ffffff, #fec553
+rofi.color-urgent: #00ffffff, #1d1e1e, #00ffffff, #00ffffff, #fec553
