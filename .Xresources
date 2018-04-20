@@ -1,0 +1,8 @@
+! General Colors
+! Need full path here
+! Default colors:
+! #include "/home/kobayashi/.colors/default"
+! linux is the key
+! #include "/home/kobayashi/.colors/linuxisthekey"
+! less is more
+#include "/home/kobayashi/.colors/lessismore"

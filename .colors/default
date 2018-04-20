@@ -1,5 +1,18 @@
-! Enable the extended coloring options
-rofi.color-enabled: true
+! Original colors
+
+*background: #66000000
+*foreground: #dfdfdf
+*color1: #dfdfdf
+*color2: #e60053
+*color3: #bd2c40
+
+! == Rofi settings ==
+rofi.font:		Hack 18
+rofi.separator-style:	none
+rofi.color-enabled:	true
+rofi.fullscreen:	false
+rofi.lines:		5
+rofi.hide-scrollbar:	true
 
 !                  bg       border   separator
 rofi.color-window: #66000000, #dfdfdf, #dfdfdf

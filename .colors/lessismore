@@ -1,0 +1,24 @@
+! Linux is the key
+
+*background: #ffffff
+*foreground: #1d1e1e
+*color1: #fec553
+*color2: #e60053
+*color3: #bd2c40
+*cursorColor: #fec553
+
+! == Rofi settings ==
+rofi.font:		Hack 18
+rofi.separator-style:	none
+! rofi.color-enabled:	true
+rofi.fullscreen:	false
+rofi.lines:		5
+rofi.hide-scrollbar:	true
+
+!                  bg       border   separator
+rofi.color-window: #66000000, #dfdfdf, #dfdfdf
+
+!                  bg       fg       bg-alt   hl-bg    hl-fg
+rofi.color-normal: #66000000, #dfdfdf, #66000000, #66808080, #fec553
+rofi.color-active: #66000000, #dfdfdf, #66000000, #66808080, #fec553
+rofi.color-urgent: #66000000, #dfdfdf, #66000000, #66808080, #fec553
