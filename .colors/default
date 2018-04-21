@@ -5,6 +5,7 @@
 *color1: #dfdfdf
 *color2: #e60053
 *color3: #bd2c40
+*color4: #2e9ef4
 
 ! == Rofi settings ==
 rofi.font:		Hack 18

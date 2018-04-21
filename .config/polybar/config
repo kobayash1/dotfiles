@@ -17,9 +17,9 @@
 # alert = #bd2c40
 background = ${xrdb:background}
 foreground = ${xrdb:foreground}
-primary = ${xrdb:color1}
-secondary = ${xrdb:color2}
-alert = ${xrdb:color3}
+primary = ${xrdb:color3}
+secondary = ${xrdb:color4}
+alert = ${xrdb:alert}
 
 [bar/top]
 width = 100%

@@ -4,7 +4,11 @@
 *color1: #ffffff
 *color2: #1d1e1e
 *color3: #fec553
+*color4: #2e9ef4
 *cursorColor: #fec553
+
+! == For polybar alert ==
+*alert: #ff0000
 
 ! == For i3 inactive window borders ==
 *translucent: #ffffffe5
