@@ -1,11 +1,13 @@
-! Linux is the key
-
+! == Linux is the key ==
 *background: #ffffff
 *foreground: #1d1e1e
-*color1: #fec553
-*color2: #e60053
-*color3: #bd2c40
+*color1: #ffffff
+*color2: #1d1e1e
+*color3: #fec553
 *cursorColor: #fec553
+
+! == For i3 inactive window borders ==
+*translucent: #ffffffe5
 
 ! == Rofi settings ==
 rofi.font:		Hack 18
@@ -14,10 +16,8 @@ rofi.color-enabled:	true
 rofi.fullscreen:	false
 rofi.lines:		5
 rofi.hide-scrollbar:	true
-
 !                  bg       border   separator
 rofi.color-window: #e5ffffff, #e5ffffff, #dfdfdf
-
 !                  bg       fg       bg-alt   hl-bg    hl-fg
 rofi.color-normal: #00ffffff, #1d1e1e, #00ffffff, #00ffffff, #fec553
 rofi.color-active: #00ffffff, #1d1e1e, #00ffffff, #00ffffff, #fec553

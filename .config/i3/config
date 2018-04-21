@@ -1,3 +1,13 @@
+# Set colors
+set_from_resource $bg background #000000
+set_from_resource $fg foreground #000000
+set_from_resource $color1 color1 #000000
+set_from_resource $color2 color2 #000000
+set_from_resource $color3 color3 #000000
+set_from_resource $translucent translucent #000000
+set $indicator #2e9ef4
+set $urgent #ff0000
+
 # Super key as mod
 set $mod Mod4
 
@@ -171,13 +181,18 @@ bindsym $mod+z scratchpad show
 bindsym $mod+shift+x exec betterlockscreen --lock dimblur
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #4c7899 #285577 #ffffff #2e9ef4   #dfdfdf
-client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
-client.unfocused        #333333 #222222 #888888 #292d2e   #222222
-client.urgent           #2f343a #900000 #ffffff #900000   #900000
-client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
+# client.focused          #4c7899 #285577 #ffffff #2e9ef4   #dfdfdf
+# client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
+# client.unfocused        #333333 #222222 #888888 #292d2e   #222222
+# client.urgent           #2f343a #900000 #ffffff #900000   #900000
+# client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
+client.focused          $translucent	$bg	$fg	$indicator	$color3
+client.focused_inactive	$translucent	$bg	$fg	$indicator	$translucent
+client.unfocused	$translucent	$bg	$fg	$indicator	$translucent
+client.urgent           $urgent	$bg	$fg	$indicator	$urgent
+client.placeholder      $translucent	$bg	$fg	$indicator	$translucent
 
-client.background       #ffffff
+client.background	$bg
 
 # Start mpdcron
 exec --no-startup-id "mpdcron -n"
