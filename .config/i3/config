@@ -203,3 +203,9 @@ exec --no-startup-id "mpdcron -n"
 # Autostart terminal and move to scratchpad
 for_window [title=">_"] move scratchpad
 exec --no-startup-id termite -t ">_" 
+
+# Use Dunst
+# Default
+# exec --no-startup-id "dunst"
+# Less is more theme
+exec --no-startup-id "dunst -config /home/kobayashi/.config/dunst/lessismore"
