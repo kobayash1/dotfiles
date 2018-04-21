@@ -8,7 +8,7 @@
 *cursorColor: #fec553
 
 ! == For polybar alert ==
-*alert: #ff0000
+*alert: #800000
 
 ! == For i3 inactive window borders ==
 *translucent: #ffffffe5
