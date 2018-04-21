@@ -1,5 +1,18 @@
 #!/bin/sh
 
+mkdir ~/.colors
+mkdir ~/.config
+mkdir ~/.irssi
+mkdir ~/.mpdcron
+mkdir ~/.config/compton
+mkdir ~/.config/i3
+mkdir ~/.config/mpd
+mkdir ~/.config/mpv
+mkdir ~/.config/polybar
+mkdir ~/.config/termite
+mkdir ~/.config/gsimplecal
+mkdir ~/.config/dunst
+
 ln -sv ~/.dotfiles/.bashrc ~
 ln -sv ~/.dotfiles/.bash_profile ~
 ln -sv ~/.dotfiles/.conkyrc ~
