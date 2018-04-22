@@ -28,7 +28,8 @@ ln -sv ~/.dotfiles/.vimrc ~
 ln -sv ~/.dotfiles/.xbindkeysrc ~
 ln -sv ~/.dotfiles/.Xresources ~
 
-cp ~/.dotfiles/.config/dunst/dunstrc ~/.config/dunst/
-cp ~/.dotfiles/.config/gsimplecal/* ~/.config/gsimplecal/
-cp ~/.dotfiles/.config/mpdnotify.conf ~/.config/
+ln -v ~/.dotfiles/.config/dunst/* ~/.config/dunst/
+ln -v ~/.dotfiles/.config/gsimplecal/* ~/.config/gsimplecal/
+ln -v ~/.dotfiles/.config/mpdnotify.conf ~/.config/
+
 cp -r ~/.dotfiles/.mpdcron ~/
