@@ -4,8 +4,10 @@
 *foreground: #dfdfdf
 *color1: #dfdfdf
 *color2: #e60053
-*color3: #bd2c40
-*color4: #2e9ef4
+*color3: #dfdfdf
+
+! == For polybar alert ==
+*alert: #800000
 
 ! == Rofi settings ==
 rofi.font:		Hack 18
