@@ -1,3 +1,4 @@
 All my important dotfiles and a very crude installer script.
 
-*** test changee for repo name change ***
+*** test change for repo name change ***
+*** another test change ***
